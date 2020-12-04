@@ -12,29 +12,39 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 
 ## Papers
-### Review Papers
 
-- Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems by Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. [[arXiv2020](https://arxiv.org/abs/2005.01643)]
+```
+format: **title** by authors. [links]
+```
+### Review Papers
+---
+
+- **Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems** by Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. [[arXiv2020](https://arxiv.org/abs/2005.01643)]
 
 ### Offline RL: Theory/Methods
+---
 
-### Offline RL: Benchmarks
+- Conservative Q-Learning for Offline Reinforcement Learning by Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. [[NeurIPS2020](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html)] [[website](https://sites.google.com/view/cql-offline-rl)]
+### Offline RL: Benchmarks/Experiments
+---
 
 - An Optimistic Perspective on Offline Reinforcement Learning by Rishabh Agarwal, Dale Schuurmans, and Mohammad Norouzi. [[ICML2020](https://proceedings.icml.cc/paper/2020/hash/ab013ca67cf2d50796b0c11d1b8bc95d-Abstract.html)] [[website](https://offline-rl.github.io/)]
 - Large-scale Open Dataset, Pipeline, and Benchmark for Bandit Algorithms, by Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. [[arXiv2020](https://arxiv.org/abs/2008.07146)] [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
 
 ### Off-Policy Evaluation: Theory/Methods
-
+---
 #### Contextual Bandits
 
-- Optimal Off-Policy Evaluation from Multiple Logging Policies, by Nathan Kallus, Yuta Saito, and Masatoshi Uehara. [[arXiv2020](https://arxiv.org/abs/2010.11002)] [[code](https://github.com/CausalML/MultipleLoggers)]
-- Efficient Counterfactual Learning from Bandit Feedback, by Yusuke Narita, Shota Yasui, and Kohei Yata. [[AAAI2019](https://arxiv.org/abs/1809.03084)]
+- **Optimal Off-Policy Evaluation from Multiple Logging Policies** by Nathan Kallus, Yuta Saito, and Masatoshi Uehara. [[arXiv2020](https://arxiv.org/abs/2010.11002)] [[code](https://github.com/CausalML/MultipleLoggers)]
+- **Efficient Counterfactual Learning from Bandit Feedback** by Yusuke Narita, Shota Yasui, and Kohei Yata. [[AAAI2019](https://arxiv.org/abs/1809.03084)]
+- Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms, by Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. [[WSDM2011](https://dl.acm.org/doi/10.1145/1935826.1935878)]
 #### Reinforcement Learning
 
 
 ### Applications
+---
 
-
+### Open Source Software
 
 ## Workshops
 
