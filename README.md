@@ -23,6 +23,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 ### Offline RL: Theory/Methods
 
+- [Efficient Evaluation of Natural Stochastic Policies in Offline Reinforcement Learning](https://arxiv.org/abs/2006.03886) by Nathan Kallus and Masatoshi Uehara, arXiv2020. [[code](https://github.com/CausalML/NaturalStochasticOPE)]
 - [Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies](https://papers.nips.cc/paper/2020/hash/75df63609809c7a2052fdffe5c00a84e-Abstract.html) by Nathan Kallus and Masatoshi Uehara, NeurIPS2020.
 - [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) by Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine, NeurIPS2020. [[website](https://sites.google.com/view/cql-offline-rl)]
 - [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://papers.nips.cc/paper/2019/hash/c2073ffa77b5357a498057413bb09d3a-Abstract.html) by Aviral Kumar, Justin Fu, George Tucker,  and Sergey Levine, NeurIPS2019. [[website](https://sites.google.com/view/bear-off-policyrl)]
@@ -34,6 +35,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ### Off-Policy Evaluation: Theory/Methods
 #### Contextual Bandits
 
+- [Bandit Overfitting in Offline Policy Learning](https://arxiv.org/abs/2006.15368) by David Brandfonbrener, William F. Whitney, Rajesh Ranganath, and Joan Bruna, arXiv2020.
 - [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) by Nathan Kallus, Yuta Saito, and Masatoshi Uehara, arXiv2020. [[code](https://github.com/CausalML/MultipleLoggers)]
 - [A Practical Guide of Off-Policy Evaluation for Bandit Problems](https://arxiv.org/abs/2010.12470) by Masahiro Kato, Kenshi Abe, Kaito Ariu, and Shota Yasui, arXiv2020.
 - [Off-Policy Evaluation and Learning for External Validity under a Covariate Shift](https://papers.nips.cc/paper/2020/hash/0084ae4bc24c0795d1e6a4f58444d39b-Abstract.html) by Masatoshi Uehara, Masahiro Kato, and Shota Yasui, NeurIPS2020.
@@ -41,7 +43,11 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Off-policy Bandits with Deficient Support](https://dl.acm.org/doi/abs/10.1145/3394486.3403139) by Noveen Sachdeva, Yi Su, and Thorsten Joachims, KDD2020.
 - [Doubly robust off-policy evaluation with shrinkage](http://proceedings.mlr.press/v119/su20a.html) by Yi Su, Maria Dimakopoulou, Akshay Krishnamurthy, and Miroslav Dudik, ICML2020.
 - [Adaptive Estimator Selection for Off-Policy Evaluation](http://proceedings.mlr.press/v119/su20d.html) by Yi Su, Pavithra Srinath, and Akshay Krishnamurthy, ICML2020.
+- [Off-policy Bandit and Reinforcement Learning](https://arxiv.org/abs/2002.08536) by Yusuke Narita, Shota Yasui, and Kohei Yata, arXiv2020.
 - [Distributionally Robust Policy Evaluation and Learning in Offline Contextual Bandits](http://proceedings.mlr.press/v119/si20a.html) by Nian Si, Fan Zhang, Zhengyuan Zhou, and Jose Blanchet, ICML2020.
+- [Efficient Policy Learning from Surrogate-Loss Classification Reductions](http://proceedings.mlr.press/v119/bennett20a.html) by Andrew Bennett and Nathan Kallus, ICML2020. [[code](https://github.com/CausalML/ESPRM)]
+- [More Efficient Policy Learning via Optimal Retargeting](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1788948?journalCode=uasa20) by Nathan Kallus, JASA2020.
+- [Semi-Parametric Efficient Policy Learning with Continuous Actions](https://papers.nips.cc/paper/2019/hash/08b7dc6e8b36bcaac15847827b7951a9-Abstract.html) by Victor Chernozhukov, Mert Demirer, Greg Lewis, and Vasilis Syrgkanis, NeurIPS2019.
 - [Balanced Off-Policy Evaluation in General Action Spaces](http://proceedings.mlr.press/v108/sondhi20a.html) by Arjun Sondhi, David Arbour, and Drew Dimmery, AISTATS2019.
 - [Policy Evaluation with Latent Confounders via Optimal Balance](https://papers.nips.cc/paper/2019/hash/7c4bf50b715509a963ce81b168ca674b-Abstract.html) by Andrew Bennett and Nathan Kallus, NeuIPS2019.
 - [Focused Context Balancing for Robust Offline Policy Evaluation](https://dl.acm.org/doi/10.1145/3292500.3330852) by Hao Zou, Kun Kuang, Boqi Chen, Peixuan Chen, and Peng Cui, KDD2019.
@@ -49,6 +55,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [CAB: Continuous Adaptive Blending for Policy Evaluation and Learning](http://proceedings.mlr.press/v97/su19a.html) by Yi Su, Lequn Wang, Michele Santacatterina, and Thorsten Joachims, ICML2019.
 - [Efficient Counterfactual Learning from Bandit Feedback](https://arxiv.org/abs/1809.03084) by Yusuke Narita, Shota Yasui, and Kohei Yata, AAAI2019.
 - [Policy Evaluation and Optimization with Continuous Treatments](http://proceedings.mlr.press/v84/kallus18a.html) by Nathan Kallus and Angela Zhou, AISTATS2019.
+- [Offline Evaluation of Ranking Policies with Click Models](https://dl.acm.org/doi/10.1145/3219819.3220028) by Shuai Li, Yasin Abbasi-Yadkori, Branislav Kveton, S. Muthukrishnan, Vishwa Vinay, and Zheng Wen, KDD2018.
 - [Effective Evaluation using Logged Bandit Feedback from Multiple Loggers](https://arxiv.org/abs/1703.06180) by Aman Agarwal, Soumya Basu, Tobias Schnabel, and Thorsten Joachims, KDD2018.
 - [Deep Learning with Logged Bandit Feedback](https://openreview.net/forum?id=SJaP_-xAb) by Thorsten Joachims, Adith Swaminathan, and Maarten de Rijke, ICLR2018.
 - [Off-policy Evaluation for Slate Recommendation](https://papers.nips.cc/paper/2017/hash/5352696a9ca3397beb79f116f3a33991-Abstract.html) by Adith Swaminathan, Akshay Krishnamurthy, Alekh Agarwal, Miroslav Dudík, John Langford, Damien Jose, and Imed Zitouni, NeurIPS2017.
@@ -59,6 +66,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](https://dl.acm.org/doi/10.1145/1935826.1935878) by Lihong Li, Wei Chu, John Langford, and Xuanhui Wang, WSDM2011.
 #### Reinforcement Learning
 
+- [Optimal Mixture Weights for Off-Policy Evaluation with Multiple Behavior Policies](https://arxiv.org/abs/2011.14359) by Jinlin Lai, Lixin Zou, and Jiaxing Song, arXiv2020.
 - [Kernel Methods for Policy Evaluation: Treatment Effects, Mediation Analysis, and Off-Policy Planning](https://arxiv.org/abs/2010.04855) by Rahul Singh, Liyuan Xu, and Arthur Gretton, arXiv2020.
 - [Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding](https://papers.nips.cc/paper/2020/hash/da21bae82c02d1e2b8168d57cd3fbab7-Abstract.html) by Hongseok Namkoong, Ramtin Keramati, Steve Yadlowsky, and Emma Brunskill, NeurIPS2020.
 - [CoinDICE: Off-Policy Confidence Interval Estimation](https://papers.nips.cc/paper/2020/hash/6aaba9a124857622930ca4e50f5afed2-Abstract.html) by Bo Dai, Ofir Nachum, Yinlam Chow, Lihong Li, Csaba Szepesvari, and Dale Schuurmans, NeurIPS2020.
@@ -78,6 +86,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Minimax Weight and Q-Function Learning for Off-Policy Evaluation](http://proceedings.mlr.press/v119/uehara20a.html) by Masatoshi Uehara, Jiawei Huang, and Nan Jiang, ICML2020.
 - [Accountable Off-Policy Evaluation With Kernel Bellman Statistics](http://proceedings.mlr.press/v119/feng20d.html) by Yihao Feng, Tongzheng Ren, Ziyang Tang, and Qiang Liu, ICML2020.
 - [Asymptotically Efficient Off-Policy Evaluation for Tabular Reinforcement Learning](http://proceedings.mlr.press/v108/yin20b.html) by Ming Yin and Yu-Xiang Wang, ICML2020.
+- [Efficiently Breaking the Curse of Horizon in Off-Policy Evaluation with Double Reinforcement Learning](https://arxiv.org/abs/1909.05850) by Nathan Kallus and Masatoshi Uehara, arXiv2019.
 - [Off-Policy Evaluation in Partially Observable Environments](https://ojs.aaai.org//index.php/AAAI/article/view/6590) by Guy Tennenholtz, Uri Shalit, and Shie Mannor, AAAI2019.
 - [Intrinsically Efficient, Stable, and Bounded Off-Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/1906.03735) by Nathan Kallus, Masatoshi Uehara, NeurIPS2019.
 - [Towards Optimal Off-Policy Evaluation for Reinforcement Learning with Marginalized Importance Sampling](https://papers.nips.cc/paper/2019/hash/4ffb0d2ba92f664c2281970110a2e071-Abstract.html) by Tengyang Xie, Yifei Ma, and Yu-Xiang Wang, NeuIPS2019.
