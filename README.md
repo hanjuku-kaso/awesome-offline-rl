@@ -35,6 +35,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ### Off-Policy Evaluation: Theory/Methods
 #### Contextual Bandits
 
+- [Off-Policy Evaluation of Slate Policies under Bayes Risk](https://arxiv.org/abs/2101.02553) by Nikos Vlassis, Fernando Amat Gil, and Ashok Chandrashekar, arXiv2021.
 - [Bandit Overfitting in Offline Policy Learning](https://arxiv.org/abs/2006.15368) by David Brandfonbrener, William F. Whitney, Rajesh Ranganath, and Joan Bruna, arXiv2020.
 - [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) by Nathan Kallus, Yuta Saito, and Masatoshi Uehara, arXiv2020. [[code](https://github.com/CausalML/MultipleLoggers)]
 - [A Practical Guide of Off-Policy Evaluation for Bandit Problems](https://arxiv.org/abs/2010.12470) by Masahiro Kato, Kenshi Abe, Kaito Ariu, and Shota Yasui, arXiv2020.
@@ -66,6 +67,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](https://dl.acm.org/doi/10.1145/1935826.1935878) by Lihong Li, Wei Chu, John Langford, and Xuanhui Wang, WSDM2011.
 #### Reinforcement Learning
 
+- [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808) by Shangtong Zhang, Yi Wan, Richard S. Sutton, and Shimon Whiteson, arXiv2021.
 - [Optimal Mixture Weights for Off-Policy Evaluation with Multiple Behavior Policies](https://arxiv.org/abs/2011.14359) by Jinlin Lai, Lixin Zou, and Jiaxing Song, arXiv2020.
 - [Kernel Methods for Policy Evaluation: Treatment Effects, Mediation Analysis, and Off-Policy Planning](https://arxiv.org/abs/2010.04855) by Rahul Singh, Liyuan Xu, and Arthur Gretton, arXiv2020.
 - [Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding](https://papers.nips.cc/paper/2020/hash/da21bae82c02d1e2b8168d57cd3fbab7-Abstract.html) by Hongseok Namkoong, Ramtin Keramati, Steve Yadlowsky, and Emma Brunskill, NeurIPS2020.
@@ -120,16 +122,24 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 ### Open Source Software
 
-## Workshops
+## Related Workshops
 
 - [Reinforcement Learning Day 2021](https://www.microsoft.com/en-us/research/event/reinforcement-learning-day-2021/)
 - [Offline Reinforcement Learning Workshop (NeurIPS 2020)](https://offline-rl-neurips.github.io/)
 - [Reinforcement Learning from Batch Data and Simulation](https://simons.berkeley.edu/workshops/schedule/14240)
 - [Virtual Conference on Reinforcement Learning for Real Life (RL4RealLife 2020)](https://sites.google.com/view/RL4RealLife)
+- [Safety and Robustness in Decision Making (NeurIPS 2019)](https://sites.google.com/view/neurips19-safe-robust-workshop)
 
 ## Tutorials/Talks/Lectures
 
+- [Offline RL](https://slideslive.com/38938455/offline-rl) by Nando de Freitas, NeurIPS2020 OfflineRL Workshop.
+- [Learning a Multi-Agent Simulator from Offline Demonstrations](https://slideslive.com/38938458/learning-a-multiagent-simulator-from-offline-demonstrations) by Brandyn White, NeurIPS2020 OfflineRL Workshop.
+- [Towards Reliable Validation and Evaluation for Offline RL](https://slideslive.com/38938459/towards-reliable-validation-and-evaluation-for-offline-rl) by Nan Jiang, NeurIPS2020 OfflineRL Workshop.
+- [Batch RL Models Built for Validation](https://slideslive.com/38938457/batch-rl-models-built-for-validation) by Finale Doshi-Velez, NeurIPS2020 OfflineRL Workshop.
 - [Offline Reinforcement Learning: From Algorithms to Practical Challenges](https://sites.google.com/view/offlinerltutorial-neurips2020/home) by Aviral Kumar and Sergey Levine, NeurIPS2020.
 - [Statistically Efficient Offline Reinforcement Learning](https://youtu.be/n5ZoxT_WmHo) by Nathan Kallus, ARL Seminor2020.
 - [Near Optimal Provable Uniform Convergence in Off-Policy Evaluation for Reinforcement Learning](https://youtu.be/FWZewbQykv4) by Yu-Xiang Wang, RL Theory Seminar2020.
 - [Minimax-Optimal Off-Policy Evaluation with Linear Function Approximation](https://youtu.be/TX9KBofFZ8s) by Mengdi Wang, RL Theory Seminar2020.
+- [Combining Statistical methods with Human Input for Evaluation and Optimization in Batch Settings](https://slideslive.com/38922630/combining-statistical-methods-with-human-input-for-evaluation-and-optimization-in-batch-settings) by Finale Doshi-Velez, NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
+- [Efficiently Breaking the Curse of Horizon with Double Reinforcement Learning](https://slideslive.com/38922636/efficiently-breaking-the-curse-of-horizon-with-double-reinforcement-learning) by Nathan Kallus, NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
+- [Scaling Probabilistically Safe Learning to Robotics](https://slideslive.com/38922637/scaling-probabilistically-safe-learning-to-robotics?locale=en) by Scott Niekum, NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
