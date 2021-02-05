@@ -22,14 +22,26 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643) by Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu, arXiv2020.
 
 ### Offline RL: Theory/Methods
-
+- [Batch Reinforcement Learning Through Continuation Method](https://openreview.net/forum?id=po-DLlBuAuz) by Yijie Guo, Shengyu Feng, Nicolas Le Roux, Ed Chi, Honglak Lee and Minmin Chen, ICLR2021.
+- [Model-Based Visual Planning with Self-Supervised Functional Distances](https://openreview.net/forum?id=UcoXdfrORC) by Stephen Tian, Suraj Nair, Frederik Ebert, Sudeep Dasari, Benjamin Eysenbach, Chelsea Finn and Sergey Levine, ICLR2021.
+- [Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization](https://openreview.net/forum?id=3hGNqpI4WS) by Tatsuya Matsushima, Hiroki Furuta, Yutaka Matsuo, Ofir Nachum and Shixiang Gu, ICLR2021.
 - [Efficient Evaluation of Natural Stochastic Policies in Offline Reinforcement Learning](https://arxiv.org/abs/2006.03886) by Nathan Kallus and Masatoshi Uehara, arXiv2020. [[code](https://github.com/CausalML/NaturalStochasticOPE)]
 - [Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies](https://papers.nips.cc/paper/2020/hash/75df63609809c7a2052fdffe5c00a84e-Abstract.html) by Nathan Kallus and Masatoshi Uehara, NeurIPS2020.
+- [Provably Good Batch Off-Policy Reinforcement Learning Without Great Exploration](https://papers.nips.cc/paper/2020/hash/0dc23b6a0e4abc39904388dd3ffadcd1-Abstract.html) by Yao Liu, Adith Swaminathan, Alekh Agarwal and Emma Brunskill, NeurIPS2020.
 - [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) by Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine, NeurIPS2020. [[website](https://sites.google.com/view/cql-offline-rl)]
-- [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://papers.nips.cc/paper/2019/hash/c2073ffa77b5357a498057413bb09d3a-Abstract.html) by Aviral Kumar, Justin Fu, George Tucker,  and Sergey Levine, NeurIPS2019. [[website](https://sites.google.com/view/bear-off-policyrl)]
-### Offline RL: Benchmarks/Experiments/Applications
+- [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://papers.nips.cc/paper/2019/hash/c2073ffa77b5357a498057413bb09d3a-Abstract.html) by Aviral Kumar, Justin Fu, George Tucker,  and Sergey Levine, NeurIPS2019. [[website](https://sites.google.com/view/bear-off-policyrl)] [[code](https://github.com/aviralkumar2907/BEAR)]
+- [Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog](https://arxiv.org/abs/1907.00456) by Natasha Jaques, Asma Ghandeharioun, Judy Hanwen Shen, Craig Ferguson, Agata Lapedriza, Noah Jones, Shixiang Gu and Rosalind Picard, arXiv2019.
+- [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/abs/1911.11361) by Yifan Wu, George Tucker and Ofir Nachum, arXiv2019.
+- [Deep Exploration via Bootstrapped DQN](https://papers.nips.cc/paper/2016/hash/8d8818c8e140c64c743113f563cf750f-Abstract.html) by Ian Osband, Charles Blundell, Alexander Pritzel and Benjamin Van Roy, NeurIPS2016.
+- [Guided Policy Search](http://proceedings.mlr.press/v28/levine13.html) by Sergey Levine and Vladlen Koltun, ICML2013.
 
+### Offline RL: Benchmarks/Experiments/Applications
+- [Near Real-World Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2102.00714) by Rongjun Qin, Songyi Gao, Xingyuan Zhang, Zhen Xu, Shengkai Huang, Zewen Li, Weinan Zhang and Yang Yu, arXiv2021. [[website](http://polixir.ai/research/newrl)]
+- [Offline Reinforcement Learning Hands-On](https://arxiv.org/abs/2011.14379) by Louis Monier, Jakub Kmec, Alexandre Laterre, Thomas Pierrot, Valentin Courgeau, Olivier Sigaud, Karim Beguir, arXiv2020.
+- [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) by Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker and Sergey Levine, arXiv2020. [[code](https://github.com/rail-berkeley/d4rl)]
+- [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) by Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess and Nando de Freitas, arXiv2020. [[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged)]
 - [An Optimistic Perspective on Offline Reinforcement Learning](https://proceedings.icml.cc/paper/2020/hash/ab013ca67cf2d50796b0c11d1b8bc95d-Abstract.html) by Rishabh Agarwal, Dale Schuurmans, and Mohammad Norouzi, ICML2020. [[website](https://offline-rl.github.io/)]
+- [Off-policy Learning in Two-stage Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3366423.3380130) by Jiaqi Ma, Zhe Zhao, Xinyang Yi, Ji Yang, Minmin Chen, Jiaxi Tang, Lichan Hong and Ed H Chi, WWW2020.
 - [Top-K Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/abs/1812.02353) by Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, and Ed Chi, WSDM2019.
 
 ### Off-Policy Evaluation: Theory/Methods
@@ -112,7 +124,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [High Confidence Off-Policy Evaluation](https://people.cs.umass.edu/~pthomas/papers/Thomas2015.pdf) by Philip S. Thomas, Georgios Theocharous, and Mohammad Ghavamzadeh.
 
 ### Off-Policy Evaluation: Benchmarks/Experiments/Applications
-
+- [Benchmarks for Deep Off-Policy Evaluation](https://openreview.net/forum?id=kWSeGEeHvF8) by Justin Fu, Mohammad Norouzi, Ofir Nachum, George Tucker, ziyu wang, Alexander Novikov, Mengjiao Yang, Michael R Zhang, Yutian Chen, Aviral Kumar, Cosmin Paduraru, Sergey Levine and Thomas Paine, ICLR2021.
 - [Large-scale Open Dataset, Pipeline, and Benchmark for Bandit Algorithms](https://arxiv.org/abs/2008.07146) by Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita, arXiv2020. [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
 - [Off-Policy Evaluation of Probabilistic Identity Data in Lookalike Modeling](https://dl.acm.org/doi/10.1145/3289600.3291033) by Randell Cotta, Dan Jiang, Mingyang Hu, and Peizhou Liao, WSDM2019.
 - [Offline Evaluation to Make Decisions About Playlist Recommendation](https://dl.acm.org/doi/10.1145/3289600.3291027) by Alois Gruson, Praveen Chandar, Christophe Charbuillet, James McInerney, Samantha Hansen, Damien Tardieu, and Ben Carterette, WSDM2019.
