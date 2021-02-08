@@ -22,6 +22,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643) by Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu, arXiv2020.
 
 ### Offline RL: Theory/Methods
+- [Finite Sample Analysis of Minimax Offline Reinforcement Learning: Completeness, Fast Rates and First-Order Efficiency](https://arxiv.org/abs/2102.02981) by Masatoshi Uehara, Masaaki Imaizumi, Nan Jiang, Nathan Kallus, Wen Sun and Tengyang Xie, arXiv2021.
 - [Fast Rates for the Regret of Offline Reinforcement Learning](https://arxiv.org/abs/2102.00479) by Yichun Hu, Nathan Kallus and Masatoshi Uehara, arXiv2021.
 - [Near-Optimal Offline Reinforcement Learning via Double Variance Reduction](https://arxiv.org/abs/2102.01748) by Ming Yin, Yu Bai and Yu-Xiang Wang, arXiv2021.
 - [Batch Reinforcement Learning Through Continuation Method](https://openreview.net/forum?id=po-DLlBuAuz) by Yijie Guo, Shengyu Feng, Nicolas Le Roux, Ed Chi, Honglak Lee and Minmin Chen, ICLR2021.
