@@ -91,7 +91,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 -  [Doubly Robust Policy Evaluation and Optimization](https://arxiv.org/abs/1503.02834) by Miroslav Dudík, Dumitru Erhan, John Langford, and Lihong Li, ICML2011.
 - [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](https://dl.acm.org/doi/10.1145/1935826.1935878) by Lihong Li, Wei Chu, John Langford, and Xuanhui Wang, WSDM2011.
 #### Reinforcement Learning
-
+- [Bootstrapping Statistical Inference for Off-Policy Evaluation](https://arxiv.org/abs/2102.03607) by Botao Hao, Xiang (Jack)Ji, Yaqi Duan, Hao Lu, Csaba Szepesvári and Mengdi Wang, arXiv2021.
 - [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808) by Shangtong Zhang, Yi Wan, Richard S. Sutton, and Shimon Whiteson, arXiv2021.
 - [Optimal Mixture Weights for Off-Policy Evaluation with Multiple Behavior Policies](https://arxiv.org/abs/2011.14359) by Jinlin Lai, Lixin Zou, and Jiaxing Song, arXiv2020.
 - [Kernel Methods for Policy Evaluation: Treatment Effects, Mediation Analysis, and Off-Policy Planning](https://arxiv.org/abs/2010.04855) by Rahul Singh, Liyuan Xu, and Arthur Gretton, arXiv2020.
