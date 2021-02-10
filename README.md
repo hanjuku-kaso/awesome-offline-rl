@@ -35,8 +35,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ### Off-Policy Evaluation: Theory/Methods
 #### Contextual Bandits
 
+- [Piecewise-Stationary Off-Policy Optimization](https://arxiv.org/abs/2006.08236) by Joey Hong, Branislav Kveton, Manzil Zaheer, Yinlam Chow, and Amr Ahmed, AISTATS2021.
+- [High-Confidence Off-Policy (or Counterfactual) Variance Estimation](https://arxiv.org/abs/2101.09847) by Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI2021.
+- [Doubly Robust Off-Policy Learning on Low-Dimensional Manifolds by Deep Neural Networks](https://arxiv.org/abs/2011.01797) by Minshuo Chen, Hao Liu, Wenjing Liao, and Tuo Zhao, arXiv2020.
 - [Off-Policy Evaluation of Slate Policies under Bayes Risk](https://arxiv.org/abs/2101.02553) by Nikos Vlassis, Fernando Amat Gil, and Ashok Chandrashekar, arXiv2021.
 - [Bandit Overfitting in Offline Policy Learning](https://arxiv.org/abs/2006.15368) by David Brandfonbrener, William F. Whitney, Rajesh Ranganath, and Joan Bruna, arXiv2020.
+- [Counterfactual Learning of Continuous Stochastic Policies](https://arxiv.org/abs/2004.11722) by Houssam Zenati, Alberto Bietti, Matthieu Martin, Eustache Diemert, and Julien Mairal, arXiv2020.
 - [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) by Nathan Kallus, Yuta Saito, and Masatoshi Uehara, arXiv2020. [[code](https://github.com/CausalML/MultipleLoggers)]
 - [A Practical Guide of Off-Policy Evaluation for Bandit Problems](https://arxiv.org/abs/2010.12470) by Masahiro Kato, Kenshi Abe, Kaito Ariu, and Shota Yasui, arXiv2020.
 - [Off-Policy Evaluation and Learning for External Validity under a Covariate Shift](https://papers.nips.cc/paper/2020/hash/0084ae4bc24c0795d1e6a4f58444d39b-Abstract.html) by Masatoshi Uehara, Masahiro Kato, and Shota Yasui, NeurIPS2020.
@@ -67,6 +71,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](https://dl.acm.org/doi/10.1145/1935826.1935878) by Lihong Li, Wei Chu, John Langford, and Xuanhui Wang, WSDM2011.
 #### Reinforcement Learning
 
+- [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893) by Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi, AISTATS2021.
 - [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808) by Shangtong Zhang, Yi Wan, Richard S. Sutton, and Shimon Whiteson, arXiv2021.
 - [Optimal Mixture Weights for Off-Policy Evaluation with Multiple Behavior Policies](https://arxiv.org/abs/2011.14359) by Jinlin Lai, Lixin Zou, and Jiaxing Song, arXiv2020.
 - [Kernel Methods for Policy Evaluation: Treatment Effects, Mediation Analysis, and Off-Policy Planning](https://arxiv.org/abs/2010.04855) by Rahul Singh, Liyuan Xu, and Arthur Gretton, arXiv2020.
@@ -76,7 +81,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Off-Policy Evaluation via the Regularized Lagrangian](https://papers.nips.cc/paper/2020/hash/488e4104520c6aab692863cc1dba45af-Abstract.html) by Mengjiao Yang, Ofir Nachum, Bo Dai, Lihong Li, and Dale Schuurmans, NeurIPS2020.
 - [Minimax Value Interval for Off-Policy Evaluation and Policy Optimization](https://papers.nips.cc/paper/2020/hash/1cd138d0499a68f4bb72bee04bbec2d7-Abstract.html) by Nan Jiang and Jiawei Huang, NeurIPS2020.
 - [Statistical Bootstrapping for Uncertainty Estimation in Off-Policy Evaluation](https://arxiv.org/abs/2007.13609) by Ilya Kostrikov and Ofir Nachum, arXiv2020.
-- [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893) by Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi, arXiv2020.
 - [Confident Off-Policy Evaluation and Selection through Self-Normalized Importance Weighting](https://arxiv.org/abs/2006.10460) by Ilja Kuzborskij, Claire Vernade, András György, and Csaba Szepesvári, arXiv2020.
 - [Infinite-horizon Off-Policy Policy Evaluation with Multiple Behavior Policies](https://iclr.cc/virtual_2020/poster_rkgU1gHtvr.html) by Xinyun Chen, Lu Wang, Yizhe Hang, Heng Ge, and Hongyuan Zha, ICLR2020.
 - [Doubly Robust Bias Reduction in Infinite Horizon Off-Policy Estimation](https://iclr.cc/virtual_2020/poster_S1glGANtDr.html) by Ziyang Tang, Yihao Feng, Lihong Li, Dengyong Zhou, and Qiang Liu, ICLR2020.
