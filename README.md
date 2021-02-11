@@ -22,6 +22,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643) by Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu, arXiv2020.
 
 ### Offline RL: Theory/Methods
+- [Risk-Averse Offline Reinforcement Learning](https://arxiv.org/abs/2102.05371) by Núria Armengol Urpí, Sebastian Curi and Andreas Krause, arXiv2021.
 - [Finite Sample Analysis of Minimax Offline Reinforcement Learning: Completeness, Fast Rates and First-Order Efficiency](https://arxiv.org/abs/2102.02981) by Masatoshi Uehara, Masaaki Imaizumi, Nan Jiang, Nathan Kallus, Wen Sun and Tengyang Xie, arXiv2021.
 - [Fast Rates for the Regret of Offline Reinforcement Learning](https://arxiv.org/abs/2102.00479) by Yichun Hu, Nathan Kallus and Masatoshi Uehara, arXiv2021.
 - [Near-Optimal Offline Reinforcement Learning via Double Variance Reduction](https://arxiv.org/abs/2102.01748) by Ming Yin, Yu Bai and Yu-Xiang Wang, arXiv2021.
@@ -48,6 +49,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Guided Policy Search](http://proceedings.mlr.press/v28/levine13.html) by Sergey Levine and Vladlen Koltun, ICML2013.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Personalization for Web-based Services using Offline Reinforcement Learning](https://arxiv.org/abs/2102.05612) by Pavlos Athanasios Apostolopoulos, Zehui Wang, Hanson Wang, Chad Zhou, Kittipat Virochsiri, Norm Zhou and Igor L. Markov, arXiv2021.
 - [Near Real-World Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2102.00714) by Rongjun Qin, Songyi Gao, Xingyuan Zhang, Zhen Xu, Shengkai Huang, Zewen Li, Weinan Zhang and Yang Yu, arXiv2021. [[website](http://polixir.ai/research/neorl)]
 - [Offline Reinforcement Learning Hands-On](https://arxiv.org/abs/2011.14379) by Louis Monier, Jakub Kmec, Alexandre Laterre, Thomas Pierrot, Valentin Courgeau, Olivier Sigaud, Karim Beguir, arXiv2020.
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) by Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker and Sergey Levine, arXiv2020. [[code](https://github.com/rail-berkeley/d4rl)]
