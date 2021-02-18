@@ -83,15 +83,22 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [On Reward-Free Reinforcement Learning with Linear Function Approximation](https://papers.nips.cc/paper/2020/hash/ce4449660c6523b377b22a1dc2da5556-Abstract.html) by Ruosong Wang, Simon S. Du, Lin Yang and Russ R. Salakhutdinov, NeurIPS2020.
 - [Constrained Policy Improvement for Safe and Efficient Reinforcement Learning](https://www.ijcai.org/Proceedings/2020/396) by Elad Sarafian, Aviv Tamar and Sarit Kraus, IJCAI2020.
 - [BRPO: Batch Residual Policy Optimization](https://www.ijcai.org/Proceedings/2020/391) by Sungryull Sohn, Yinlam Chow, Jayden Ooi, Ofir Nachum, Honglak Lee, Ed Chi and Craig Boutilier, IJCAI2020. [[code](https://github.com/eladsar/rbi)]
+- [From Importance Sampling to Doubly Robust Policy Gradient](http://proceedings.mlr.press/v119/huang20b.html) by Jiawei Huang and Nan Jiang, ICML2020.
+- [Batch Stationary Distribution Estimation](http://proceedings.mlr.press/v119/wen20a.html) by Junfeng Wen, Bo Dai, Lihong Li and Dale Schuurmans, ICML2020.
+- [GradientDICE: Rethinking Generalized Offline Estimation of Stationary Values](http://proceedings.mlr.press/v119/zhang20r.html) by Shangtong Zhang, Bo Liu and Shimon Whiteson, ICML2020.
+- [GenDICE: Generalized Offline Estimation of Stationary Values](https://openreview.net/forum?id=HkxlcnVFwB) by Ruiyi Zhang, Bo Dai, Lihong Li and Dale Schuurmans, ICLR2020.
 - [Keep Doing What Worked: Behavior Modelling Priors for Offline Reinforcement Learning](https://openreview.net/forum?id=rke7geHtwH) by Noah Siegel, Jost Tobias Springenberg, Felix Berkenkamp, Abbas Abdolmaleki, Michael Neunert, Thomas Lampe, Roland Hafner, Nicolas Heess and Martin Riedmiller, ICLR2020.
 - [Accelerating Reinforcement Learning with Learned Skill Priors](https://arxiv.org/abs/2010.11944) by Karl Pertsch, Youngwoon Lee and Joseph J. Lim, CoRL2020.
 - [Scaling data-driven robotics with reward sketching and batch reinforcement learning](https://arxiv.org/abs/1909.12200) by Serkan Cabi, Sergio Gómez Colmenarejo, Alexander Novikov, Ksenia Konyushkova, Scott Reed, Rae Jeong, Konrad Zolna, Yusuf Aytar, David Budden, Mel Vecerik, Oleg Sushkov, David Barker, Jonathan Scholz, Misha Denil, Nando de Freitas and Ziyu Wang, RSS2020. [[website](https://sites.google.com/view/data-driven-robotics/)]
 - [Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping](https://arxiv.org/abs/1910.02787) by Cristian Bodnar, Adrian Li, Karol Hausman, Peter Pastor and Mrinal Kalakrishnan, RSS2020.
 - [Defining Admissible Rewards for High Confidence Policy Evaluation in Batch Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3368555.3384450) by Niranjani Prasad, Barbara E Engelhardt and Finale Doshi-Velez, CHIL2020.
+- [Learning When-to-Treat Policies](https://arxiv.org/abs/1905.09751) by Xinkun Nie, Emma Brunskill and Stefan Wager, JASA2020.
 - [Batch-Constrained Reinforcement Learning for Dynamic Distribution Network Reconfiguration](https://arxiv.org/abs/2006.12749) by Yuanqi Gao, Wei Wang, Jie Shi and Nanpeng Yu, IEEE T SMART GRID2020.
 - [Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog](https://arxiv.org/abs/1907.00456) by Natasha Jaques, Asma Ghandeharioun, Judy Hanwen Shen, Craig Ferguson, Agata Lapedriza, Noah Jones, Shixiang Gu and Rosalind Picard, arXiv2019.
 - [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/abs/1911.11361) by Yifan Wu, George Tucker and Ofir Nachum, arXiv2019.
 - [Off-Policy Policy Gradient Algorithms by Constraining the State Distribution Shift](https://arxiv.org/abs/1911.06970) by Riashat Islam, Komal K. Teru, Deepak Sharma and Joelle Pineau, arXiv2019.
+- [Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning](https://arxiv.org/abs/1910.00177) by Xue Bin Peng, Aviral Kumar, Grace Zhang and Sergey Levine, arXiv2019.
+- [AlgaeDICE: Policy Gradient from Arbitrary Experience](https://arxiv.org/abs/1912.02074) by Ofir Nachum, Bo Dai, Ilya Kostrikov, Yinlam Chow, Lihong Li and Dale Schuurmans, arXiv2019.
 - [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://papers.nips.cc/paper/2019/hash/c2073ffa77b5357a498057413bb09d3a-Abstract.html) by Aviral Kumar, Justin Fu, George Tucker,  and Sergey Levine, NeurIPS2019. [[website](https://sites.google.com/view/bear-off-policyrl)] [[code](https://github.com/aviralkumar2907/BEAR)]
 - [Off-Policy Deep Reinforcement Learning without Exploration](http://proceedings.mlr.press/v97/fujimoto19a.html) by Scott Fujimoto, David Meger and Doina Precup, ICML2019.
 - [Safe Policy Improvement with Baseline Bootstrapping](http://proceedings.mlr.press/v97/laroche19a.html) by Romain Laroche, Paul Trichelair and Remi Tachet Des Combes, ICML2019.
@@ -100,7 +107,9 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Safe Policy Improvement with Soft Baseline Bootstrapping](https://arxiv.org/abs/1907.05079) by Kimia Nadjahi, Romain Laroche and Rémi Tachet des Combes, ECML2019.
 - [Importance Weighted Transfer of Samples in Reinforcement Learning](http://proceedings.mlr.press/v80/tirinzoni18a.html) by Andrea Tirinzoni, Andrea Sessa, Matteo Pirotta and Marcello Restelli, ICML2018.
 - [Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](http://proceedings.mlr.press/v87/kalashnikov18a.html) by Dmitry Kalashnikov, Alex Irpan, Peter Pastor, Julian Ibarz, Alexander Herzog, Eric Jang, Deirdre Quillen, Ethan Holly, Mrinal Kalakrishnan, Vincent Vanhoucke and Sergey Levine, CoRL2018. [[website](https://sites.google.com/view/qtopt)]
+- [Off-Policy Policy Gradient with State Distribution Correction](https://arxiv.org/abs/1904.08473) by Yao Liu, Adith Swaminathan, Alekh Agarwal and Emma Brunskill, UAI2018.
 - [Deep Exploration via Bootstrapped DQN](https://papers.nips.cc/paper/2016/hash/8d8818c8e140c64c743113f563cf750f-Abstract.html) by Ian Osband, Charles Blundell, Alexander Pritzel and Benjamin Van Roy, NeurIPS2016.
+- [Safe Policy Improvement by Minimizing Robust Baseline Regret](https://proceedings.neurips.cc/paper/2016/hash/9a3d458322d70046f63dfd8b0153ece4-Abstract.html) by Mohammad Ghavamzadeh, Marek Petrik and Yinlam Chow, NeurIPS2016.
 - [Residential Demand Response Applications Using Batch Reinforcement Learning](https://arxiv.org/abs/1504.02125) by Frederik Ruelens, Bert Claessens, Stijn Vandael, Bart De Schutter, Robert Babuska and Ronnie Belmans, arXiv2015.
 - [Structural Return Maximization for Reinforcement Learning](https://arxiv.org/abs/1405.2606) by Joshua Joseph, Javier Velez and Nicholas Roy, arXiv2014.
 - [Simultaneous Perturbation Algorithms for Batch Off-Policy Search](https://arxiv.org/abs/1403.4514) by Raphael Fonteneau and L.A. Prashanth, CDC2014.
@@ -130,8 +139,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Top-K Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/abs/1812.02353) by Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, and Ed Chi, WSDM2019.
 - [A clustering-based reinforcement learning approach for tailored personalization of e-Health interventions](https://arxiv.org/abs/1804.03592) by Ali el Hassouni, Mark Hoogendoorn, Martijn van Otterlo, A. E. Eiben, Vesa Muhonen and Eduardo Barbaro, arXiv2018.
 - [Generating Interpretable Fuzzy Controllers using Particle Swarm Optimization and Genetic Programming](https://arxiv.org/abs/1804.10960) by Daniel Hein, Steffen Udluft and Thomas A. Runkler, GECCO2018.
+- [End-to-End Offline Goal-Oriented Dialog Policy Learning via Policy Gradient](https://arxiv.org/abs/1712.02838) by Li Zhou, Kevin Small, Oleg Rokhlenko and Charles Elkan, arXiv2017.
 - [Batch Reinforcement Learning on the Industrial Benchmark: First Experiences](https://arxiv.org/abs/1705.07262) by Daniel Hein, Steffen Udluft, Michel Tokic, Alexander Hentschel, Thomas A. Runkler and Volkmar Sterzing, IJCNN2017.
 - [Policy Networks with Two-Stage Training for Dialogue Systems](https://arxiv.org/abs/1606.03152) byMehdi Fatemi, Layla El Asri, Hannes Schulz, Jing He and Kaheer Suleman, SIGDial2016.
+- [Adaptive Treatment of Epilepsy via Batch-mode Reinforcement Learning](https://www.aaai.org/Library/IAAI/2008/iaai08-008.php) by Arthur Guez, Robert D. Vincent, Massimo Avoli and Joelle Pineau, IAAI2008.
 
 ### Off-Policy Evaluation: Theory/Methods
 #### Contextual Bandits
@@ -208,6 +219,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [More Robust Doubly Robust Off-policy Evaluation](https://arxiv.org/abs/1802.03493) by Mehrdad Farajtabar, Yinlam Chow, and Mohammad Ghavamzadeh, ICML2018.
 - [Importance Sampling for Fair Policy Selection](https://people.cs.umass.edu/~pthomas/papers/Doroudi2017.pdf) by Shayan Doroudi, Philip Thomas, and Emma Brunskill, UAI2017.
 - [Predictive Off-Policy Policy Evaluation for Nonstationary Decision Problems, with Applications to Digital Marketing](https://people.cs.umass.edu/~pthomas/papers/Thomas2017.pdf) by Philip S. Thomas, Georgios Theocharous, Mohammad Ghavamzadeh, Ishan Durugkar, and Emma Brunskill, AAAI2017.
+- [Consistent On-Line Off-Policy Evaluation](http://proceedings.mlr.press/v70/hallak17a.html) by Assaf Hallak and Shie Mannor, ICML2017.
 - [Bootstrapping with Models: Confidence Intervals for Off-Policy Evaluation](https://arxiv.org/abs/1606.06126) by Josiah P. Hanna, Peter Stone, and Scott Niekum, AAAMS2016.
 - [Doubly Robust Off-policy Value Evaluation for Reinforcement Learning](http://proceedings.mlr.press/v48/jiang16.html) by Nan Jiang and Lihong Li, ICML2016.
 - [Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning](http://proceedings.mlr.press/v48/thomasa16.html) by Philip Thomas and Emma Brunskill, ICML2016.
@@ -220,6 +232,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Large-scale Open Dataset, Pipeline, and Benchmark for Bandit Algorithms](https://arxiv.org/abs/2008.07146) by Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita, arXiv2020. [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
 - [Off-Policy Evaluation of Probabilistic Identity Data in Lookalike Modeling](https://dl.acm.org/doi/10.1145/3289600.3291033) by Randell Cotta, Dan Jiang, Mingyang Hu, and Peizhou Liao, WSDM2019.
 - [Offline Evaluation to Make Decisions About Playlist Recommendation](https://dl.acm.org/doi/10.1145/3289600.3291027) by Alois Gruson, Praveen Chandar, Christophe Charbuillet, James McInerney, Samantha Hansen, Damien Tardieu, and Ben Carterette, WSDM2019.
+- [Evaluating Reinforcement Learning Algorithms in Observational Health Settings]https://arxiv.org/abs/1805.12298) by Omer Gottesman, Fredrik Johansson, Joshua Meier, Jack Dent, Donghun Lee, Srivatsan Srinivasan, Linying Zhang, Yi Ding, David Wihl, Xuefeng Peng, Jiayu Yao, Isaac Lage, Christopher Mosch, Li-wei H. Lehman, Matthieu Komorowski, Matthieu Komorowski, Aldo Faisal, Leo Anthony Celi, David Sontag and Finale Doshi-Velez, arXiv2018.
 - [Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems](https://dl.acm.org/doi/10.1145/3269206.3272027) by Rishabh Mehrotra, James McInerney, Hugues Bouchard, Mounia Lalmas, Fernando Diaz, CIKM2018.
 - [Offline A/B testing for Recommender Systems](https://dl.acm.org/doi/10.1145/3159652.3159687) by Alexandre Gilotte, Clément Calauzènes, Thomas Nedelec, Alexandre Abraham, and Simon Dollé, WSDM2018.
 - [Offline Comparative Evaluation with Incremental, Minimally-Invasive Online Feedback](https://dl.acm.org/doi/10.1145/3209978.3210050) by Ben Carterette and Praveen Chandar, SIGIR2018.
