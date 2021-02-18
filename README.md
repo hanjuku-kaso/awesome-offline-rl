@@ -137,11 +137,11 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Optimal Tap Setting of Voltage Regulation Transformers Using Batch Reinforcement Learning](https://arxiv.org/abs/1807.10997) by Hanchen Xu, Alejandro D. Domínguez-García and Peter W. Sauer, IEEE T POWER SYSTEMS2020.
 - [Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1910.01708) by Scott Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh and Joelle Pineau, arXiv2019.
 - [Top-K Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/abs/1812.02353) by Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, and Ed Chi, WSDM2019.
-- [A clustering-based reinforcement learning approach for tailored personalization of e-Health interventions](https://arxiv.org/abs/1804.03592) by Ali el Hassouni, Mark Hoogendoorn, Martijn van Otterlo, A. E. Eiben, Vesa Muhonen and Eduardo Barbaro, arXiv2018.
+- [A Clustering-Based Reinforcement Learning Approach for Tailored Personalization of E-Health Interventions](https://arxiv.org/abs/1804.03592) by Ali el Hassouni, Mark Hoogendoorn, Martijn van Otterlo, A. E. Eiben, Vesa Muhonen and Eduardo Barbaro, arXiv2018.
 - [Generating Interpretable Fuzzy Controllers using Particle Swarm Optimization and Genetic Programming](https://arxiv.org/abs/1804.10960) by Daniel Hein, Steffen Udluft and Thomas A. Runkler, GECCO2018.
 - [End-to-End Offline Goal-Oriented Dialog Policy Learning via Policy Gradient](https://arxiv.org/abs/1712.02838) by Li Zhou, Kevin Small, Oleg Rokhlenko and Charles Elkan, arXiv2017.
 - [Batch Reinforcement Learning on the Industrial Benchmark: First Experiences](https://arxiv.org/abs/1705.07262) by Daniel Hein, Steffen Udluft, Michel Tokic, Alexander Hentschel, Thomas A. Runkler and Volkmar Sterzing, IJCNN2017.
-- [Policy Networks with Two-Stage Training for Dialogue Systems](https://arxiv.org/abs/1606.03152) byMehdi Fatemi, Layla El Asri, Hannes Schulz, Jing He and Kaheer Suleman, SIGDial2016.
+- [Policy Networks with Two-Stage Training for Dialogue Systems](https://arxiv.org/abs/1606.03152) by Mehdi Fatemi, Layla El Asri, Hannes Schulz, Jing He and Kaheer Suleman, SIGDial2016.
 - [Adaptive Treatment of Epilepsy via Batch-mode Reinforcement Learning](https://www.aaai.org/Library/IAAI/2008/iaai08-008.php) by Arthur Guez, Robert D. Vincent, Massimo Avoli and Joelle Pineau, IAAI2008.
 
 ### Off-Policy Evaluation: Theory/Methods
