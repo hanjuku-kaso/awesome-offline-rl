@@ -22,6 +22,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643) by Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu, arXiv2020.
 
 ### Offline RL: Theory/Methods
+- [Continuous Doubly Constrained Batch Reinforcement Learning](https://arxiv.org/abs/2102.09225) by Rasool Fakoor, Jonas Mueller, Pratik Chaudhari and Alexander J. Smola, arXiv2021.
 - [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363) by Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine and Chelsea Finn, arXiv2021.
 - [Representation Matters: Offline Pretraining for Sequential Decision Making](https://arxiv.org/abs/2102.05815) by Mengjiao Yang and Ofir Nachum, arXiv2021.
 - [Q-Value Weighted Regression: Reinforcement Learning with Limited Data](https://arxiv.org/abs/2102.06782) by Piotr Kozakowski, Łukasz Kaiser, Henryk Michalewski, Afroz Mohiuddin and Katarzyna Kańska, arXiv2021.
@@ -118,6 +119,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [PAC-Bayesian Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/1202.3717) by Mahdi MIlani Fard, Joelle Pineau and Csaba Szepesvari, UAI2011.
 - [Tree-Based Batch Mode Reinforcement Learning](https://www.jmlr.org/papers/v6/ernst05a.html) by Damien Ernst, Pierre Geurts and Louis Wehenkel, JMLR2005.
 - [Neural Fitted Q Iteration–First Experiences with a Data Efficient Neural Reinforcement Learning Method](https://dl.acm.org/doi/10.1007/11564096_32) by Martin Riedmiller, ECML2005.
+- [Off-Policy Temporal-Difference Learning with Function Approximation](https://dl.acm.org/doi/10.5555/645530.655817) by Doina Precup, Richard S. Sutton and Sanjoy Dasgupta, ICML2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
 - [Personalization for Web-based Services using Offline Reinforcement Learning](https://arxiv.org/abs/2102.05612) by Pavlos Athanasios Apostolopoulos, Zehui Wang, Hanson Wang, Chad Zhou, Kittipat Virochsiri, Norm Zhou and Igor L. Markov, arXiv2021.
