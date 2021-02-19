@@ -41,7 +41,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Reset-Free Lifelong Learning with Skill-Space Planning](https://openreview.net/forum?id=HIGSa_3kOx3) by Kevin Lu, Aditya Grover, Pieter Abbeel and Igor Mordatch, ICLR2021. [[website](https://sites.google.com/berkeley.edu/reset-free-lifelong-learning)]
 - [Exploration by Maximizing Rényi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193) by Chuheng Zhang, Yuanying Cai, Longbo Huang and Jian Li, AAAI2021.
 - [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783) by Kaiqing Zhang, Zhuoran Yang, Han Liu, Tong Zhang and Tamer Başar, IEEE T AUTOMATIC CONTROL2021.
-- [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://arxiv.org/abs/2012.08005) by Andrea Zanette, arXiv2020.
+- [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://arxiv.org/abs/2012.08005) by Andrea Zanette, arXiv2020. [[talk](https://www.youtube.com/watch?v=YktnEdsxYfc&feature=youtu.be)]
 - [Sparse Feature Selection Makes Batch Reinforcement Learning More Sample Efficient](https://arxiv.org/abs/2011.04019) by Botao Hao, Yaqi Duan, Tor Lattimore, Csaba Szepesvári and Mengdi Wang, arXiv2020.
 - [A Variant of the Wang-Foster-Kakade Lower Bound for the Discounted Setting](https://arxiv.org/abs/2011.01075) by Philip Amortila, Nan Jiang and Tengyang Xie, arXiv2020.
 - [Batch Reinforcement Learning with a Nonparametric Off-Policy Policy Gradient](https://arxiv.org/abs/2010.14771) by Samuele Tosatto, João Carvalho and Jan Peters, arXiv2020.
