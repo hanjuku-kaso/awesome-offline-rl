@@ -151,8 +151,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 - [Piecewise-Stationary Off-Policy Optimization](https://arxiv.org/abs/2006.08236) by Joey Hong, Branislav Kveton, Manzil Zaheer, Yinlam Chow, and Amr Ahmed, AISTATS2021.
 - [High-Confidence Off-Policy (or Counterfactual) Variance Estimation](https://arxiv.org/abs/2101.09847) by Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI2021.
-- [Doubly Robust Off-Policy Learning on Low-Dimensional Manifolds by Deep Neural Networks](https://arxiv.org/abs/2011.01797) by Minshuo Chen, Hao Liu, Wenjing Liao, and Tuo Zhao, arXiv2020.
 - [Off-Policy Evaluation of Slate Policies under Bayes Risk](https://arxiv.org/abs/2101.02553) by Nikos Vlassis, Fernando Amat Gil, and Ashok Chandrashekar, arXiv2021.
+- [Doubly Robust Off-Policy Learning on Low-Dimensional Manifolds by Deep Neural Networks](https://arxiv.org/abs/2011.01797) by Minshuo Chen, Hao Liu, Wenjing Liao, and Tuo Zhao, arXiv2020.
 - [Bandit Overfitting in Offline Policy Learning](https://arxiv.org/abs/2006.15368) by David Brandfonbrener, William F. Whitney, Rajesh Ranganath, and Joan Bruna, arXiv2020.
 - [Counterfactual Learning of Continuous Stochastic Policies](https://arxiv.org/abs/2004.11722) by Houssam Zenati, Alberto Bietti, Matthieu Martin, Eustache Diemert, and Julien Mairal, arXiv2020.
 - [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) by Nathan Kallus, Yuta Saito, and Masatoshi Uehara, arXiv2020. [[code](https://github.com/CausalML/MultipleLoggers)]
