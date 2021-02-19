@@ -265,6 +265,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Near Optimal Provable Uniform Convergence in Off-Policy Evaluation for Reinforcement Learning](https://youtu.be/FWZewbQykv4) by Yu-Xiang Wang, RL Theory Seminar2020.
 - [Minimax-Optimal Off-Policy Evaluation with Linear Function Approximation](https://youtu.be/TX9KBofFZ8s) by Mengdi Wang, RL Theory Seminar2020.
 - [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://www.youtube.com/watch?v=YktnEdsxYfc&feature=youtu.be) by Andrea Zanette, RL Theory Seminar2020.
+- [Beyond the Training Distribution](https://www.youtube.com/watch?v=wv1zXnxRCCM&feature=youtu.be) by Chelsea Finn, EI Seminar2020.
 - [Combining Statistical methods with Human Input for Evaluation and Optimization in Batch Settings](https://slideslive.com/38922630/combining-statistical-methods-with-human-input-for-evaluation-and-optimization-in-batch-settings) by Finale Doshi-Velez, NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
 - [Efficiently Breaking the Curse of Horizon with Double Reinforcement Learning](https://slideslive.com/38922636/efficiently-breaking-the-curse-of-horizon-with-double-reinforcement-learning) by Nathan Kallus, NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
 - [Scaling Probabilistically Safe Learning to Robotics](https://slideslive.com/38922637/scaling-probabilistically-safe-learning-to-robotics?locale=en) by Scott Niekum, NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
