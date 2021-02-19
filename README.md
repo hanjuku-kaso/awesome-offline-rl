@@ -455,7 +455,17 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline Comparative Evaluation with Incremental, Minimally-Invasive Online Feedback](https://dl.acm.org/doi/10.1145/3209978.3210050)
   - Ben Carterette and Praveen Chandar, SIGIR2018.
 
-### Open Source Software
+## Open Source Software
+- [Open Bandit Pipeline: a research framework for bandit algorithms and off-policy evaluation](https://github.com/st-tech/zr-obp) [[paper](https://arxiv.org/abs/2008.07146)] [[documentation](https://zr-obp.readthedocs.io/en/latest/index.html)] [[public dataset](https://research.zozo.com/data.html)]
+  - Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita.
+- [d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy) [[website](https://takuseno.github.io/d3rlpy/)] [[documentation](https://d3rlpy.readthedocs.io/en/v0.70/)]
+  - Takuma Seno.
+- [MINERVA: An out-of-the-box GUI tool for data-driven deep reinforcement learning](https://github.com/takuseno/minerva) [[website](https://takuseno.github.io/minerva/)] [[documentation](https://minerva-ui.readthedocs.io/en/v0.20/)]
+  - Takuma Seno.
+- [RecoGym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://github.com/criteo-research/reco-gym) [[paper](https://arxiv.org/abs/1808.00720)] 
+  - David Rohde, Stephen Bonner, Travis Dunlop, Flavian Vasile, and Alexandros Karatzoglou.
+- [MARS-Gym: A Gym framework to model, train, and evaluate Recommender Systems for Marketplaces](https://github.com/deeplearningbrasil/mars-gym) [[paper](https://arxiv.org/abs/2010.07035)] [[documantation](https://mars-gym.readthedocs.io/en/latest/)]
+  - Marlesson R. O. Santana, Luckeciano C. Melo, Fernando H. F. Camargo, Bruno Brandão, Anderson Soares, Renan M. Oliveira, and Sandor Caetano.
 
 ## Related Workshops
 
