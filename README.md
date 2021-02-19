@@ -19,7 +19,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 ### Review Papers
 
-- [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643) by Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu, arXiv2020.
+- [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
+  - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu, arXiv2020.
 
 ### Offline RL: Theory/Methods
 - [Continuous Doubly Constrained Batch Reinforcement Learning](https://arxiv.org/abs/2102.09225)
@@ -445,7 +446,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Randell Cotta, Dan Jiang, Mingyang Hu, and Peizhou Liao, WSDM2019.
 - [Offline Evaluation to Make Decisions About Playlist Recommendation](https://dl.acm.org/doi/10.1145/3289600.3291027)
   - Alois Gruson, Praveen Chandar, Christophe Charbuillet, James McInerney, Samantha Hansen, Damien Tardieu, and Ben Carterette, WSDM2019.
-- [Evaluating Reinforcement Learning Algorithms in Observational Health Settings]https://arxiv.org/abs/1805.12298)
+- [Evaluating Reinforcement Learning Algorithms in Observational Health Settings](https://arxiv.org/abs/1805.12298)
   - Omer Gottesman, Fredrik Johansson, Joshua Meier, Jack Dent, Donghun Lee, Srivatsan Srinivasan, Linying Zhang, Yi Ding, David Wihl, Xuefeng Peng, Jiayu Yao, Isaac Lage, Christopher Mosch, Li-wei H. Lehman, Matthieu Komorowski, Matthieu Komorowski, Aldo Faisal, Leo Anthony Celi, David Sontag, and Finale Doshi-Velez, arXiv2018.
 - [Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems](https://dl.acm.org/doi/10.1145/3269206.3272027)
   - Rishabh Mehrotra, James McInerney, Hugues Bouchard, Mounia Lalmas, and Fernando Diaz, CIKM2018.
