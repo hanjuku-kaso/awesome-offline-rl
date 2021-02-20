@@ -9,7 +9,9 @@ Maintainers:
 We are looking for more contributors and maintainers! Please feel free to [pull requests](https://github.com/usaito/awesome-offline-rl/pulls).
 
 ```
-format: [title](paper link) by authors, arXiv/conferences/jornals/, year. [links]
+format: 
+- [title](paper link) [links]
+  - author1, author2, and author3. arXiv/conferences/jornals/, year.
 ```
 
 For any question, feel free to contact: saito@hanjuku-kaso.com
@@ -486,28 +488,28 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ## Tutorials/Talks/Lectures
 
 - [Offline RL](https://slideslive.com/38938455/offline-rl)
-  - Nando de Freitas, NeurIPS2020 OfflineRL Workshop.
+  - Nando de Freitas. NeurIPS2020 OfflineRL Workshop.
 - [Learning a Multi-Agent Simulator from Offline Demonstrations](https://slideslive.com/38938458/learning-a-multiagent-simulator-from-offline-demonstrations)
-  - Brandyn White, NeurIPS2020 OfflineRL Workshop.
+  - Brandyn White. NeurIPS2020 OfflineRL Workshop.
 - [Towards Reliable Validation and Evaluation for Offline RL](https://slideslive.com/38938459/towards-reliable-validation-and-evaluation-for-offline-rl)
-  - Nan Jiang, NeurIPS2020 OfflineRL Workshop.
+  - Nan Jiang. NeurIPS2020 OfflineRL Workshop.
 - [Batch RL Models Built for Validation](https://slideslive.com/38938457/batch-rl-models-built-for-validation)
-  - Finale Doshi-Velez, NeurIPS2020 OfflineRL Workshop.
+  - Finale Doshi-Velez. NeurIPS2020 OfflineRL Workshop.
 - [Offline Reinforcement Learning: From Algorithms to Practical Challenges](https://sites.google.com/view/offlinerltutorial-neurips2020/home)
-  - Aviral Kumar and Sergey Levine, NeurIPS2020.
+  - Aviral Kumar and Sergey Levine. NeurIPS2020.
 - [Statistically Efficient Offline Reinforcement Learning](https://youtu.be/n5ZoxT_WmHo)
-  - Nathan Kallus, ARL Seminor2020.
+  - Nathan Kallus. ARL Seminor2020.
 - [Near Optimal Provable Uniform Convergence in Off-Policy Evaluation for Reinforcement Learning](https://youtu.be/FWZewbQykv4)
-  - Yu-Xiang Wang, RL Theory Seminar2020.
+  - Yu-Xiang Wang. RL Theory Seminar2020.
 - [Minimax-Optimal Off-Policy Evaluation with Linear Function Approximation](https://youtu.be/TX9KBofFZ8s)
-  - Mengdi Wang, RL Theory Seminar2020.
+  - Mengdi Wang. RL Theory Seminar2020.
 - [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://www.youtube.com/watch?v=YktnEdsxYfc&feature=youtu.be)
-  - Andrea Zanette, RL Theory Seminar2020.
+  - Andrea Zanette. RL Theory Seminar2020.
 - [Beyond the Training Distribution: Embodiment, Adaptation, and Symmetry](https://www.youtube.com/watch?v=wv1zXnxRCCM&feature=youtu.be)
-  - Chelsea Finn, EI Seminar2020.
+  - Chelsea Finn. EI Seminar2020.
 - [Combining Statistical methods with Human Input for Evaluation and Optimization in Batch Settings](https://slideslive.com/38922630/combining-statistical-methods-with-human-input-for-evaluation-and-optimization-in-batch-settings)
-  - Finale Doshi-Velez, NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
+  - Finale Doshi-Velez. NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
 - [Efficiently Breaking the Curse of Horizon with Double Reinforcement Learning](https://slideslive.com/38922636/efficiently-breaking-the-curse-of-horizon-with-double-reinforcement-learning)
-  - Nathan Kallus, NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
+  - Nathan Kallus. NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
 - [Scaling Probabilistically Safe Learning to Robotics](https://slideslive.com/38922637/scaling-probabilistically-safe-learning-to-robotics?locale=en)
-  - Scott Niekum, NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
+  - Scott Niekum. NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
