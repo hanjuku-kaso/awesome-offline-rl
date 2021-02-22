@@ -9,7 +9,7 @@ Maintainers:
 We are looking for more contributors and maintainers! Please feel free to [pull requests](https://github.com/usaito/awesome-offline-rl/pulls).
 
 ```
-format: 
+format:
 - [title](paper link) [links]
   - author1, author2, and author3. arXiv/conferences/jornals/, year.
 ```
@@ -58,7 +58,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://openreview.net/forum?id=30EvkP2aQLD)
   - Ruosong Wang, Dean Foster, and Sham M. Kakade. ICLR, 2021.
 - [Reset-Free Lifelong Learning with Skill-Space Planning](https://openreview.net/forum?id=HIGSa_3kOx3) [[website](https://sites.google.com/berkeley.edu/reset-free-lifelong-learning)]
-  - Kevin Lu, Aditya Grover, Pieter Abbeel, and Igor Mordatch. ICLR, 2021. 
+  - Kevin Lu, Aditya Grover, Pieter Abbeel, and Igor Mordatch. ICLR, 2021.
 - [Exploration by Maximizing Rényi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193)
   - Chuheng Zhang, Yuanying Cai, Longbo Huang, and Jian Li. AAAI, 2021.
 - [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783)
@@ -118,9 +118,9 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Interpretable Control by Reinforcement Learning](https://arxiv.org/abs/2007.09964)
   - Daniel Hein, Steffen Limmer, and Thomas A. Runkler. arXiv, 2020.
 - [Efficient Evaluation of Natural Stochastic Policies in Offline Reinforcement Learning](https://arxiv.org/abs/2006.03886) [[code](https://github.com/CausalML/NaturalStochasticOPE)]
-  - Nathan Kallus and Masatoshi Uehara. arXiv, 2020. 
+  - Nathan Kallus and Masatoshi Uehara. arXiv, 2020.
 - [Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) [[website](https://awacrl.github.io/)]
-  - Ashvin Nair, Murtaza Dalal, Abhishek Gupta, and Sergey Levine. arXiv, 2020. 
+  - Ashvin Nair, Murtaza Dalal, Abhishek Gupta, and Sergey Levine. arXiv, 2020.
 - [DisCor: Corrective Feedback in Reinforcement Learning via Distribution Correction](https://arxiv.org/abs/2003.07305)
   - Aviral Kumar, Abhishek Gupta, and Sergey Levine. arXiv, 2020.
 - [Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies](https://papers.nips.cc/paper/2020/hash/75df63609809c7a2052fdffe5c00a84e-Abstract.html)
@@ -148,7 +148,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Constrained Policy Improvement for Safe and Efficient Reinforcement Learning](https://www.ijcai.org/Proceedings/2020/396)
   - Elad Sarafian, Aviv Tamar, and Sarit Kraus. IJCAI, 2020.
 - [BRPO: Batch Residual Policy Optimization](https://www.ijcai.org/Proceedings/2020/391) [[code](https://github.com/eladsar/rbi)]
-  - Sungryull Sohn, Yinlam Chow, Jayden Ooi, Ofir Nachum, Honglak Lee, Ed Chi, and Craig Boutilier. IJCAI, 2020. 
+  - Sungryull Sohn, Yinlam Chow, Jayden Ooi, Ofir Nachum, Honglak Lee, Ed Chi, and Craig Boutilier. IJCAI, 2020.
 - [From Importance Sampling to Doubly Robust Policy Gradient](http://proceedings.mlr.press/v119/huang20b.html)
   - Jiawei Huang and Nan Jiang. ICML, 2020.
 - [Batch Stationary Distribution Estimation](http://proceedings.mlr.press/v119/wen20a.html)
@@ -182,7 +182,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [AlgaeDICE: Policy Gradient from Arbitrary Experience](https://arxiv.org/abs/1912.02074)
   - Ofir Nachum, Bo Dai, Ilya Kostrikov, Yinlam Chow, Lihong Li, and Dale Schuurmans. arXiv, 2019.
 - [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://papers.nips.cc/paper/2019/hash/c2073ffa77b5357a498057413bb09d3a-Abstract.html) [[website](https://sites.google.com/view/bear-off-policyrl)] [[code](https://github.com/aviralkumar2907/BEAR)]
-  - Aviral Kumar, Justin Fu, George Tucker, and Sergey Levine. NeurIPS, 2019. 
+  - Aviral Kumar, Justin Fu, George Tucker, and Sergey Levine. NeurIPS, 2019.
 - [Off-Policy Deep Reinforcement Learning without Exploration](http://proceedings.mlr.press/v97/fujimoto19a.html)
   - Scott Fujimoto, David Meger, and Doina Precup. ICML, 2019.
 - [Safe Policy Improvement with Baseline Bootstrapping](http://proceedings.mlr.press/v97/laroche19a.html)
@@ -196,7 +196,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Importance Weighted Transfer of Samples in Reinforcement Learning](http://proceedings.mlr.press/v80/tirinzoni18a.html)
   - Andrea Tirinzoni, Andrea Sessa, Matteo Pirotta, and Marcello Restelli. ICML, 2018.
 - [Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](http://proceedings.mlr.press/v87/kalashnikov18a.html) [[website](https://sites.google.com/view/qtopt)]
-  - Dmitry Kalashnikov, Alex Irpan, Peter Pastor, Julian Ibarz, Alexander Herzog, Eric Jang, Deirdre Quillen, Ethan Holly, Mrinal Kalakrishnan, Vincent Vanhoucke, and Sergey Levine. CoRL, 2018. 
+  - Dmitry Kalashnikov, Alex Irpan, Peter Pastor, Julian Ibarz, Alexander Herzog, Eric Jang, Deirdre Quillen, Ethan Holly, Mrinal Kalakrishnan, Vincent Vanhoucke, and Sergey Levine. CoRL, 2018.
 - [Off-Policy Policy Gradient with State Distribution Correction](https://arxiv.org/abs/1904.08473)
   - Yao Liu, Adith Swaminathan, Alekh Agarwal, and Emma Brunskill. UAI, 2018.
 - [Deep Exploration via Bootstrapped DQN](https://papers.nips.cc/paper/2016/hash/8d8818c8e140c64c743113f563cf750f-Abstract.html)
@@ -226,7 +226,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Personalization for Web-based Services using Offline Reinforcement Learning](https://arxiv.org/abs/2102.05612)
   - Pavlos Athanasios Apostolopoulos, Zehui Wang, Hanson Wang, Chad Zhou, Kittipat Virochsiri, Norm Zhou, and Igor L. Markov. arXiv, 2021.
 - [NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning](https://arxiv.org/abs/2102.00714) [[website](http://polixir.ai/research/neorl)] [[code](https://agit.ai/Polixir/neorl)]
-  - Rongjun Qin, Songyi Gao, Xingyuan Zhang, Zhen Xu, Shengkai Huang, Zewen Li, Weinan Zhang, and Yang Yu. arXiv, 2021. 
+  - Rongjun Qin, Songyi Gao, Xingyuan Zhang, Zhen Xu, Shengkai Huang, Zewen Li, Weinan Zhang, and Yang Yu. arXiv, 2021.
 - [Batch-Constrained Distributional Reinforcement Learning for Session-based Recommendation](https://arxiv.org/abs/2012.08984)
   - Diksha Garg, Priyanka Gupta, Pankaj Malhotra, Lovekesh Vig, and Gautam Shroff. arXiv, 2020.
 - [An Empirical Study of Representation Learning for Reinforcement Learning in Healthcare](https://arxiv.org/abs/2011.11235)
@@ -238,11 +238,11 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline Reinforcement Learning Hands-On](https://arxiv.org/abs/2011.14379)
   - Louis Monier, Jakub Kmec, Alexandre Laterre, Thomas Pierrot, Valentin Courgeau, Olivier Sigaud, Karim Beguir. arXiv, 2020.
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) [[code](https://github.com/rail-berkeley/d4rl)] [[website](https://sites.google.com/view/d4rl/home)]
-  - Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020. 
+  - Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
 - [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) [[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged)] [[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
-  - Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. arXiv, 2020. 
+  - Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. arXiv, 2020.
 - [An Optimistic Perspective on Offline Reinforcement Learning](http://proceedings.mlr.press/v119/agarwal20c.html) [[website](https://offline-rl.github.io/)]
-  - Rishabh Agarwal, Dale Schuurmans, and Mohammad Norouzi. ICML, 2020. 
+  - Rishabh Agarwal, Dale Schuurmans, and Mohammad Norouzi. ICML, 2020.
 - [Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning](http://proceedings.mlr.press/v119/rakhsha20a.html)
   - Amin Rakhsha, Goran Radanovic, Rati Devidze, Xiaojin Zhu, and Adish Singla. ICML, 2020.
 - [Off-policy Learning in Two-stage Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3366423.3380130)
@@ -286,7 +286,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Counterfactual Learning of Continuous Stochastic Policies](https://arxiv.org/abs/2004.11722)
   - Houssam Zenati, Alberto Bietti, Matthieu Martin, Eustache Diemert, and Julien Mairal. arXiv, 2020.
 - [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) [[code](https://github.com/CausalML/MultipleLoggers)]
-  - Nathan Kallus, Yuta Saito, and Masatoshi Uehara. arXiv, 2020. 
+  - Nathan Kallus, Yuta Saito, and Masatoshi Uehara. arXiv, 2020.
 - [A Practical Guide of Off-Policy Evaluation for Bandit Problems](https://arxiv.org/abs/2010.12470)
   - Masahiro Kato, Kenshi Abe, Kaito Ariu, and Shota Yasui. arXiv, 2020.
 - [Off-Policy Evaluation and Learning for External Validity under a Covariate Shift](https://papers.nips.cc/paper/2020/hash/0084ae4bc24c0795d1e6a4f58444d39b-Abstract.html)
@@ -304,7 +304,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Distributionally Robust Policy Evaluation and Learning in Offline Contextual Bandits](http://proceedings.mlr.press/v119/si20a.html)
   - Nian Si, Fan Zhang, Zhengyuan Zhou, and Jose Blanchet. ICML, 2020.
 - [Efficient Policy Learning from Surrogate-Loss Classification Reductions](http://proceedings.mlr.press/v119/bennett20a.html) [[code](https://github.com/CausalML/ESPRM)]
-  - Andrew Bennett and Nathan Kallus. ICML, 2020. 
+  - Andrew Bennett and Nathan Kallus. ICML, 2020.
 - [More Efficient Policy Learning via Optimal Retargeting](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1788948?journalCode=uasa20)
   - Nathan Kallus. JASA, 2020.
 - [Semi-Parametric Efficient Policy Learning with Continuous Actions](https://papers.nips.cc/paper/2019/hash/08b7dc6e8b36bcaac15847827b7951a9-Abstract.html)
@@ -345,6 +345,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [Confident Off-Policy Evaluation and Selection through Self-Normalized Importance Weighting](https://arxiv.org/abs/2006.10460) [[video](https://youtu.be/0MYRwW6BdvU)]
+  - Ilja Kuzborskij, Claire Vernade, András György, and Csaba Szepesvári. AISTATS, 2021.
 - [Bootstrapping Statistical Inference for Off-Policy Evaluation](https://arxiv.org/abs/2102.03607)
   - Botao Hao, Xiang (Jack)Ji, Yaqi Duan, Hao Lu, Csaba Szepesvári, and Mengdi Wang. arXiv, 2021.
 - [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808)
@@ -367,8 +369,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Nan Jiang and Jiawei Huang. NeurIPS, 2020.
 - [Statistical Bootstrapping for Uncertainty Estimation in Off-Policy Evaluation](https://arxiv.org/abs/2007.13609)
   - Ilya Kostrikov and Ofir Nachum. arXiv, 2020.
-- [Confident Off-Policy Evaluation and Selection through Self-Normalized Importance Weighting](https://arxiv.org/abs/2006.10460)
-  - Ilja Kuzborskij, Claire Vernade, András György, and Csaba Szepesvári. arXiv, 2020.
+- [Towards Off-policy Evaluation as a Prerequisite for Real-world Reinforcement Learning in Building Control](https://dl.acm.org/doi/10.1145/3427773.3427871) [[video](https://www.youtube.com/watch?v=zlk_TDNC4qk)]
+  - Bingqing Chen, Ming Jin, Zhe Wang, Tianzhen Hong, and Mario Bergés, RLEM, 2020.
 - [Infinite-horizon Off-Policy Policy Evaluation with Multiple Behavior Policies](https://iclr.cc/virtual_2020/poster_rkgU1gHtvr.html)
   - Xinyun Chen, Lu Wang, Yizhe Hang, Heng Ge, and Hongyuan Zha. ICLR, 2020.
 - [Doubly Robust Bias Reduction in Infinite Horizon Off-Policy Estimation](https://iclr.cc/virtual_2020/poster_S1glGANtDr.html)
@@ -437,7 +439,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Philip S. Thomas, Georgios Theocharous, and Mohammad Ghavamzadeh. AAAI, 2015.
 - [Eligibility Traces for Off-Policy Policy Evaluation](https://dl.acm.org/doi/10.5555/645529.658134)
   - Doina Precup, Richard S. Sutton, and Satinder P. Singh. ICML, 2000.
- 
+
 
 ### Off-Policy Evaluation: Benchmarks/Experiments/Applications
 - [Benchmarks for Deep Off-Policy Evaluation](https://openreview.net/forum?id=kWSeGEeHvF8) [[code](https://github.com/google-research/deep_ope)]
@@ -472,7 +474,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas.
 - [NeoRL: Near Real-World Benchmarks for Offline Reinforcement Learning](https://agit.ai/Polixir/neorl) [[paper](https://arxiv.org/abs/2102.00714)] [[website](http://polixir.ai/research/neorl)]
   - Rongjun Qin, Songyi Gao, Xingyuan Zhang, Zhen Xu, Shengkai Huang, Zewen Li, Weinan Zhang, and Yang Yu.
-- [RecoGym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://github.com/criteo-research/reco-gym) [[paper](https://arxiv.org/abs/1808.00720)] 
+- [RecoGym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://github.com/criteo-research/reco-gym) [[paper](https://arxiv.org/abs/1808.00720)]
   - David Rohde, Stephen Bonner, Travis Dunlop, Flavian Vasile, and Alexandros Karatzoglou.
 - [MARS-Gym: A Gym framework to model, train, and evaluate Recommender Systems for Marketplaces](https://github.com/deeplearningbrasil/mars-gym) [[paper](https://arxiv.org/abs/2010.07035)] [[documantation](https://mars-gym.readthedocs.io/en/latest/)]
   - Marlesson R. O. Santana, Luckeciano C. Melo, Fernando H. F. Camargo, Bruno Brandão, Anderson Soares, Renan M. Oliveira, and Sandor Caetano.
@@ -489,6 +491,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 - [Offline RL](https://slideslive.com/38938455/offline-rl)
   - Nando de Freitas. NeurIPS2020 OfflineRL Workshop.
+- [Data Scalability for Robot Learning](https://youtu.be/LGlgSeWemcM)
+  - Chelsea Finn. RI Seminar2020.
 - [Learning a Multi-Agent Simulator from Offline Demonstrations](https://slideslive.com/38938458/learning-a-multiagent-simulator-from-offline-demonstrations)
   - Brandyn White. NeurIPS2020 OfflineRL Workshop.
 - [Towards Reliable Validation and Evaluation for Offline RL](https://slideslive.com/38938459/towards-reliable-validation-and-evaluation-for-offline-rl)
