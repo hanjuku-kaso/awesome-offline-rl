@@ -25,6 +25,14 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Improved Context-Based Offline Meta-RL with Attention and Contrastive Learning](https://arxiv.org/abs/2102.10774)
+  - Lanqing Li, Yuanhao Huang, and Dijun Luo. arXiv, 2021.
+- [Instrumental Variable Value Iteration for Causal Offline Reinforcement Learning](https://arxiv.org/abs/2102.09907)
+  - Luofeng Liao, Zuyue Fu, Zhuoran Yang, Mladen Kolar, and Zhaoran Wang. arXiv, 2021.
+- [GELATO: Geometrically Enriched Latent Model for Offline Reinforcement Learning](https://arxiv.org/abs/2102.11327)
+  - Guy Tennenholtz, Nir Baram, and Shie Mannor. arXiv, 2021.
+- [MUSBO: Model-based Uncertainty Regularized and Sample Efficient Batch Optimization for Deployment Constrained Reinforcement Learning](https://arxiv.org/abs/2102.11448)
+  - DiJia Su, Jason D. Lee, John M. Mulvey, and H. Vincent Poor. arXiv, 2021.
 - [Continuous Doubly Constrained Batch Reinforcement Learning](https://arxiv.org/abs/2102.09225)
   - Rasool Fakoor, Jonas Mueller, Pratik Chaudhari, and Alexander J. Smola. arXiv, 2021.
 - [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)
@@ -223,6 +231,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning](https://arxiv.org/abs/2102.11492)
+  - Xianyuan Zhan, Haoran Xu, Yue Zhang, Yusen Huo, Xiangyu Zhu, Honglei Yin, and Yu Zheng. arXiv, 2021.
 - [Personalization for Web-based Services using Offline Reinforcement Learning](https://arxiv.org/abs/2102.05612)
   - Pavlos Athanasios Apostolopoulos, Zehui Wang, Hanson Wang, Chad Zhou, Kittipat Virochsiri, Norm Zhou, and Igor L. Markov. arXiv, 2021.
 - [NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning](https://arxiv.org/abs/2102.00714) [[website](http://polixir.ai/research/neorl)] [[code](https://agit.ai/Polixir/neorl)]
@@ -445,6 +455,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 
 ### Off-Policy Evaluation: Benchmarks/Experiments/Applications
+- [Towards Automatic Evaluation of Dialog Systems: A Model-Free Off-Policy Evaluation Approach](https://arxiv.org/abs/2102.10242)
+  - Haoming Jiang, Bo Dai, Mengjiao Yang, Wei Wei, and Tuo Zhao. arXiv, 2021.
 - [Benchmarks for Deep Off-Policy Evaluation](https://openreview.net/forum?id=kWSeGEeHvF8) [[code](https://github.com/google-research/deep_ope)]
   - Justin Fu, Mohammad Norouzi, Ofir Nachum, George Tucker, ziyu wang, Alexander Novikov, Mengjiao Yang, Michael R Zhang, Yutian Chen, Aviral Kumar, Cosmin Paduraru, Sergey Levine, and Thomas Paine. ICLR, 2021.
 - [Large-scale Open Dataset, Pipeline, and Benchmark for Bandit Algorithms](https://arxiv.org/abs/2008.07146) [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
