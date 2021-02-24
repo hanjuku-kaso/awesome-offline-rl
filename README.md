@@ -346,7 +346,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](https://dl.acm.org/doi/10.1145/1935826.1935878)
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
 #### Reinforcement Learning
-
+- [Sequential causal inference in a single world of connected units](https://arxiv.org/abs/2101.07380)
+  - Aurelien Bibaut, Maya Petersen, Nikos Vlassis, Maria Dimakopoulou, and Mark van der Laan, arXiv, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
 - [Bootstrapping Statistical Inference for Off-Policy Evaluation](https://arxiv.org/abs/2102.03607)
