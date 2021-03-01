@@ -127,9 +127,9 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Daniel Hein, Steffen Limmer, and Thomas A. Runkler. arXiv, 2020.
 - [Efficient Evaluation of Natural Stochastic Policies in Offline Reinforcement Learning](https://arxiv.org/abs/2006.03886) [[code](https://github.com/CausalML/NaturalStochasticOPE)]
   - Nathan Kallus and Masatoshi Uehara. arXiv, 2020.
-- [Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) [[website](https://awacrl.github.io/)]
+- [Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) [[website](https://awacrl.github.io/)] [[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
   - Ashvin Nair, Murtaza Dalal, Abhishek Gupta, and Sergey Levine. arXiv, 2020.
-- [DisCor: Corrective Feedback in Reinforcement Learning via Distribution Correction](https://arxiv.org/abs/2003.07305)
+- [DisCor: Corrective Feedback in Reinforcement Learning via Distribution Correction](https://arxiv.org/abs/2003.07305) [[blog](https://bair.berkeley.edu/blog/2020/03/16/discor/)]
   - Aviral Kumar, Abhishek Gupta, and Sergey Levine. arXiv, 2020.
 - [Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies](https://papers.nips.cc/paper/2020/hash/75df63609809c7a2052fdffe5c00a84e-Abstract.html)
   - Nathan Kallus and Masatoshi Uehara. NeurIPS, 2020.
@@ -137,20 +137,20 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ziyu Wang, Alexander Novikov, Konrad Zolna, Josh S. Merel, Jost Tobias Springenberg, Scott E. Reed, Bobak Shahriari, Noah Siegel, Caglar Gulcehre, Nicolas Heess, and Nando de Freitas. NeurIPS, 2020
 - [Provably Good Batch Off-Policy Reinforcement Learning Without Great Exploration](https://papers.nips.cc/paper/2020/hash/0dc23b6a0e4abc39904388dd3ffadcd1-Abstract.html)
   - Yao Liu, Adith Swaminathan, Alekh Agarwal, and Emma Brunskill. NeurIPS, 2020.
-- [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) [[website](https://sites.google.com/view/cql-offline-rl)] [[code](https://github.com/aviralkumar2907/CQL)]
+- [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) [[website](https://sites.google.com/view/cql-offline-rl)] [[code](https://github.com/aviralkumar2907/CQL)] [[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
   - Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. NeurIPS, 2020.
 - [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/d55cbf210f175f4a37916eafe6c04f0d-Abstract.html)
   - Xinyue Chen, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, and Keith Ross. NeurIPS, 2020.
 - [MOPO: Model-based Offline Policy Optimization](https://papers.nips.cc/paper/2020/hash/a322852ce0df73e204b7e67cbbef0d0a-Abstract.html) [[code](https://github.com/tianheyu927/mopo)]
   - Tianhe Yu, Garrett Thomas, Lantao Yu, Stefano Ermon, James Y. Zou, Sergey Levine, Chelsea Finn, and Tengyu Ma. NeurIPS, 2020.
-- [MOReL: Model-Based Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/f7efa4f864ae9b88d43527f4b14f750f-Abstract.html)
+- [MOReL: Model-Based Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/f7efa4f864ae9b88d43527f4b14f750f-Abstract.html) [[podcast](https://twimlai.com/morel-model-based-offline-reinforcement-learning-with-aravind-rajeswaran/)]
   - Rahul Kidambi, Aravind Rajeswaran, Praneeth Netrapalli, and Thorsten Joachims. NeurIPS, 2020.
 - [Expert-Supervised Reinforcement Learning for Offline Policy Learning and Evaluation](https://papers.nips.cc/paper/2020/hash/daf642455364613e2120c636b5a1f9c7-Abstract.html)
   - Aaron Sonabend, Junwei Lu, Leo Anthony Celi, Tianxi Cai, and Peter Szolovits. NeurIPS, 2020.
 - [Multi-task Batch Reinforcement Learning with Metric Learning](https://papers.nips.cc/paper/2020/hash/4496bf24afe7fab6f046bf4923da8de6-Abstract.html)
   - Jiachen Li, Quan Vuong, Shuang Liu, Minghua Liu, Kamil Ciosek, Henrik Christensen, and Hao Su. NeurIPS, 2020.
-- [Counterfactual Data Augmentation using Locally Factored Dynamics](https://papers.nips.cc/paper/2020/hash/294e09f267683c7ddc6cc5134a7e68a8-Abstract.html)
-  - Silviu Pitis, Elliot Creager, and Animesh Garg. NeurIPS, 2020. [[code](https://github.com/spitis/mrl)]
+- [Counterfactual Data Augmentation using Locally Factored Dynamics](https://papers.nips.cc/paper/2020/hash/294e09f267683c7ddc6cc5134a7e68a8-Abstract.html) [[code](https://github.com/spitis/mrl)]
+  - Silviu Pitis, Elliot Creager, and Animesh Garg. NeurIPS, 2020.
 - [On Reward-Free Reinforcement Learning with Linear Function Approximation](https://papers.nips.cc/paper/2020/hash/ce4449660c6523b377b22a1dc2da5556-Abstract.html)
   - Ruosong Wang, Simon S. Du, Lin Yang, and Russ R. Salakhutdinov. NeurIPS, 2020.
 - [Constrained Policy Improvement for Safe and Efficient Reinforcement Learning](https://www.ijcai.org/Proceedings/2020/396)
@@ -167,6 +167,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ruiyi Zhang, Bo Dai, Lihong Li, and Dale Schuurmans. ICLR, 2020.
 - [Keep Doing What Worked: Behavior Modelling Priors for Offline Reinforcement Learning](https://openreview.net/forum?id=rke7geHtwH)
   - Noah Siegel, Jost Tobias Springenberg, Felix Berkenkamp, Abbas Abdolmaleki, Michael Neunert, Thomas Lampe, Roland Hafner, Nicolas Heess, and Martin Riedmiller. ICLR, 2020.
+- [COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning](https://arxiv.org/abs/2010.14500) [[website](https://sites.google.com/view/cog-rl)] [[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)] [[code](https://github.com/avisingh599/cog)]
+  - Avi Singh, Albert Yu, Jonathan Yang, Jesse Zhang, Aviral Kumar, and Sergey Levine. CoRL, 2020.
 - [Accelerating Reinforcement Learning with Learned Skill Priors](https://arxiv.org/abs/2010.11944)
   - Karl Pertsch, Youngwoon Lee, and Joseph J. Lim. CoRL, 2020.
 - [Scaling data-driven robotics with reward sketching and batch reinforcement learning](https://arxiv.org/abs/1909.12200) [[website](https://sites.google.com/view/data-driven-robotics/)]
@@ -189,7 +191,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Xue Bin Peng, Aviral Kumar, Grace Zhang, and Sergey Levine. arXiv, 2019.
 - [AlgaeDICE: Policy Gradient from Arbitrary Experience](https://arxiv.org/abs/1912.02074)
   - Ofir Nachum, Bo Dai, Ilya Kostrikov, Yinlam Chow, Lihong Li, and Dale Schuurmans. arXiv, 2019.
-- [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://papers.nips.cc/paper/2019/hash/c2073ffa77b5357a498057413bb09d3a-Abstract.html) [[website](https://sites.google.com/view/bear-off-policyrl)] [[code](https://github.com/aviralkumar2907/BEAR)]
+- [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://papers.nips.cc/paper/2019/hash/c2073ffa77b5357a498057413bb09d3a-Abstract.html) [[website](https://sites.google.com/view/bear-off-policyrl)] [[blog](https://bair.berkeley.edu/blog/2019/12/05/bear/)] [[code](https://github.com/aviralkumar2907/BEAR)]
   - Aviral Kumar, Justin Fu, George Tucker, and Sergey Levine. NeurIPS, 2019.
 - [Off-Policy Deep Reinforcement Learning without Exploration](http://proceedings.mlr.press/v97/fujimoto19a.html)
   - Scott Fujimoto, David Meger, and Doina Precup. ICML, 2019.
@@ -247,11 +249,11 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Filippo Vannella, Grigorios Iakovidis, Ezeddin Al Hakim, Erik Aumayr, and Saman Feghhi. arXiv, 2020.
 - [Offline Reinforcement Learning Hands-On](https://arxiv.org/abs/2011.14379)
   - Louis Monier, Jakub Kmec, Alexandre Laterre, Thomas Pierrot, Valentin Courgeau, Olivier Sigaud, Karim Beguir. arXiv, 2020.
-- [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) [[code](https://github.com/rail-berkeley/d4rl)] [[website](https://sites.google.com/view/d4rl/home)]
+- [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) [[website](https://sites.google.com/view/d4rl/home)] [[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] [[code](https://github.com/rail-berkeley/d4rl)]
   - Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
 - [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) [[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged)] [[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
   - Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. arXiv, 2020.
-- [An Optimistic Perspective on Offline Reinforcement Learning](http://proceedings.mlr.press/v119/agarwal20c.html) [[website](https://offline-rl.github.io/)]
+- [An Optimistic Perspective on Offline Reinforcement Learning](http://proceedings.mlr.press/v119/agarwal20c.html) [[website](https://offline-rl.github.io/)] [[blog](https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html)]
   - Rishabh Agarwal, Dale Schuurmans, and Mohammad Norouzi. ICML, 2020.
 - [Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning](http://proceedings.mlr.press/v119/rakhsha20a.html)
   - Amin Rakhsha, Goran Radanovic, Rati Devidze, Xiaojin Zhu, and Adish Singla. ICML, 2020.
@@ -474,7 +476,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline Comparative Evaluation with Incremental, Minimally-Invasive Online Feedback](https://dl.acm.org/doi/10.1145/3209978.3210050)
   - Ben Carterette and Praveen Chandar. SIGIR, 2018.
 
-## Open Source Software / Implementations
+## Open Source Software/Implementations
 - [Open Bandit Pipeline: a research framework for bandit algorithms and off-policy evaluation](https://github.com/st-tech/zr-obp) [[paper](https://arxiv.org/abs/2008.07146)] [[documentation](https://zr-obp.readthedocs.io/en/latest/index.html)] [[public dataset](https://research.zozo.com/data.html)]
   - Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita.
 - [d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy) [[website](https://takuseno.github.io/d3rlpy/)] [[documentation](https://d3rlpy.readthedocs.io/en/v0.70/)]
@@ -493,6 +495,35 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - David Rohde, Stephen Bonner, Travis Dunlop, Flavian Vasile, and Alexandros Karatzoglou.
 - [MARS-Gym: A Gym framework to model, train, and evaluate Recommender Systems for Marketplaces](https://github.com/deeplearningbrasil/mars-gym) [[paper](https://arxiv.org/abs/2010.07035)] [[documantation](https://mars-gym.readthedocs.io/en/latest/)]
   - Marlesson R. O. Santana, Luckeciano C. Melo, Fernando H. F. Camargo, Bruno Brandão, Anderson Soares, Renan M. Oliveira, and Sandor Caetano.
+
+## Blog/Podcast
+### Blog
+- [Offline Reinforcement Learning: How Conservative Algorithms Can Enable New Applications](https://bair.berkeley.edu/blog/2020/12/07/offline/)
+  - Aviral Kumar and Avi Singh. BAIR Blog, 2020.
+- [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://bair.berkeley.edu/blog/2020/09/10/awac/)
+  - Ashvin Nair and Abhishek Gupta. BAIR Blog, 2020.
+- [D4RL: Building Better Benchmarks for Offline Reinforcement Learning](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)
+  - Justin Fu. BAIR Blog, 2020.
+- [Does On-Policy Data Collection Fix Errors in Off-Policy Reinforcement Learning?](https://bair.berkeley.edu/blog/2020/03/16/discor/)
+  - Aviral Kumar and Abhishek Gupta. BAIR Blog, 2020.
+- [Tackling Open Challenges in Offline Reinforcement Learning](https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html)
+  - George Tucker and Sergey Levine. Google AI Blog, 2020.
+- [An Optimistic Perspective on Offline Reinforcement Learning](https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html)
+  - Rishabh Agarwal and Mohammad Norouzi. Google AI Blog, 2020.
+- [Decisions from Data: How Offline Reinforcement Learning Will Change How We Use Machine Learning](https://medium.com/@sergey.levine/decisions-from-data-how-offline-reinforcement-learning-will-change-how-we-use-ml-24d98cb069b0)
+  - Sergey Levine. Medium, 2020.
+- [Introducing completely free datasets for data-driven deep reinforcement learning](https://towardsdatascience.com/introducing-completely-free-datasets-for-data-driven-deep-reinforcement-learning-a51e9bed85f9)
+  - Takuma Seno. towards data science, 2020.
+- [Offline (Batch) Reinforcement Learning: A Review of Literature and Applications](https://danieltakeshi.github.io/2020/06/28/offline-rl/)
+  - Daniel Seita. danieltakeshi.github.io, 2020.
+- [Data-Driven Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2019/12/05/bear/)
+  - Aviral Kumar. BAIR Blog, 2019.
+
+### Podcast
+- [Off-Line, Off-Policy RL for Real-World Decision Making at Facebook](https://twimlai.com/off-line-off-policy-rl-for-real-world-decision-making-at-facebook/)
+  - Jason Gauci. TWIML, 2021.
+- [MOReL: Model-Based Offline Reinforcement Learning with Aravind Rajeswaran](https://twimlai.com/morel-model-based-offline-reinforcement-learning-with-aravind-rajeswaran/)
+  - Aravind Rajeswaran. TWIML, 2020.
 
 ## Related Workshops
 
