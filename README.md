@@ -360,6 +360,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 #### Reinforcement Learning
 - [Sequential causal inference in a single world of connected units](https://arxiv.org/abs/2101.07380)
   - Aurelien Bibaut, Maya Petersen, Nikos Vlassis, Maria Dimakopoulou, and Mark van der Laan, arXiv, 2021.
+- [Minimax Model Learning](http://www.yisongyue.com/publications/aistats2021_mml.pdf)
+   - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
 - [Bootstrapping Statistical Inference for Off-Policy Evaluation](https://arxiv.org/abs/2102.03607)
@@ -418,6 +420,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Alexander Irpan, Kanishka Rao, Konstantinos Bousmalis, Chris Harris, Julian Ibarz, and Sergey Levine. NeuIPS, 2019.
 - [Off-Policy Evaluation and Learning from Logged Bandit Feedback: Error Reduction via Surrogate Policy](https://openreview.net/forum?id=HklKui0ct7)
   - Yuan Xie, Boyi Liu, Qiang Liu, Zhaoran Wang, Yuan Zhou, and Jian Peng. ICLR, 2019.
+- [Batch Policy Learning under Constraints](https://arxiv.org/abs/1903.08738) [[code](https://github.com/clvoloshin/constrained_batch_policy_learning)] [[website](https://sites.google.com/view/constrained-batch-policy-learn/)]
+  - Hoang M. Le, Cameron Voloshin, and Yisong Yue. ICML, 2019.
 - [More Efficient Off-Policy Evaluation through Regularized Targeted Learning](http://proceedings.mlr.press/v97/bibaut19a.html)
   - Aurelien Bibaut, Ivana Malenica, Nikos Vlassis, and Mark Van Der Laan. ICML, 2019.
 - [Combining parametric and nonparametric models for off-policy evaluation](http://proceedings.mlr.press/v97/gottesman19a.html)
@@ -463,6 +467,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Justin Fu, Mohammad Norouzi, Ofir Nachum, George Tucker, ziyu wang, Alexander Novikov, Mengjiao Yang, Michael R Zhang, Yutian Chen, Aviral Kumar, Cosmin Paduraru, Sergey Levine, and Thomas Paine. ICLR, 2021.
 - [Open Bandit Dataset and Pipeline: Towards Realistic and Reproducible Off-Policy Evaluation](https://arxiv.org/abs/2008.07146) [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
   - Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. arXiv, 2020.
+- [Empirical Study of Off-Policy Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/1911.06854) [[code](https://github.com/clvoloshin/OPE-tools)]
+   - Cameron Voloshin, Hoang M. Le, Nan Jiang, and Yisong Yue, arXiv, 2019.
 - [Off-Policy Evaluation of Probabilistic Identity Data in Lookalike Modeling](https://dl.acm.org/doi/10.1145/3289600.3291033)
   - Randell Cotta, Dan Jiang, Mingyang Hu, and Peizhou Liao. WSDM, 2019.
 - [Offline Evaluation to Make Decisions About Playlist Recommendation](https://dl.acm.org/doi/10.1145/3289600.3291027)
