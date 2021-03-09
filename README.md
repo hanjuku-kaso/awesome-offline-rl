@@ -25,6 +25,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Instabilities of Offline RL with Pre-Trained Neural Representation](https://arxiv.org/abs/2103.04947)
+  - Ruosong Wang, Yifan Wu, Ruslan Salakhutdinov, and Sham M. Kakade. arXiv, 2021.
 - [Improved Context-Based Offline Meta-RL with Attention and Contrastive Learning](https://arxiv.org/abs/2102.10774)
   - Lanqing Li, Yuanhao Huang, and Dijun Luo. arXiv, 2021.
 - [Instrumental Variable Value Iteration for Causal Offline Reinforcement Learning](https://arxiv.org/abs/2102.09907)
@@ -530,6 +532,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Jason Gauci. TWIML, 2021.
 - [MOReL: Model-Based Offline Reinforcement Learning with Aravind Rajeswaran](https://twimlai.com/morel-model-based-offline-reinforcement-learning-with-aravind-rajeswaran/)
   - Aravind Rajeswaran. TWIML, 2020.
+- [Trends in Reinforcement Learning with Chelsea Finn](https://twimlai.com/twiml-talk-335-trends-in-reinforcement-learning-with-chelsea-finn/)
+  - Chelsea Finn. TWIML, 2020.
 
 ## Related Workshops
 
@@ -540,7 +544,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Safety and Robustness in Decision Making (NeurIPS 2019)](https://sites.google.com/view/neurips19-safe-robust-workshop)
 
 ## Tutorials/Talks/Lectures
-
+- [Principles for Tackling Distribution Shift: Pessimism, Adaptation, and Anticipation](https://www.youtube.com/watch?v=QKBh6TmvBaw)
+  - Chelsea Finn. 2020-2021 Machine Learning Advances and Applications Seminar.
 - [Offline RL](https://slideslive.com/38938455/offline-rl)
   - Nando de Freitas. NeurIPS2020 OfflineRL Workshop.
 - [Data Scalability for Robot Learning](https://youtu.be/LGlgSeWemcM)
