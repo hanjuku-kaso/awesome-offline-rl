@@ -544,12 +544,14 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Safety and Robustness in Decision Making (NeurIPS 2019)](https://sites.google.com/view/neurips19-safe-robust-workshop)
 
 ## Tutorials/Talks/Lectures
+- [A Gentle Introduction to Offline Reinforcement Learning](https://m.youtube.com/watch?v=tW-BNW1ApN8&feature=youtu.be)
+  - Sergey Levine. 2021.
 - [Principles for Tackling Distribution Shift: Pessimism, Adaptation, and Anticipation](https://www.youtube.com/watch?v=QKBh6TmvBaw)
   - Chelsea Finn. 2020-2021 Machine Learning Advances and Applications Seminar.
+- [Offline Reinforcement Learning: Incorporating Knowledge from Data into RL](https://m.youtube.com/watch?v=KzZFN8zUxkI&feature=youtu.be)
+  - Sergey Levine. IJCAI-PRICAI2020 Knowledge Based Reinforcement Learning Workshop.
 - [Offline RL](https://slideslive.com/38938455/offline-rl)
   - Nando de Freitas. NeurIPS2020 OfflineRL Workshop.
-- [Data Scalability for Robot Learning](https://youtu.be/LGlgSeWemcM)
-  - Chelsea Finn. RI Seminar2020.
 - [Learning a Multi-Agent Simulator from Offline Demonstrations](https://slideslive.com/38938458/learning-a-multiagent-simulator-from-offline-demonstrations)
   - Brandyn White. NeurIPS2020 OfflineRL Workshop.
 - [Towards Reliable Validation and Evaluation for Offline RL](https://slideslive.com/38938459/towards-reliable-validation-and-evaluation-for-offline-rl)
@@ -558,6 +560,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Finale Doshi-Velez. NeurIPS2020 OfflineRL Workshop.
 - [Offline Reinforcement Learning: From Algorithms to Practical Challenges](https://sites.google.com/view/offlinerltutorial-neurips2020/home)
   - Aviral Kumar and Sergey Levine. NeurIPS2020.
+- [Data Scalability for Robot Learning](https://youtu.be/LGlgSeWemcM)
+  - Chelsea Finn. RI Seminar2020.
 - [Statistically Efficient Offline Reinforcement Learning](https://youtu.be/n5ZoxT_WmHo)
   - Nathan Kallus. ARL Seminor2020.
 - [Near Optimal Provable Uniform Convergence in Off-Policy Evaluation for Reinforcement Learning](https://youtu.be/FWZewbQykv4)
