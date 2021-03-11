@@ -492,7 +492,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [MINERVA: An out-of-the-box GUI tool for data-driven deep reinforcement learning](https://github.com/takuseno/minerva) [[website](https://takuseno.github.io/minerva/)] [[documentation](https://minerva-ui.readthedocs.io/en/v0.20/)]
   - Takuma Seno.
 - [Benchmarks for Deep Off-Policy Evaluation](https://github.com/google-research/deep_ope) [[paper](https://openreview.net/forum?id=kWSeGEeHvF8)]
-  - Justin Fu, Mohammad Norouzi, Ofir Nachum, George Tucker, ziyu wang, Alexander Novikov, Mengjiao Yang, Michael R Zhang, Yutian Chen, Aviral Kumar, Cosmin Paduraru, Sergey Levine, and Thomas Paine.
+  - Justin Fu, Mohammad Norouzi, Ofir Nachum, George Tucker, Ziyu Wang, Alexander Novikov, Mengjiao Yang, Michael R Zhang, Yutian Chen, Aviral Kumar, Cosmin Paduraru, Sergey Levine, and Thomas Paine.
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) [[paper](https://arxiv.org/abs/2004.07219)] [[website](https://sites.google.com/view/d4rl/home)]
   - Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine.
 - [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) [[paper](https://arxiv.org/abs/2006.13888)] [[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
