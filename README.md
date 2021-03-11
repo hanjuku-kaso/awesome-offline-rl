@@ -65,7 +65,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Lanqing Li, Rui Yang, and Dijun Luo. ICLR, 2021.
 - [DeepAveragers: Offline Reinforcement Learning by Solving Derived Non-Parametric MDPs](https://openreview.net/forum?id=eMP1j9efXtX)
   - Aayam Kumar Shrestha, Stefan Lee, Prasad Tadepalli, and Alan Fern. ICLR, 2021.
-- [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://openreview.net/forum?id=30EvkP2aQLD)
+- [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://openreview.net/forum?id=30EvkP2aQLD) [[video](https://www.youtube.com/watch?v=FkkphMeFapg)]
   - Ruosong Wang, Dean Foster, and Sham M. Kakade. ICLR, 2021.
 - [Reset-Free Lifelong Learning with Skill-Space Planning](https://openreview.net/forum?id=HIGSa_3kOx3) [[website](https://sites.google.com/berkeley.edu/reset-free-lifelong-learning)]
   - Kevin Lu, Aditya Grover, Pieter Abbeel, and Igor Mordatch. ICLR, 2021.
@@ -544,6 +544,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Safety and Robustness in Decision Making (NeurIPS 2019)](https://sites.google.com/view/neurips19-safe-robust-workshop)
 
 ## Tutorials/Talks/Lectures
+- [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://www.youtube.com/watch?v=FkkphMeFapg)
+  - Ruosong Wang. RL Theory Seminar2021.
+- [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://www.youtube.com/watch?v=YktnEdsxYfc&feature=youtu.be)
+  - Andrea Zanette. RL Theory Seminar2021.
 - [A Gentle Introduction to Offline Reinforcement Learning](https://m.youtube.com/watch?v=tW-BNW1ApN8&feature=youtu.be)
   - Sergey Levine. 2021.
 - [Principles for Tackling Distribution Shift: Pessimism, Adaptation, and Anticipation](https://www.youtube.com/watch?v=QKBh6TmvBaw)
@@ -568,8 +572,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yu-Xiang Wang. RL Theory Seminar2020.
 - [Minimax-Optimal Off-Policy Evaluation with Linear Function Approximation](https://youtu.be/TX9KBofFZ8s)
   - Mengdi Wang. RL Theory Seminar2020.
-- [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://www.youtube.com/watch?v=YktnEdsxYfc&feature=youtu.be)
-  - Andrea Zanette. RL Theory Seminar2020.
 - [Beyond the Training Distribution: Embodiment, Adaptation, and Symmetry](https://www.youtube.com/watch?v=wv1zXnxRCCM&feature=youtu.be)
   - Chelsea Finn. EI Seminar2020.
 - [Combining Statistical methods with Human Input for Evaluation and Optimization in Batch Settings](https://slideslive.com/38922630/combining-statistical-methods-with-human-input-for-evaluation-and-optimization-in-batch-settings)
