@@ -25,6 +25,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
+  - Samarth Sinha and Animesh Garg. arXiv, 2021.
+- [Causal-aware Safe Policy Improvement for Task-oriented dialogue](https://arxiv.org/abs/2103.06370)
+  - Govardana Sachithanandam Ramachandran, Kazuma Hashimoto, and Caiming Xiong. arXiv, 2021.
 - [Instabilities of Offline RL with Pre-Trained Neural Representation](https://arxiv.org/abs/2103.04947)
   - Ruosong Wang, Yifan Wu, Ruslan Salakhutdinov, and Sham M. Kakade. arXiv, 2021.
 - [Improved Context-Based Offline Meta-RL with Attention and Contrastive Learning](https://arxiv.org/abs/2102.10774)
