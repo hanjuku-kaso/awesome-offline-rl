@@ -25,6 +25,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Offline Reinforcement Learning with Fisher Divergence Critic Regularization](https://arxiv.org/abs/2103.08050)
+  - Ilya Kostrikov, Jonathan Tompson, Rob Fergus, and Ofir Nachum. arXiv, 2021.
 - [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
   - Samarth Sinha and Animesh Garg. arXiv, 2021.
 - [Causal-aware Safe Policy Improvement for Task-oriented dialogue](https://arxiv.org/abs/2103.06370)
@@ -245,6 +247,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Pavlos Athanasios Apostolopoulos, Zehui Wang, Hanson Wang, Chad Zhou, Kittipat Virochsiri, Norm Zhou, and Igor L. Markov. arXiv, 2021.
 - [NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning](https://arxiv.org/abs/2102.00714) [[website](http://polixir.ai/research/neorl)] [[code](https://agit.ai/Polixir/neorl)]
   - Rongjun Qin, Songyi Gao, Xingyuan Zhang, Zhen Xu, Shengkai Huang, Zewen Li, Weinan Zhang, and Yang Yu. arXiv, 2021.
+- [Learning robust driving policies without online exploration](https://arxiv.org/abs/2103.08070)
+  - Daniel Graves, Nhat M. Nguyen, Kimia Hassanzadeh, Jun Jin, and Jun Luo. ICRA, 2021.
 - [Batch-Constrained Distributional Reinforcement Learning for Session-based Recommendation](https://arxiv.org/abs/2012.08984)
   - Diksha Garg, Priyanka Gupta, Pankaj Malhotra, Lovekesh Vig, and Gautam Shroff. arXiv, 2020.
 - [An Empirical Study of Representation Learning for Reinforcement Learning in Healthcare](https://arxiv.org/abs/2011.11235)
