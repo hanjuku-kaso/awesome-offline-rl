@@ -323,7 +323,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Noveen Sachdeva, Yi Su, and Thorsten Joachims. KDD, 2020.
 - [Doubly robust off-policy evaluation with shrinkage](http://proceedings.mlr.press/v119/su20a.html)
   - Yi Su, Maria Dimakopoulou, Akshay Krishnamurthy, and Miroslav Dudik. ICML, 2020.
-- [Adaptive Estimator Selection for Off-Policy Evaluation](http://proceedings.mlr.press/v119/su20d.html)
+- [Adaptive Estimator Selection for Off-Policy Evaluation](http://proceedings.mlr.press/v119/su20d.html) [[video](https://www.youtube.com/watch?v=r8ZDuC71lCs)]
   - Yi Su, Pavithra Srinath, and Akshay Krishnamurthy. ICML, 2020.
 - [Off-policy Bandit and Reinforcement Learning](https://arxiv.org/abs/2002.08536)
   - Yusuke Narita, Shota Yasui, and Kohei Yata. arXiv, 2020.
@@ -552,6 +552,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Safety and Robustness in Decision Making (NeurIPS 2019)](https://sites.google.com/view/neurips19-safe-robust-workshop)
 
 ## Tutorials/Talks/Lectures
+- [Adaptive Estimator Selection for Off-Policy Evaluation](https://www.youtube.com/watch?v=r8ZDuC71lCs)
+  - Yi Su. RL Theory Seminar2021.
 - [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://www.youtube.com/watch?v=FkkphMeFapg)
   - Ruosong Wang. RL Theory Seminar2021.
 - [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://www.youtube.com/watch?v=YktnEdsxYfc&feature=youtu.be)
