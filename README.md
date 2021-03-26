@@ -25,6 +25,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Risk Bounds and Rademacher Complexity in Batch Reinforcement Learning](https://arxiv.org/abs/2103.13883)
+  - Yaqi Duan, Chi Jin, and Zhiyuan Li. arXiv, 2021.
 - [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021)
   - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. arXiv, 2021.
 - [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
