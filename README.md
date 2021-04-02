@@ -25,6 +25,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Risk Bounds and Rademacher Complexity in Batch Reinforcement Learning](https://arxiv.org/abs/2103.13883)
+  - Yaqi Duan, Chi Jin, and Zhiyuan Li. arXiv, 2021.
+- [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021)
+  - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. arXiv, 2021.
 - [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
   - Caglar Gulcehre, Sergio Gómez Colmenarejo, Ziyu Wang, Jakub Sygnowski, Thomas Paine, Konrad Zolna, Yutian Chen, Matthew Hoffman, Razvan Pascanu, and Nando de Freitas. arXiv, 2021.
 - [Offline Reinforcement Learning with Fisher Divergence Critic Regularization](https://arxiv.org/abs/2103.08050)
@@ -243,6 +247,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [pH-RL: A personalization architecture to bring reinforcement learning to health practice](https://arxiv.org/abs/2103.15908)
+  - Ali el Hassouni, Mark Hoogendoorn, Marketa Ciharova, Annet Kleiboer, Khadicha Amarti, Vesa Muhonen, Heleen Riper, and A. E. Eiben. arXiv, 2021.
 - [DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning](https://arxiv.org/abs/2102.11492)
   - Xianyuan Zhan, Haoran Xu, Yue Zhang, Yusen Huo, Xiangyu Zhu, Honglei Yin, and Yu Zheng. arXiv, 2021.
 - [Personalization for Web-based Services using Offline Reinforcement Learning](https://arxiv.org/abs/2102.05612)
