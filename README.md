@@ -25,6 +25,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Distributional Offline Continuous-Time Reinforcement Learning with Neural Physics-Informed PDEs (SciPhy RL for DOCTR-L)](https://arxiv.org/abs/2104.01040)
+  - Igor Halperin. arXiv, 2021.
 - [Risk Bounds and Rademacher Complexity in Batch Reinforcement Learning](https://arxiv.org/abs/2103.13883)
   - Yaqi Duan, Chi Jin, and Zhiyuan Li. arXiv, 2021.
 - [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021)
