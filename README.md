@@ -111,7 +111,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Rafael Rafailov, Tianhe Yu, Aravind Rajeswaran, and Chelsea Finn. arXiv, 2020.
 - [POPO: Pessimistic Offline Policy Optimization](https://arxiv.org/abs/2012.13682)
   - Qiang He and Xinwen Hou. arXiv, 2020.
-- [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085)
+- [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) [[video](https://www.youtube.com/watch?v=vCQsZ5pzHPk)]
   - Ying Jin, Zhuoran Yang, and Zhaoran Wang. arXiv, 2020.
 - [Reinforcement Learning with Videos: Combining Offline Observations with Interaction](https://arxiv.org/abs/2011.06507)
   - Karl Schmeckpeper, Oleh Rybkin, Kostas Daniilidis, Sergey Levine, and Chelsea Finn. arXiv, 2020.
@@ -562,6 +562,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Safety and Robustness in Decision Making (NeurIPS 2019)](https://sites.google.com/view/neurips19-safe-robust-workshop)
 
 ## Tutorials/Talks/Lectures
+- [Is Pessimism Provably Efficient for Offline RL?](https://www.youtube.com/watch?v=vCQsZ5pzHPk)
+  - Ying Jin. RL Theory Seminar2021.
 - [Adaptive Estimator Selection for Off-Policy Evaluation](https://www.youtube.com/watch?v=r8ZDuC71lCs)
   - Yi Su. RL Theory Seminar2021.
 - [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://www.youtube.com/watch?v=FkkphMeFapg)
