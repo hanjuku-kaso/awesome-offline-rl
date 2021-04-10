@@ -562,6 +562,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Safety and Robustness in Decision Making (NeurIPS 2019)](https://sites.google.com/view/neurips19-safe-robust-workshop)
 
 ## Tutorials/Talks/Lectures
+- [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
+  - Guy Tennenholtz. CHIL2021.
 - [Is Pessimism Provably Efficient for Offline RL?](https://www.youtube.com/watch?v=vCQsZ5pzHPk)
   - Ying Jin. RL Theory Seminar2021.
 - [Adaptive Estimator Selection for Off-Policy Evaluation](https://www.youtube.com/watch?v=r8ZDuC71lCs)
