@@ -470,8 +470,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [More Robust Doubly Robust Off-policy Evaluation](https://arxiv.org/abs/1802.03493)
   - Mehrdad Farajtabar, Yinlam Chow, and Mohammad Ghavamzadeh. ICML, 2018.
 - [Importance Sampling for Fair Policy Selection](https://people.cs.umass.edu/~pthomas/papers/Doroudi2017.pdf)
-- [Behaviour Policy Estimation in Off-Policy Policy Evaluation: Calibration Matters](https://arxiv.org/abs/1807.01066)
-  - Aniruddh Raghu, Omer Gottesman, Yao Liu, Matthieu Komorowski, Aldo Faisal, Finale Doshi-Velez, and Emma Brunskill. arXiv, 2018.
   - Shayan Doroudi, Philip Thomas, and Emma Brunskill. UAI, 2017.
 - [Predictive Off-Policy Policy Evaluation for Nonstationary Decision Problems, with Applications to Digital Marketing](https://people.cs.umass.edu/~pthomas/papers/Thomas2017.pdf)
   - Philip S. Thomas, Georgios Theocharous, Mohammad Ghavamzadeh, Ishan Durugkar, and Emma Brunskill. AAAI, 2017.
@@ -502,6 +500,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Randell Cotta, Dan Jiang, Mingyang Hu, and Peizhou Liao. WSDM, 2019.
 - [Offline Evaluation to Make Decisions About Playlist Recommendation](https://dl.acm.org/doi/10.1145/3289600.3291027)
   - Alois Gruson, Praveen Chandar, Christophe Charbuillet, James McInerney, Samantha Hansen, Damien Tardieu, and Ben Carterette. WSDM, 2019.
+- [Behaviour Policy Estimation in Off-Policy Policy Evaluation: Calibration Matters](https://arxiv.org/abs/1807.01066)
+  - Aniruddh Raghu, Omer Gottesman, Yao Liu, Matthieu Komorowski, Aldo Faisal, Finale Doshi-Velez, and Emma Brunskill. arXiv, 2018.
 - [Evaluating Reinforcement Learning Algorithms in Observational Health Settings](https://arxiv.org/abs/1805.12298)
   - Omer Gottesman, Fredrik Johansson, Joshua Meier, Jack Dent, Donghun Lee, Srivatsan Srinivasan, Linying Zhang, Yi Ding, David Wihl, Xuefeng Peng, Jiayu Yao, Isaac Lage, Christopher Mosch, Li-wei H. Lehman, Matthieu Komorowski, Matthieu Komorowski, Aldo Faisal, Leo Anthony Celi, David Sontag, and Finale Doshi-Velez. arXiv, 2018.
 - [Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems](https://dl.acm.org/doi/10.1145/3269206.3272027)
