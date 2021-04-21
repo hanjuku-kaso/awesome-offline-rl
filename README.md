@@ -470,6 +470,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [More Robust Doubly Robust Off-policy Evaluation](https://arxiv.org/abs/1802.03493)
   - Mehrdad Farajtabar, Yinlam Chow, and Mohammad Ghavamzadeh. ICML, 2018.
 - [Importance Sampling for Fair Policy Selection](https://people.cs.umass.edu/~pthomas/papers/Doroudi2017.pdf)
+- [Behaviour Policy Estimation in Off-Policy Policy Evaluation: Calibration Matters](https://arxiv.org/abs/1807.01066)
+  - Aniruddh Raghu, Omer Gottesman, Yao Liu, Matthieu Komorowski, Aldo Faisal, Finale Doshi-Velez, and Emma Brunskill. arXiv, 2018.
   - Shayan Doroudi, Philip Thomas, and Emma Brunskill. UAI, 2017.
 - [Predictive Off-Policy Policy Evaluation for Nonstationary Decision Problems, with Applications to Digital Marketing](https://people.cs.umass.edu/~pthomas/papers/Thomas2017.pdf)
   - Philip S. Thomas, Georgios Theocharous, Mohammad Ghavamzadeh, Ishan Durugkar, and Emma Brunskill. AAAI, 2017.
