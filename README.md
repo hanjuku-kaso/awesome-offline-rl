@@ -571,7 +571,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Chelsea Finn. TWIML, 2020.
 
 ## Related Workshops
-- [Reinforcement Learning for Real Life Workshop (ICML2021)](https://sites.google.com/view/RL4RealLife)
+- [Reinforcement Learning for Real Life Workshop (ICML 2021)](https://sites.google.com/view/RL4RealLife)
 - [Reinforcement Learning Day 2021](https://www.microsoft.com/en-us/research/event/reinforcement-learning-day-2021/)
 - [Offline Reinforcement Learning Workshop (NeurIPS 2020)](https://offline-rl-neurips.github.io/)
 - [Reinforcement Learning from Batch Data and Simulation](https://simons.berkeley.edu/workshops/schedule/14240)
