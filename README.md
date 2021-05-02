@@ -95,6 +95,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Chuheng Zhang, Yuanying Cai, Longbo Huang, and Jian Li. AAAI, 2021.
 - [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783)
   - Kaiqing Zhang, Zhuoran Yang, Han Liu, Tong Zhang, and Tamer Başar. IEEE T AUTOMATIC CONTROL, 2021.
+- [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) [[website](https://awacrl.github.io/)] [[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac)] [[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
+  - Ashvin Nair, Abhishek Gupta, Murtaza Dalal, and Sergey Levine. arXiv, 2020.
 - [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://arxiv.org/abs/2012.08005)
   - Andrea Zanette. arXiv, 2020.
 - [Sparse Feature Selection Makes Batch Reinforcement Learning More Sample Efficient](https://arxiv.org/abs/2011.04019)
