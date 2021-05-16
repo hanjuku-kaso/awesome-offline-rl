@@ -579,6 +579,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Aravind Rajeswaran. TWIML, 2020.
 - [Trends in Reinforcement Learning with Chelsea Finn](https://twimlai.com/twiml-talk-335-trends-in-reinforcement-learning-with-chelsea-finn/)
   - Chelsea Finn. TWIML, 2020.
+- [Nan Jiang | TalkRL: The Reinforcement Learning Podcast](https://www.talkrl.com/episodes/nan-jiang)
+  - Nan Jiang. TalkRL, 2020.
+- [Scott Fujimoto | TalkRL: The Reinforcement Learning Podcast](https://www.talkrl.com/episodes/scott-fujimoto)
+  - Scott Fujimoto. TalkRL, 2019.
 
 ## Related Workshops
 - [Reinforcement Learning for Real Life Workshop (ICML 2021)](https://sites.google.com/view/RL4RealLife)
@@ -633,3 +637,5 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Nathan Kallus. NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
 - [Scaling Probabilistically Safe Learning to Robotics](https://slideslive.com/38922637/scaling-probabilistically-safe-learning-to-robotics?locale=en)
   - Scott Niekum. NeurIPS2019 Workshop on Safety and Robustness in Decision Making.
+- [Deep Reinforcement Learning in the Real World](https://www.youtube.com/watch?v=b97H5uz8xkI)
+  - Sergey Levine. Workshop on New Directions in Reinforcement Learning and Control2019.
