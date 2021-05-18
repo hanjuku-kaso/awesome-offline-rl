@@ -25,6 +25,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Model-Based Offline Planning with Trajectory Pruning](https://arxiv.org/abs/2105.07351)
+  - Xianyuan Zhan, Xiangyu Zhu, and Haoran Xu. arXiv, 2021.
 - [InferNet for Delayed Reinforcement Tasks: Addressing the Temporal Credit Assignment Problem](https://arxiv.org/abs/2105.00568)
   - Markel Sanz Ausin, Hamoon Azizsoltani, Song Ju, Yeo Jin Kim, and Min Chi. arXiv, 2021.
 - [Infinite-Horizon Offline Reinforcement Learning with Linear Function Approximation: Curse of Dimensionality and Algorithm](https://arxiv.org/abs/2103.09847) [[video](https://www.youtube.com/watch?v=uOIvo1wQ_RQ)]
@@ -79,6 +81,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ming Yin, Yu Bai, and Yu-Xiang Wang. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
+- [Model-Based Offline Planning](https://openreview.net/forum?id=OMNB1G5xzd4) [[video](https://www.youtube.com/watch?v=nxGGHdZOFts&feature=youtu.be)]
+  - Arthur Argenson and Gabriel Dulac-Arnold. ICLR, 2021.
 - [Batch Reinforcement Learning Through Continuation Method](https://openreview.net/forum?id=po-DLlBuAuz)
   - Yijie Guo, Shengyu Feng, Nicolas Le Roux, Ed Chi, Honglak Lee, and Minmin Chen. ICLR, 2021.
 - [Model-Based Visual Planning with Self-Supervised Functional Distances](https://openreview.net/forum?id=UcoXdfrORC)
@@ -143,8 +147,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Anna Bogomolova, Kseniia Kingsep, and Boris Voskresenskii. arXiv, 2020.
 - [Offline Meta-Reinforcement Learning with Advantage Weighting](https://arxiv.org/abs/2008.06043)
   - Eric Mitchell, Rafael Rafailov, Xue Bin Peng, Sergey Levine, and Chelsea Finn. arXiv, 2020.
-- [Model-Based Offline Planning](https://arxiv.org/abs/2008.05556) [[video](https://www.youtube.com/watch?v=nxGGHdZOFts&feature=youtu.be)]
-  - Arthur Argenson and Gabriel Dulac-Arnold. arXiv, 2020.
 - [Overcoming Model Bias for Robust Offline Deep Reinforcement Learning](https://arxiv.org/abs/2008.05533)
   - Phillip Swazinna, Steffen Udluft, and Thomas Runkler. arXiv, 2020.
 - [Offline Meta Learning of Exploration](https://arxiv.org/abs/2008.02598)
