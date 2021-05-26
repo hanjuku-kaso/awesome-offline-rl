@@ -267,6 +267,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Safe Model-based Off-policy Reinforcement Learning for Eco-Driving in Connected and Automated Hybrid Electric Vehicles](https://arxiv.org/abs/2105.11640)
+  - Zhaoxuan Zhu, Nicola Pivaro, Shobhit Gupta, Abhishek Gupta, and Marcello Canova. arXiv, 2021.
 - [Interpretable performance analysis towards offline reinforcement learning: A dataset perspective](https://arxiv.org/abs/2105.05473)
   - Chenyang Xi, Bo Tang, Jiajun Shen, Xinfu Liu, Feiyu Xiong, and Xueying Li. arXiv, 2021.
 - [pH-RL: A personalization architecture to bring reinforcement learning to health practice](https://arxiv.org/abs/2103.15908)
