@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
+  - Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, and Igor Mordatch. arXiv, 2021.
 - [Multi-Objective SPIBB: Seldonian Offline Policy Improvement with Safety Constraints in Finite MDPs](https://arxiv.org/abs/2106.00099)
   - Harsh Satija, Philip S. Thomas, Joelle Pineau, and Romain Laroche. arXiv, 2021.
 - [Model-Based Offline Planning with Trajectory Pruning](https://arxiv.org/abs/2105.07351)
