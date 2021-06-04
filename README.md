@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
+  - Michael Janner, Qiyang Li, and Sergey Levine. arXiv, 2021.
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
   - Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, and Igor Mordatch. arXiv, 2021.
 - [Multi-Objective SPIBB: Seldonian Offline Policy Improvement with Safety Constraints in Finite MDPs](https://arxiv.org/abs/2106.00099)
@@ -361,6 +363,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
+- [Off-Policy Evaluation via Adaptive Weighting with Data from Contextual Bandits](https://arxiv.org/abs/2106.02029)
+  - Ruohan Zhan, Vitor Hadad, David A. Hirshberg, and Susan Athey. arXiv, 2021.
 - [Off-Policy Risk Assessment in Contextual Bandits](https://arxiv.org/abs/2104.08977)
   - Audrey Huang, Liu Leqi, Zachary C. Lipton, and Kamyar Azizzadenesheli. arXiv, 2021.
 - [Off-Policy Evaluation of Slate Policies under Bayes Risk](https://arxiv.org/abs/2101.02553)
