@@ -40,6 +40,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Heuristic-Guided Reinforcement Learning](https://arxiv.org/abs/2106.02757)
+  - Ching-An Cheng, Andrey Kolobov, and Adith Swaminathan. arXiv, 2021.
+- [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400)
+  - Yiqin Yang, Xiaoteng Ma, Chenghao Li, Zewu Zheng, Qiyuan Zhang, Gao Huang, Jun Yang, and Qianchuan Zhao. arXiv, 2021.
 - [Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
   - Michael Janner, Qiyang Li, and Sergey Levine. arXiv, 2021.
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
