@@ -40,6 +40,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Offline Inverse Reinforcement Learning](https://arxiv.org/abs/2106.05068)
+  - Firas Jarboui and Vianney Perchet. arXiv, 2021.
+- [Policy Finetuning: Bridging Sample-Efficient Offline and Online Reinforcement Learning](https://arxiv.org/abs/2106.04895)
+  - Tengyang Xie, Nan Jiang, Huan Wang, Caiming Xiong, and Yu Bai. arXiv, 2021.
 - [Heuristic-Guided Reinforcement Learning](https://arxiv.org/abs/2106.02757)
   - Ching-An Cheng, Andrey Kolobov, and Adith Swaminathan. arXiv, 2021.
 - [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400)
@@ -108,6 +112,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
 - [Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning](https://arxiv.org/abs/2105.08140)
   - Yue Wu, Shuangfei Zhai, Nitish Srivastava, Joshua Susskind, Jian Zhang, Ruslan Salakhutdinov, and Hanlin Goh. ICML, 2021.
+- [Vector Quantized Models for Planning](https://arxiv.org/abs/2106.04615)
+  - Sherjil Ozair, Yazhe Li, Ali Razavi, Ioannis Antonoglou, Aäron van den Oord, and Oriol Vinyals. ICML, 2021.
 - [Model-Based Offline Planning](https://openreview.net/forum?id=OMNB1G5xzd4) [[video](https://www.youtube.com/watch?v=nxGGHdZOFts&feature=youtu.be)]
   - Arthur Argenson and Gabriel Dulac-Arnold. ICLR, 2021.
 - [Batch Reinforcement Learning Through Continuation Method](https://openreview.net/forum?id=po-DLlBuAuz)
