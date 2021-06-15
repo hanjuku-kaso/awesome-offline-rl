@@ -40,6 +40,14 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
+  - Scott Fujimoto and Shixiang Shane Gu. arXiv, 2021.
+- [Offline Reinforcement Learning as Anti-Exploration](https://arxiv.org/abs/2106.06431)
+  - Shideh Rezaeifar, Robert Dadashi, Nino Vieillard, Léonard Hussenot, Olivier Bachem, Olivier Pietquin, and Matthieu Geist. arXiv, 2021.
+- [Corruption-Robust Offline Reinforcement Learning](https://arxiv.org/abs/2106.06630)
+  - Xuezhou Zhang, Yiding Chen, Jerry Zhu, and Wen Sun. arXiv, 2021.
+- [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://arxiv.org/abs/2106.06926)
+  - Tengyang Xie, Ching-An Cheng, Nan Jiang, Paul Mineiro, and Alekh Agarwal. arXiv, 2021.
 - [Offline Inverse Reinforcement Learning](https://arxiv.org/abs/2106.05068)
   - Firas Jarboui and Vianney Perchet. arXiv, 2021.
 - [Policy Finetuning: Bridging Sample-Efficient Offline and Online Reinforcement Learning](https://arxiv.org/abs/2106.04895)
@@ -318,6 +326,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Leandro M. de Lima and Renato A. Krohling. IJCNN, 2021.
 - [Learning robust driving policies without online exploration](https://arxiv.org/abs/2103.08070)
   - Daniel Graves, Nhat M. Nguyen, Kimia Hassanzadeh, Jun Jin, and Jun Luo. ICRA, 2021.
+- [Offline Meta-level Model-based Reinforcement Learning Approach for Cold-Start Recommendation](https://arxiv.org/abs/2012.02476)
+  - Yanan Wang, Yong Ge, Li Li, Rui Chen, and Tong Xu. arXiv, 2020.
 - [Batch-Constrained Distributional Reinforcement Learning for Session-based Recommendation](https://arxiv.org/abs/2012.08984)
   - Diksha Garg, Priyanka Gupta, Pankaj Malhotra, Lovekesh Vig, and Gautam Shroff. arXiv, 2020.
 - [An Empirical Study of Representation Learning for Reinforcement Learning in Healthcare](https://arxiv.org/abs/2011.11235)
