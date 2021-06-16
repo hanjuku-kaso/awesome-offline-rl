@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [On Multi-objective Policy Optimization as a Tool for Reinforcement Learning](https://arxiv.org/abs/2106.08199)
+  - Abbas Abdolmaleki, Sandy H. Huang, Giulia Vezzani, Bobak Shahriari, Jost Tobias Springenberg, Shruti Mishra, Dhruva TB, Arunkumar Byravan, Konstantinos Bousmalis, Andras Gyorgy, Csaba Szepesvari, Raia Hadsell, Nicolas Heess, and Martin Riedmiller. arXiv, 2021.
 - [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
   - Scott Fujimoto and Shixiang Shane Gu. arXiv, 2021.
 - [Offline Reinforcement Learning as Anti-Exploration](https://arxiv.org/abs/2106.06431)
@@ -383,6 +385,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
+- [Control Variates for Slate Off-Policy Evaluation](https://arxiv.org/abs/2106.07914)
+  - Nikos Vlassis, Ashok Chandrashekar, Fernando Amat Gil, and Nathan Kallus. arXiv, 2021.
 - [Off-Policy Evaluation via Adaptive Weighting with Data from Contextual Bandits](https://arxiv.org/abs/2106.02029)
   - Ruohan Zhan, Vitor Hadad, David A. Hirshberg, and Susan Athey. arXiv, 2021.
 - [Off-Policy Risk Assessment in Contextual Bandits](https://arxiv.org/abs/2104.08977)
