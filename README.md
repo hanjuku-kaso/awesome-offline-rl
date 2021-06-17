@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Offline RL Without Off-Policy Evaluation](https://arxiv.org/abs/2106.08909)
+  - David Brandfonbrener, William F. Whitney, Rajesh Ranganath, and Joan Bruna. arXiv, 2021.
 - [On Multi-objective Policy Optimization as a Tool for Reinforcement Learning](https://arxiv.org/abs/2106.08199)
   - Abbas Abdolmaleki, Sandy H. Huang, Giulia Vezzani, Bobak Shahriari, Jost Tobias Springenberg, Shruti Mishra, Dhruva TB, Arunkumar Byravan, Konstantinos Bousmalis, Andras Gyorgy, Csaba Szepesvari, Raia Hadsell, Nicolas Heess, and Martin Riedmiller. arXiv, 2021.
 - [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
