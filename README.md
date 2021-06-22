@@ -150,11 +150,11 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Kevin Lu, Aditya Grover, Pieter Abbeel, and Igor Mordatch. ICLR, 2021.
 - [Exploration by Maximizing Rényi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193)
   - Chuheng Zhang, Yuanying Cai, Longbo Huang, and Jian Li. AAAI, 2021.
-- [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783)
 - [Efficient Self-Supervised Data Collection for Offline Robot Learning](https://arxiv.org/abs/2105.04607)
   - Shadi Endrawis, Gal Leibovich, Guy Jacob, Gal Novik, Aviv Tamar. ICRA, 2021.
 - [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://arxiv.org/abs/2106.10411)
   - Hua Wei, Deheng Ye, Zhao Liu, Hao Wu, Bo Yuan, Qiang Fu, Wei Yang, and Zhenhui (Jessie)Li. IJCAI, 2021.
+- [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783)
   - Kaiqing Zhang, Zhuoran Yang, Han Liu, Tong Zhang, and Tamer Başar. IEEE T AUTOMATIC CONTROL, 2021.
 - [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) [[website](https://awacrl.github.io/)] [[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac)] [[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
   - Ashvin Nair, Abhishek Gupta, Murtaza Dalal, and Sergey Levine. arXiv, 2020.
