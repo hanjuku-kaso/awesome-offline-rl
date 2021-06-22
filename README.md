@@ -126,6 +126,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ming Yin, Yu Bai, and Yu-Xiang Wang. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
+- [OptiDICE: Offline Policy Optimization via Stationary Distribution Correction Estimation](https://arxiv.org/abs/2106.10783)
+  - Jongmin Lee, Wonseok Jeon, Byung-Jun Lee, Joelle Pineau, and Kee-Eung Kim. ICML, 2021.
 - [Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning](https://arxiv.org/abs/2105.08140)
   - Yue Wu, Shuangfei Zhai, Nitish Srivastava, Joshua Susskind, Jian Zhang, Ruslan Salakhutdinov, and Hanlin Goh. ICML, 2021.
 - [Vector Quantized Models for Planning](https://arxiv.org/abs/2106.04615)
@@ -151,6 +153,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783)
 - [Efficient Self-Supervised Data Collection for Offline Robot Learning](https://arxiv.org/abs/2105.04607)
   - Shadi Endrawis, Gal Leibovich, Guy Jacob, Gal Novik, Aviv Tamar. ICRA, 2021.
+- [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://arxiv.org/abs/2106.10411)
+  - Hua Wei, Deheng Ye, Zhao Liu, Hao Wu, Bo Yuan, Qiang Fu, Wei Yang, and Zhenhui (Jessie)Li. IJCAI, 2021.
   - Kaiqing Zhang, Zhuoran Yang, Han Liu, Tong Zhang, and Tamer Başar. IEEE T AUTOMATIC CONTROL, 2021.
 - [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) [[website](https://awacrl.github.io/)] [[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac)] [[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
   - Ashvin Nair, Abhishek Gupta, Murtaza Dalal, and Sergey Levine. arXiv, 2020.
