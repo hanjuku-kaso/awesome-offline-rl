@@ -470,6 +470,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
    - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [Variance-Aware Off-Policy Evaluation with Linear Function Approximation](https://arxiv.org/abs/2106.11960)
+  - Yifei Min, Tianhao Wang, Dongruo Zhou, and Quanquan Gu. arXiv, 2021.
 - [Active Offline Policy Selection](https://arxiv.org/abs/2106.10251)
   - Ksenia Konyushkova, Yutian Chen, Thomas Paine, Caglar Gulcehre, Cosmin Paduraru, Daniel J Mankowitz, Misha Denil, and Nando de Freitas. arXiv, 2021.
 - [On Instrumental Variable Regression for Deep Offline Policy Evaluation](https://arxiv.org/abs/2105.10148)
