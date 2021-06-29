@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Causal Reinforcement Learning using Observational and Interventional Data](https://arxiv.org/abs/2106.14421)
+  - Maxime Gasse, Damien Grasset, Guillaume Gaudron, and Pierre-Yves Oudeyer. arXiv, 2021.
 - [On the Sample Complexity of Batch Reinforcement Learning with Policy-Induced Data](https://arxiv.org/abs/2106.09973)
   - Chenjun Xiao, Ilbin Lee, Bo Dai, Dale Schuurmans, and Csaba Szepesvari. arXiv, 2021.
 - [Behavioral Priors and Dynamics Models: Improving Performance and Domain Transfer in Offline RL](https://arxiv.org/abs/2106.09119) [[website](https://sites.google.com/berkeley.edu/mabe)]
