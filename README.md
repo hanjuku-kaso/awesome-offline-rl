@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble](https://arxiv.org/abs/2107.00591)
+  - Seunghyun Lee, Younggyo Seo, Kimin Lee, Pieter Abbeel, and Jinwoo Shin. arXiv, 2021.
 - [Causal Reinforcement Learning using Observational and Interventional Data](https://arxiv.org/abs/2106.14421)
   - Maxime Gasse, Damien Grasset, Guillaume Gaudron, and Pierre-Yves Oudeyer. arXiv, 2021.
 - [On the Sample Complexity of Batch Reinforcement Learning with Policy-Induced Data](https://arxiv.org/abs/2106.09973)
