@@ -40,6 +40,34 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble](https://arxiv.org/abs/2107.00591)
+  - Seunghyun Lee, Younggyo Seo, Kimin Lee, Pieter Abbeel, and Jinwoo Shin. arXiv, 2021.
+- [Causal Reinforcement Learning using Observational and Interventional Data](https://arxiv.org/abs/2106.14421)
+  - Maxime Gasse, Damien Grasset, Guillaume Gaudron, and Pierre-Yves Oudeyer. arXiv, 2021.
+- [On the Sample Complexity of Batch Reinforcement Learning with Policy-Induced Data](https://arxiv.org/abs/2106.09973)
+  - Chenjun Xiao, Ilbin Lee, Bo Dai, Dale Schuurmans, and Csaba Szepesvari. arXiv, 2021.
+- [Behavioral Priors and Dynamics Models: Improving Performance and Domain Transfer in Offline RL](https://arxiv.org/abs/2106.09119) [[website](https://sites.google.com/berkeley.edu/mabe)]
+  - Catherine Cang, Aravind Rajeswaran, Pieter Abbeel, and Michael Laskin. arXiv, 2021.
+- [Offline RL Without Off-Policy Evaluation](https://arxiv.org/abs/2106.08909)
+  - David Brandfonbrener, William F. Whitney, Rajesh Ranganath, and Joan Bruna. arXiv, 2021.
+- [On Multi-objective Policy Optimization as a Tool for Reinforcement Learning](https://arxiv.org/abs/2106.08199)
+  - Abbas Abdolmaleki, Sandy H. Huang, Giulia Vezzani, Bobak Shahriari, Jost Tobias Springenberg, Shruti Mishra, Dhruva TB, Arunkumar Byravan, Konstantinos Bousmalis, Andras Gyorgy, Csaba Szepesvari, Raia Hadsell, Nicolas Heess, and Martin Riedmiller. arXiv, 2021.
+- [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
+  - Scott Fujimoto and Shixiang Shane Gu. arXiv, 2021.
+- [Offline Reinforcement Learning as Anti-Exploration](https://arxiv.org/abs/2106.06431)
+  - Shideh Rezaeifar, Robert Dadashi, Nino Vieillard, Léonard Hussenot, Olivier Bachem, Olivier Pietquin, and Matthieu Geist. arXiv, 2021.
+- [Corruption-Robust Offline Reinforcement Learning](https://arxiv.org/abs/2106.06630)
+  - Xuezhou Zhang, Yiding Chen, Jerry Zhu, and Wen Sun. arXiv, 2021.
+- [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://arxiv.org/abs/2106.06926)
+  - Tengyang Xie, Ching-An Cheng, Nan Jiang, Paul Mineiro, and Alekh Agarwal. arXiv, 2021.
+- [Offline Inverse Reinforcement Learning](https://arxiv.org/abs/2106.05068)
+  - Firas Jarboui and Vianney Perchet. arXiv, 2021.
+- [Policy Finetuning: Bridging Sample-Efficient Offline and Online Reinforcement Learning](https://arxiv.org/abs/2106.04895)
+  - Tengyang Xie, Nan Jiang, Huan Wang, Caiming Xiong, and Yu Bai. arXiv, 2021.
+- [Heuristic-Guided Reinforcement Learning](https://arxiv.org/abs/2106.02757)
+  - Ching-An Cheng, Andrey Kolobov, and Adith Swaminathan. arXiv, 2021.
+- [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400)
+  - Yiqin Yang, Xiaoteng Ma, Chenghao Li, Zewu Zheng, Qiyuan Zhang, Gao Huang, Jun Yang, and Qianchuan Zhao. arXiv, 2021.
 - [Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
   - Michael Janner, Qiyang Li, and Sergey Levine. arXiv, 2021.
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
@@ -62,7 +90,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Igor Halperin. arXiv, 2021.
 - [Risk Bounds and Rademacher Complexity in Batch Reinforcement Learning](https://arxiv.org/abs/2103.13883)
   - Yaqi Duan, Chi Jin, and Zhiyuan Li. arXiv, 2021.
-- [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021)
+- [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021) [[video](https://www.youtube.com/watch?v=T1Am0bGzH4A)]
   - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. arXiv, 2021.
 - [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
   - Caglar Gulcehre, Sergio Gómez Colmenarejo, Ziyu Wang, Jakub Sygnowski, Thomas Paine, Konrad Zolna, Yutian Chen, Matthew Hoffman, Razvan Pascanu, and Nando de Freitas. arXiv, 2021.
@@ -102,8 +130,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ming Yin, Yu Bai, and Yu-Xiang Wang. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
+- [OptiDICE: Offline Policy Optimization via Stationary Distribution Correction Estimation](https://arxiv.org/abs/2106.10783)
+  - Jongmin Lee, Wonseok Jeon, Byung-Jun Lee, Joelle Pineau, and Kee-Eung Kim. ICML, 2021.
 - [Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning](https://arxiv.org/abs/2105.08140)
   - Yue Wu, Shuangfei Zhai, Nitish Srivastava, Joshua Susskind, Jian Zhang, Ruslan Salakhutdinov, and Hanlin Goh. ICML, 2021.
+- [Vector Quantized Models for Planning](https://arxiv.org/abs/2106.04615)
+  - Sherjil Ozair, Yazhe Li, Ali Razavi, Ioannis Antonoglou, Aäron van den Oord, and Oriol Vinyals. ICML, 2021.
 - [Model-Based Offline Planning](https://openreview.net/forum?id=OMNB1G5xzd4) [[video](https://www.youtube.com/watch?v=nxGGHdZOFts&feature=youtu.be)]
   - Arthur Argenson and Gabriel Dulac-Arnold. ICLR, 2021.
 - [Batch Reinforcement Learning Through Continuation Method](https://openreview.net/forum?id=po-DLlBuAuz)
@@ -122,9 +154,11 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Kevin Lu, Aditya Grover, Pieter Abbeel, and Igor Mordatch. ICLR, 2021.
 - [Exploration by Maximizing Rényi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193)
   - Chuheng Zhang, Yuanying Cai, Longbo Huang, and Jian Li. AAAI, 2021.
-- [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783)
 - [Efficient Self-Supervised Data Collection for Offline Robot Learning](https://arxiv.org/abs/2105.04607)
   - Shadi Endrawis, Gal Leibovich, Guy Jacob, Gal Novik, Aviv Tamar. ICRA, 2021.
+- [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://arxiv.org/abs/2106.10411)
+  - Hua Wei, Deheng Ye, Zhao Liu, Hao Wu, Bo Yuan, Qiang Fu, Wei Yang, and Zhenhui (Jessie)Li. IJCAI, 2021.
+- [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783)
   - Kaiqing Zhang, Zhuoran Yang, Han Liu, Tong Zhang, and Tamer Başar. IEEE T AUTOMATIC CONTROL, 2021.
 - [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) [[website](https://awacrl.github.io/)] [[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac)] [[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
   - Ashvin Nair, Abhishek Gupta, Murtaza Dalal, and Sergey Levine. arXiv, 2020.
@@ -308,6 +342,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Leandro M. de Lima and Renato A. Krohling. IJCNN, 2021.
 - [Learning robust driving policies without online exploration](https://arxiv.org/abs/2103.08070)
   - Daniel Graves, Nhat M. Nguyen, Kimia Hassanzadeh, Jun Jin, and Jun Luo. ICRA, 2021.
+- [Offline Meta-level Model-based Reinforcement Learning Approach for Cold-Start Recommendation](https://arxiv.org/abs/2012.02476)
+  - Yanan Wang, Yong Ge, Li Li, Rui Chen, and Tong Xu. arXiv, 2020.
 - [Batch-Constrained Distributional Reinforcement Learning for Session-based Recommendation](https://arxiv.org/abs/2012.08984)
   - Diksha Garg, Priyanka Gupta, Pankaj Malhotra, Lovekesh Vig, and Gautam Shroff. arXiv, 2020.
 - [An Empirical Study of Representation Learning for Reinforcement Learning in Healthcare](https://arxiv.org/abs/2011.11235)
@@ -363,6 +399,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
+- [Control Variates for Slate Off-Policy Evaluation](https://arxiv.org/abs/2106.07914)
+  - Nikos Vlassis, Ashok Chandrashekar, Fernando Amat Gil, and Nathan Kallus. arXiv, 2021.
 - [Off-Policy Evaluation via Adaptive Weighting with Data from Contextual Bandits](https://arxiv.org/abs/2106.02029)
   - Ruohan Zhan, Vitor Hadad, David A. Hirshberg, and Susan Athey. arXiv, 2021.
 - [Off-Policy Risk Assessment in Contextual Bandits](https://arxiv.org/abs/2104.08977)
@@ -436,6 +474,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
    - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [Unifying Gradient Estimators for Meta-Reinforcement Learning via Off-Policy Evaluation](https://arxiv.org/abs/2106.13125)
+  - Yunhao Tang, Tadashi Kozuno, Mark Rowland, Rémi Munos, and Michal Valko. arXiv, 2021.
+- [Variance-Aware Off-Policy Evaluation with Linear Function Approximation](https://arxiv.org/abs/2106.11960)
+  - Yifei Min, Tianhao Wang, Dongruo Zhou, and Quanquan Gu. arXiv, 2021.
+- [Active Offline Policy Selection](https://arxiv.org/abs/2106.10251)
+  - Ksenia Konyushkova, Yutian Chen, Thomas Paine, Caglar Gulcehre, Cosmin Paduraru, Daniel J Mankowitz, Misha Denil, and Nando de Freitas. arXiv, 2021.
 - [On Instrumental Variable Regression for Deep Offline Policy Evaluation](https://arxiv.org/abs/2105.10148)
   - Yutian Chen, Liyuan Xu, Caglar Gulcehre, Tom Le Paine, Arthur Gretton, Nando de Freitas, and Arnaud Doucet. arXiv, 2021.
 - [Characterizing Uniform Convergence in Offline Policy Evaluation via model-based approach: Offline Learning, Task-Agnostic and Reward-Free](https://arxiv.org/abs/2105.06029)
@@ -630,6 +674,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ## Tutorials/Talks/Lectures
 - [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
   - Guy Tennenholtz. CHIL2021.
+- [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://www.youtube.com/watch?v=T1Am0bGzH4A)
+  - Paria Rashidinejad. RL Theory Seminar2021.
 - [Infinite-Horizon Offline Reinforcement Learning with Linear Function Approximation: Curse of Dimensionality and Algorithm](https://www.youtube.com/watch?v=uOIvo1wQ_RQ)
   - Lin Chen. RL Theory Seminar2021.
 - [Is Pessimism Provably Efficient for Offline RL?](https://www.youtube.com/watch?v=vCQsZ5pzHPk)
