@@ -133,7 +133,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) [[video](https://www.youtube.com/watch?v=vCQsZ5pzHPk)]
   - Ying Jin, Zhuoran Yang, and Zhaoran Wang. ICML, 2021.
 - [Representation Matters: Offline Pretraining for Sequential Decision Making](https://arxiv.org/abs/2102.05815)
-  - Mengjiao Yang, and Ofir Nachum. ICML, 2021.
+  - Mengjiao Yang and Ofir Nachum. ICML, 2021.
 - [Offline Reinforcement Learning with Pseudometric Learning](https://arxiv.org/abs/2103.01948)
   - Robert Dadashi, Shideh Rezaeifar, Nino Vieillard, Léonard Hussenot, Olivier Pietquin, and Matthieu Geist. ICML, 2021.
 - [Offline Meta-Reinforcement Learning with Advantage Weighting](https://arxiv.org/abs/2008.06043)
