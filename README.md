@@ -40,6 +40,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Where is the Grass Greener? Revisiting Generalized Policy Iteration for Offline Reinforcement Learning](https://arxiv.org/abs/2107.01407)
+  - Lionel Blondé and Alexandros Kalousis. arXiv, 2021.
+- [The Least Restriction for Offline Reinforcement Learning](https://arxiv.org/abs/2107.01757)
+  - Zizhou Su. arXiv, 2021.
 - [Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble](https://arxiv.org/abs/2107.00591)
   - Seunghyun Lee, Younggyo Seo, Kimin Lee, Pieter Abbeel, and Jinwoo Shin. arXiv, 2021.
 - [Causal Reinforcement Learning using Observational and Interventional Data](https://arxiv.org/abs/2106.14421)
@@ -488,6 +492,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
    - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [Supervised Off-Policy Ranking](https://arxiv.org/abs/2107.01360)
+  - Yue Jin, Yue Zhang, Tao Qin, Xudong Zhang, Jian Yuan, Houqiang Li, and Tie-Yan Liu. arXiv, 2021.
 - [Unifying Gradient Estimators for Meta-Reinforcement Learning via Off-Policy Evaluation](https://arxiv.org/abs/2106.13125)
   - Yunhao Tang, Tadashi Kozuno, Mark Rowland, Rémi Munos, and Michal Valko. arXiv, 2021.
 - [Variance-Aware Off-Policy Evaluation with Linear Function Approximation](https://arxiv.org/abs/2106.11960)
