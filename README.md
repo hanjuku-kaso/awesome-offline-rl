@@ -88,8 +88,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Julian Schrittwieser, Thomas Hubert, Amol Mandhane, Mohammadamin Barekatain, Ioannis Antonoglou, and David Silver. arXiv, 2021.
 - [Distributional Offline Continuous-Time Reinforcement Learning with Neural Physics-Informed PDEs (SciPhy RL for DOCTR-L)](https://arxiv.org/abs/2104.01040)
   - Igor Halperin. arXiv, 2021.
-- [Risk Bounds and Rademacher Complexity in Batch Reinforcement Learning](https://arxiv.org/abs/2103.13883)
-  - Yaqi Duan, Chi Jin, and Zhiyuan Li. arXiv, 2021.
 - [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021) [[video](https://www.youtube.com/watch?v=T1Am0bGzH4A)]
   - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. arXiv, 2021.
 - [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
@@ -126,6 +124,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ming Yin, Yu Bai, and Yu-Xiang Wang. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
+- [Risk Bounds and Rademacher Complexity in Batch Reinforcement Learning](https://arxiv.org/abs/2103.13883)
+  - Yaqi Duan, Chi Jin, and Zhiyuan Li. ICML, 2021.
 - [Offline Reinforcement Learning with Fisher Divergence Critic Regularization](https://arxiv.org/abs/2103.08050)
   - Ilya Kostrikov, Jonathan Tompson, Rob Fergus, and Ofir Nachum. ICML, 2021.
 - [OptiDICE: Offline Policy Optimization via Stationary Distribution Correction Estimation](https://arxiv.org/abs/2106.10783)
