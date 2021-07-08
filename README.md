@@ -94,8 +94,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. arXiv, 2021.
 - [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
   - Caglar Gulcehre, Sergio Gómez Colmenarejo, Ziyu Wang, Jakub Sygnowski, Thomas Paine, Konrad Zolna, Yutian Chen, Matthew Hoffman, Razvan Pascanu, and Nando de Freitas. arXiv, 2021.
-- [Offline Reinforcement Learning with Fisher Divergence Critic Regularization](https://arxiv.org/abs/2103.08050)
-  - Ilya Kostrikov, Jonathan Tompson, Rob Fergus, and Ofir Nachum. arXiv, 2021.
 - [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
   - Samarth Sinha and Animesh Garg. arXiv, 2021.
 - [Causal-aware Safe Policy Improvement for Task-oriented dialogue](https://arxiv.org/abs/2103.06370)
@@ -120,8 +118,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Piotr Kozakowski, Łukasz Kaiser, Henryk Michalewski, Afroz Mohiuddin, and Katarzyna Kańska. arXiv, 2021.
 - [PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators](https://arxiv.org/abs/2102.06961)
   - Anish Agarwal, Abdullah Alomar, Varkey Alumootil, Devavrat Shah, Dennis Shen, Zhi Xu, and Cindy Yang. arXiv, 2021.
-- [Risk-Averse Offline Reinforcement Learning](https://arxiv.org/abs/2102.05371)
-  - Núria Armengol Urpí, Sebastian Curi, and Andreas Krause. arXiv, 2021.
 - [Finite Sample Analysis of Minimax Offline Reinforcement Learning: Completeness, Fast Rates and First-Order Efficiency](https://arxiv.org/abs/2102.02981)
   - Masatoshi Uehara, Masaaki Imaizumi, Nan Jiang, Nathan Kallus, Wen Sun, and Tengyang Xie. arXiv, 2021.
 - [Fast Rates for the Regret of Offline Reinforcement Learning](https://arxiv.org/abs/2102.00479)
@@ -130,6 +126,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ming Yin, Yu Bai, and Yu-Xiang Wang. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
+- [Offline Reinforcement Learning with Fisher Divergence Critic Regularization](https://arxiv.org/abs/2103.08050)
+  - Ilya Kostrikov, Jonathan Tompson, Rob Fergus, and Ofir Nachum. ICML, 2021.
 - [OptiDICE: Offline Policy Optimization via Stationary Distribution Correction Estimation](https://arxiv.org/abs/2106.10783)
   - Jongmin Lee, Wonseok Jeon, Byung-Jun Lee, Joelle Pineau, and Kee-Eung Kim. ICML, 2021.
 - [Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning](https://arxiv.org/abs/2105.08140)
@@ -152,6 +150,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ruosong Wang, Dean Foster, and Sham M. Kakade. ICLR, 2021.
 - [Reset-Free Lifelong Learning with Skill-Space Planning](https://openreview.net/forum?id=HIGSa_3kOx3) [[website](https://sites.google.com/berkeley.edu/reset-free-lifelong-learning)]
   - Kevin Lu, Aditya Grover, Pieter Abbeel, and Igor Mordatch. ICLR, 2021.
+- [Risk-Averse Offline Reinforcement Learning](https://arxiv.org/abs/2102.05371)
+  - Núria Armengol Urpí, Sebastian Curi, and Andreas Krause. ICLR, 2021.
 - [Exploration by Maximizing Rényi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193)
   - Chuheng Zhang, Yuanying Cai, Longbo Huang, and Jian Li. AAAI, 2021.
 - [Efficient Self-Supervised Data Collection for Offline Robot Learning](https://arxiv.org/abs/2105.04607)
