@@ -40,6 +40,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Pessimistic Model-based Offline RL: PAC Bounds and Posterior Sampling under Partial Coverage](https://arxiv.org/abs/2107.06226)
+  - Masatoshi Uehara and Wen Sun. arXiv, 2021.
+- [Conservative Offline Distributional Reinforcement Learning](https://arxiv.org/abs/2107.06106)
+  - Yecheng Jason Ma, Dinesh Jayaraman, and Osbert Bastani. arXiv, 2021.
 - [Offline Meta-Reinforcement Learning with Online Self-Supervision](https://arxiv.org/abs/2107.03974)
   - Vitchyr H. Pong, Ashvin Nair, Laura Smith, Catherine Huang, and Sergey Levine. arXiv, 2021.
 - [Where is the Grass Greener? Revisiting Generalized Policy Iteration for Offline Reinforcement Learning](https://arxiv.org/abs/2107.01407)
