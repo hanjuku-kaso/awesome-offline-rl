@@ -130,8 +130,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
 - [Instabilities of Offline RL with Pre-Trained Neural Representation](https://arxiv.org/abs/2103.04947)
   - Ruosong Wang, Yifan Wu, Ruslan Salakhutdinov, and Sham M. Kakade. ICML, 2021.
-- [Conservative Objective Models: A Simple Approach to Effective Model-Based Optimization](https://www.mlsb.io/papers/MLSB2020_Conservative_Objective_Models:_A.pdf) (pdf)
-  - Brandon Trabucco, Aviral Kumar, Young Geng, and Sergey Levine. ICML, 2021.
 - [EMaQ: Expected-Max Q-Learning Operator for Simple Yet Effective Offline and Online RL](https://arxiv.org/abs/2007.11091)
   - Seyed Kamyar Seyed Ghasemipour, Dale Schuurmans, and Shixiang Shane Gu. ICML, 2021.
 - [Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills](https://arxiv.org/abs/2104.07749) [[website](https://actionable-models.github.io/)]
@@ -698,8 +696,9 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Reinforcement Learning Day 2021](https://www.microsoft.com/en-us/research/event/reinforcement-learning-day-2021/)
 - [Offline Reinforcement Learning Workshop (NeurIPS 2020)](https://offline-rl-neurips.github.io/)
 - [Reinforcement Learning from Batch Data and Simulation](https://simons.berkeley.edu/workshops/schedule/14240)
-- [Virtual Conference on Reinforcement Learning for Real Life (RL4RealLife 2020)](https://sites.google.com/view/RL4RealLife)
+- [Virtual Conference on Reinforcement Learning for Real Life (RL4RealLife 2020)](https://sites.google.com/view/RL4RealLife2020)
 - [Safety and Robustness in Decision Making (NeurIPS 2019)](https://sites.google.com/view/neurips19-safe-robust-workshop)
+- [Reinforcement Learning for Real Life Workshop (ICML 2019)](https://sites.google.com/view/RL4RealLife2019)
 
 ## Tutorials/Talks/Lectures
 - [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
