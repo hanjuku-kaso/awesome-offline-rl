@@ -260,6 +260,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Avi Singh, Albert Yu, Jonathan Yang, Jesse Zhang, Aviral Kumar, and Sergey Levine. CoRL, 2020.
 - [Accelerating Reinforcement Learning with Learned Skill Priors](https://arxiv.org/abs/2010.11944)
   - Karl Pertsch, Youngwoon Lee, and Joseph J. Lim. CoRL, 2020.
+- [PLAS: Latent Action Space for Offline Reinforcement Learning](https://arxiv.org/abs/2011.07213)
+  - Wenxuan Zhou, Sujay Bajracharya, David Held. CoRL, 2020.
 - [Scaling data-driven robotics with reward sketching and batch reinforcement learning](https://arxiv.org/abs/1909.12200) [[website](https://sites.google.com/view/data-driven-robotics/)]
   - Serkan Cabi, Sergio Gómez Colmenarejo, Alexander Novikov, Ksenia Konyushkova, Scott Reed, Rae Jeong, Konrad Zolna, Yusuf Aytar, David Budden, Mel Vecerik, Oleg Sushkov, David Barker, Jonathan Scholz, Misha Denil, Nando de Freitas, and Ziyu Wang. RSS, 2020.
 - [Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping](https://arxiv.org/abs/1910.02787)
