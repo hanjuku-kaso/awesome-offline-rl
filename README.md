@@ -156,6 +156,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yue Wu, Shuangfei Zhai, Nitish Srivastava, Joshua Susskind, Jian Zhang, Ruslan Salakhutdinov, and Hanlin Goh. ICML, 2021.
 - [Vector Quantized Models for Planning](https://arxiv.org/abs/2106.04615)
   - Sherjil Ozair, Yazhe Li, Ali Razavi, Ioannis Antonoglou, Aäron van den Oord, and Oriol Vinyals. ICML, 2021.
+- [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://arxiv.org/abs/2012.08005)
+  - Andrea Zanette. ICML, 2021.
+- [Instabilities of Offline RL with Pre-Trained Neural Representation](https://arxiv.org/abs/2103.04947)
+  - Ruosong Wang, Yifan Wu, Ruslan Salakhutdinov, and Sham M. Kakade. ICML, 2021.
+- [Offline Meta-Reinforcement Learning with Advantage Weighting](https://arxiv.org/abs/2008.06043)
+  - Eric Mitchell, Rafael Rafailov, Xue Bin Peng, Sergey Levine, and Chelsea Finn. ICML, 2021.
 - [Model-Based Offline Planning](https://openreview.net/forum?id=OMNB1G5xzd4) [[video](https://www.youtube.com/watch?v=nxGGHdZOFts&feature=youtu.be)]
   - Arthur Argenson and Gabriel Dulac-Arnold. ICLR, 2021.
 - [Batch Reinforcement Learning Through Continuation Method](https://openreview.net/forum?id=po-DLlBuAuz)
@@ -188,8 +194,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Kaiqing Zhang, Zhuoran Yang, Han Liu, Tong Zhang, and Tamer Başar. IEEE T AUTOMATIC CONTROL, 2021.
 - [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) [[website](https://awacrl.github.io/)] [[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac)] [[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
   - Ashvin Nair, Abhishek Gupta, Murtaza Dalal, and Sergey Levine. arXiv, 2020.
-- [Exponential Lower Bounds for Batch Reinforcement Learning: Batch RL can be Exponentially Harder than Online RL](https://arxiv.org/abs/2012.08005)
-  - Andrea Zanette. arXiv, 2020.
 - [Sparse Feature Selection Makes Batch Reinforcement Learning More Sample Efficient](https://arxiv.org/abs/2011.04019)
   - Botao Hao, Yaqi Duan, Tor Lattimore, Csaba Szepesvári, and Mengdi Wang. arXiv, 2020.
 - [A Variant of the Wang-Foster-Kakade Lower Bound for the Discounted Setting](https://arxiv.org/abs/2011.01075)
@@ -282,6 +286,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Avi Singh, Albert Yu, Jonathan Yang, Jesse Zhang, Aviral Kumar, and Sergey Levine. CoRL, 2020.
 - [Accelerating Reinforcement Learning with Learned Skill Priors](https://arxiv.org/abs/2010.11944)
   - Karl Pertsch, Youngwoon Lee, and Joseph J. Lim. CoRL, 2020.
+- [PLAS: Latent Action Space for Offline Reinforcement Learning](https://arxiv.org/abs/2011.07213)
+  - Wenxuan Zhou, Sujay Bajracharya, David Held. CoRL, 2020.
 - [Scaling data-driven robotics with reward sketching and batch reinforcement learning](https://arxiv.org/abs/1909.12200) [[website](https://sites.google.com/view/data-driven-robotics/)]
   - Serkan Cabi, Sergio Gómez Colmenarejo, Alexander Novikov, Ksenia Konyushkova, Scott Reed, Rae Jeong, Konrad Zolna, Yusuf Aytar, David Budden, Mel Vecerik, Oleg Sushkov, David Barker, Jonathan Scholz, Misha Denil, Nando de Freitas, and Ziyu Wang. RSS, 2020.
 - [Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping](https://arxiv.org/abs/1910.02787)
