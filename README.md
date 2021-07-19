@@ -136,6 +136,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Andrea Zanette. ICML, 2021.
 - [Instabilities of Offline RL with Pre-Trained Neural Representation](https://arxiv.org/abs/2103.04947)
   - Ruosong Wang, Yifan Wu, Ruslan Salakhutdinov, and Sham M. Kakade. ICML, 2021.
+- [Offline Meta-Reinforcement Learning with Advantage Weighting](https://arxiv.org/abs/2008.06043)
+  - Eric Mitchell, Rafael Rafailov, Xue Bin Peng, Sergey Levine, and Chelsea Finn. ICML, 2021.
 - [Model-Based Offline Planning](https://openreview.net/forum?id=OMNB1G5xzd4) [[video](https://www.youtube.com/watch?v=nxGGHdZOFts&feature=youtu.be)]
   - Arthur Argenson and Gabriel Dulac-Arnold. ICLR, 2021.
 - [Batch Reinforcement Learning Through Continuation Method](https://openreview.net/forum?id=po-DLlBuAuz)
@@ -202,8 +204,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Rae Jeong, Jost Tobias Springenberg, Jackie Kay, Daniel Zheng, Yuxiang Zhou, Alexandre Galashov, Nicolas Heess, and Francesco Nori. arXiv, 2020.
 - [The Reinforcement Learning-Based Multi-Agent Cooperative Approach for the Adaptive Speed Regulation on a Metallurgical Pickling Line](https://arxiv.org/abs/2008.06933)
   - Anna Bogomolova, Kseniia Kingsep, and Boris Voskresenskii. arXiv, 2020.
-- [Offline Meta-Reinforcement Learning with Advantage Weighting](https://arxiv.org/abs/2008.06043)
-  - Eric Mitchell, Rafael Rafailov, Xue Bin Peng, Sergey Levine, and Chelsea Finn. arXiv, 2020.
 - [Overcoming Model Bias for Robust Offline Deep Reinforcement Learning](https://arxiv.org/abs/2008.05533)
   - Phillip Swazinna, Steffen Udluft, and Thomas Runkler. arXiv, 2020.
 - [Offline Meta Learning of Exploration](https://arxiv.org/abs/2008.02598)
