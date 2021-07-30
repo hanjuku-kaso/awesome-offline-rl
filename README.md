@@ -500,6 +500,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](https://dl.acm.org/doi/10.1145/1935826.1935878)
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
 #### Reinforcement Learning
+- [Bootstrapping Fitted Q-Evaluation for Off-Policy Inference](http://proceedings.mlr.press/v139/hao21b.html)
+  - Botao Hao, Xiang Ji, Yaqi Duan, Hao Lu, Csaba Szepesvari, and Mengdi Wang. ICML, 2021.
 - [Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)
   - Michael R. Zhang, Tom Le Paine, Ofir Nachum, Cosmin Paduraru, George Tucker, Ziyu Wang, Mohammad Norouzi. ICLR, 2021.
 - [Minimax Model Learning](http://www.yisongyue.com/publications/aistats2021_mml.pdf)
@@ -518,8 +520,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yutian Chen, Liyuan Xu, Caglar Gulcehre, Tom Le Paine, Arthur Gretton, Nando de Freitas, and Arnaud Doucet. arXiv, 2021.
 - [Characterizing Uniform Convergence in Offline Policy Evaluation via model-based approach: Offline Learning, Task-Agnostic and Reward-Free](https://arxiv.org/abs/2105.06029)
   - Ming Yin and Yu-Xiang Wang. arXiv, 2021.
-- [Bootstrapping Statistical Inference for Off-Policy Evaluation](https://arxiv.org/abs/2102.03607)
-  - Botao Hao, Xiang (Jack)Ji, Yaqi Duan, Hao Lu, Csaba Szepesvári, and Mengdi Wang. arXiv, 2021.
 - [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808)
   - Shangtong Zhang, Yi Wan, Richard S. Sutton, and Shimon Whiteson. arXiv, 2021.
 - [Universal Off-Policy Evaluation](https://arxiv.org/abs/2104.12820)
