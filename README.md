@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [OPAL: Offline Preference-Based Apprenticeship Learning](https://arxiv.org/abs/2107.09251) [[website](https://sites.google.com/view/offline-prefs)]
+  - Daniel Shin and Daniel S. Brown. arXIv, 2021.
 - [Constraints Penalized Q-Learning for Safe Offline Reinforcement Learning](https://arxiv.org/abs/2107.09003)
   - Haoran Xu, Xianyuan Zhan, and Xiangyu Zhu. arXiv, 2021.
 - [Pessimistic Model-based Offline RL: PAC Bounds and Posterior Sampling under Partial Coverage](https://arxiv.org/abs/2107.06226)
@@ -387,7 +389,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) [[website](https://sites.google.com/view/d4rl/home)] [[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] [[code](https://github.com/rail-berkeley/d4rl)]
   - Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
 - [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/abs/2006.13888) [[code](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged)] [[dataset](https://console.cloud.google.com/storage/browser/rl_unplugged?pli=1)]
-  - Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. arXiv, 2020.
+  - Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas. NeurIPS, 2020.
 - [An Optimistic Perspective on Offline Reinforcement Learning](http://proceedings.mlr.press/v119/agarwal20c.html) [[website](https://offline-rl.github.io/)] [[blog](https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html)]
   - Rishabh Agarwal, Dale Schuurmans, and Mohammad Norouzi. ICML, 2020.
 - [Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning](http://proceedings.mlr.press/v119/rakhsha20a.html)
@@ -498,6 +500,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](https://dl.acm.org/doi/10.1145/1935826.1935878)
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
 #### Reinforcement Learning
+- [Bootstrapping Fitted Q-Evaluation for Off-Policy Inference](http://proceedings.mlr.press/v139/hao21b.html)
+  - Botao Hao, Xiang Ji, Yaqi Duan, Hao Lu, Csaba Szepesvari, and Mengdi Wang. ICML, 2021.
 - [Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)
   - Michael R. Zhang, Tom Le Paine, Ofir Nachum, Cosmin Paduraru, George Tucker, Ziyu Wang, Mohammad Norouzi. ICLR, 2021.
 - [Minimax Model Learning](http://www.yisongyue.com/publications/aistats2021_mml.pdf)
@@ -516,8 +520,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yutian Chen, Liyuan Xu, Caglar Gulcehre, Tom Le Paine, Arthur Gretton, Nando de Freitas, and Arnaud Doucet. arXiv, 2021.
 - [Characterizing Uniform Convergence in Offline Policy Evaluation via model-based approach: Offline Learning, Task-Agnostic and Reward-Free](https://arxiv.org/abs/2105.06029)
   - Ming Yin and Yu-Xiang Wang. arXiv, 2021.
-- [Bootstrapping Statistical Inference for Off-Policy Evaluation](https://arxiv.org/abs/2102.03607)
-  - Botao Hao, Xiang (Jack)Ji, Yaqi Duan, Hao Lu, Csaba Szepesvári, and Mengdi Wang. arXiv, 2021.
 - [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808)
   - Shangtong Zhang, Yi Wan, Richard S. Sutton, and Shimon Whiteson. arXiv, 2021.
 - [Universal Off-Policy Evaluation](https://arxiv.org/abs/2104.12820)
@@ -621,6 +623,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haoming Jiang, Bo Dai, Mengjiao Yang, Wei Wei, and Tuo Zhao. arXiv, 2021.
 - [Benchmarks for Deep Off-Policy Evaluation](https://openreview.net/forum?id=kWSeGEeHvF8) [[code](https://github.com/google-research/deep_ope)]
   - Justin Fu, Mohammad Norouzi, Ofir Nachum, George Tucker, Ziyu Wang, Alexander Novikov, Mengjiao Yang, Michael R Zhang, Yutian Chen, Aviral Kumar, Cosmin Paduraru, Sergey Levine, and Thomas Paine. ICLR, 2021.
+- [Model Selection for Offline Reinforcement Learning: Practical Considerations for Healthcare Settings](https://arxiv.org/abs/2107.11003)
+  - Shengpu Tang and Jenna Wiens. MLHC, 2021.
 - [Open Bandit Dataset and Pipeline: Towards Realistic and Reproducible Off-Policy Evaluation](https://arxiv.org/abs/2008.07146) [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
   - Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. arXiv, 2020.
 - [Empirical Study of Off-Policy Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/1911.06854) [[code](https://github.com/clvoloshin/OPE-tools)]
