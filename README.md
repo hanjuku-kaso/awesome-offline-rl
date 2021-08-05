@@ -11,7 +11,7 @@ We are looking for more contributors and maintainers! Please feel free to [pull 
 ```
 format:
 - [title](paper link) [links]
-  - author1, author2, and author3. arXiv/conferences/jornals/, year.
+  - author1, author2, and author3. arXiv/conferences/journals/, year.
 ```
 
 For any question, feel free to contact: saito@hanjuku-kaso.com
@@ -40,8 +40,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Policy Gradients Incorporating the Future](https://arxiv.org/abs/2108.02096)
+  - David Venuto, Elaine Lau, Doina Precup, and Ofir Nachum. arXiv, 2021.
+- [Offline Decentralized Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2108.01832)
+  - Jiechuan Jiang and Zongqing Lu. arXiv, 2021.
 - [OPAL: Offline Preference-Based Apprenticeship Learning](https://arxiv.org/abs/2107.09251) [[website](https://sites.google.com/view/offline-prefs)]
-  - Daniel Shin and Daniel S. Brown. arXIv, 2021.
+  - Daniel Shin and Daniel S. Brown. arXiv, 2021.
 - [Constraints Penalized Q-Learning for Safe Offline Reinforcement Learning](https://arxiv.org/abs/2107.09003)
   - Haoran Xu, Xianyuan Zhan, and Xiangyu Zhu. arXiv, 2021.
 - [Pessimistic Model-based Offline RL: PAC Bounds and Posterior Sampling under Partial Coverage](https://arxiv.org/abs/2107.06226)
