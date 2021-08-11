@@ -427,7 +427,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 #### Contextual Bandits
 - [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) [[code](https://github.com/CausalML/MultipleLoggers)]
   - Nathan Kallus, Yuta Saito, and Masatoshi Uehara. ICML, 2021.
-- [Piecewise-Stationary Off-Policy Optimization](https://arxiv.org/abs/2006.08236)
+- [Non-Stationary Off-Policy Optimization](https://arxiv.org/abs/2006.08236)
   - Joey Hong, Branislav Kveton, Manzil Zaheer, Yinlam Chow, and Amr Ahmed. AISTATS, 2021.
 - [Confident Off-Policy Evaluation and Selection through Self-Normalized Importance Weighting](https://arxiv.org/abs/2006.10460) [[video](https://youtu.be/0MYRwW6BdvU)]
   - Ilja Kuzborskij, Claire Vernade, András György, and Csaba Szepesvári. AISTATS, 2021.
