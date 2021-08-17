@@ -354,6 +354,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Offline-Online Reinforcement Learning for Energy Pricing in Office Demand Response: Lowering Energy and Data Costs](https://arxiv.org/abs/2108.06594)
+  - Doseok Jang, Lucas Spangher, Manan Khattar, Utkarsha Agwan, Selvaprabuh Nadarajah, and Costas Spanos. arXiv, 2021.
 - [Offline reinforcement learning with uncertainty for treatment strategies in sepsis](https://arxiv.org/abs/2107.04491)
   - Ran Liu, Joseph L. Greenstein, James C. Fackler, Jules Bergmann, Melania M. Bembea, and Raimond L. Winslow. arXiv, 2021.
 - [Improving Long-Term Metrics in Recommendation Systems using Short-Horizon Offline RL](https://arxiv.org/abs/2106.00589)
@@ -503,6 +505,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Miroslav Dudík, Dumitru Erhan, John Langford, and Lihong Li. ICML, 2011.
 - [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](https://dl.acm.org/doi/10.1145/1935826.1935878)
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
+
 #### Reinforcement Learning
 - [Bootstrapping Fitted Q-Evaluation for Off-Policy Inference](http://proceedings.mlr.press/v139/hao21b.html)
   - Botao Hao, Xiang Ji, Yaqi Duan, Hao Lu, Csaba Szepesvari, and Mengdi Wang. ICML, 2021.
@@ -620,7 +623,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Philip S. Thomas, Georgios Theocharous, and Mohammad Ghavamzadeh. AAAI, 2015.
 - [Eligibility Traces for Off-Policy Policy Evaluation](https://dl.acm.org/doi/10.5555/645529.658134)
   - Doina Precup, Richard S. Sutton, and Satinder P. Singh. ICML, 2000.
-
 
 ### Off-Policy Evaluation: Benchmarks/Experiments/Applications
 - [Towards Automatic Evaluation of Dialog Systems: A Model-Free Off-Policy Evaluation Approach](https://arxiv.org/abs/2102.10242)
