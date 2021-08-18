@@ -714,7 +714,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Reinforcement Learning for Real Life (RL4RealLife 2020)](https://sites.google.com/view/RL4RealLife2020)
 - [Safety and Robustness in Decision Making (NeurIPS 2019)](https://sites.google.com/view/neurips19-safe-robust-workshop)
 - [Reinforcement Learning for Real Life (ICML 2019)](https://sites.google.com/view/RL4RealLife2019)
-- [Real-world Sequential Decision Making (ICML2019)](https://realworld-sdm.github.io/)
+- [Real-world Sequential Decision Making (ICML 2019)](https://realworld-sdm.github.io/)
 
 ## Tutorials/Talks/Lectures
 - [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
