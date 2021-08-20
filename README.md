@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning](https://arxiv.org/abs/2108.08812)
+  - Andrea Zanette, Martin J. Wainwright, and Emma Brunskill. arXiv, 2021.
 - [Policy Gradients Incorporating the Future](https://arxiv.org/abs/2108.02096)
   - David Venuto, Elaine Lau, Doina Precup, and Ofir Nachum. arXiv, 2021.
 - [Offline Decentralized Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2108.01832)
