@@ -40,6 +40,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Nearly Horizon-Free Offline Reinforcement Learning](https://arxiv.org/abs/2103.14077)
+  - Tongzheng Ren, Jialian Li, Bo Dai, Simon S. Du, and Sujay Sanghavi. arXiv, 2021.
+- [Reducing Conservativeness Oriented Offline Reinforcement Learning](https://arxiv.org/abs/2103.00098)
+  - Hongchang Zhang, Jianzhun Shao, Yuhang Jiang, Shuncheng He, and Xiangyang Ji. arXiv, 2021.
 - [Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning](https://arxiv.org/abs/2108.08812)
   - Andrea Zanette, Martin J. Wainwright, and Emma Brunskill. arXiv, 2021.
 - [Policy Gradients Incorporating the Future](https://arxiv.org/abs/2108.02096)
