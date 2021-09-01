@@ -372,7 +372,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Chenyang Xi, Bo Tang, Jiajun Shen, Xinfu Liu, Feiyu Xiong, and Xueying Li. arXiv, 2021.
 - [pH-RL: A personalization architecture to bring reinforcement learning to health practice](https://arxiv.org/abs/2103.15908)
   - Ali el Hassouni, Mark Hoogendoorn, Marketa Ciharova, Annet Kleiboer, Khadicha Amarti, Vesa Muhonen, Heleen Riper, and A. E. Eiben. arXiv, 2021.
-- [DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning](https://arxiv.org/abs/2102.11492)
+- [DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning](https://arxiv.org/abs/2102.11492) [[podcast](https://www.talkrl.com/episodes/xianyuan-zhan)]
   - Xianyuan Zhan, Haoran Xu, Yue Zhang, Yusen Huo, Xiangyu Zhu, Honglei Yin, and Yu Zheng. arXiv, 2021.
 - [Personalization for Web-based Services using Offline Reinforcement Learning](https://arxiv.org/abs/2102.05612)
   - Pavlos Athanasios Apostolopoulos, Zehui Wang, Hanson Wang, Chad Zhou, Kittipat Virochsiri, Norm Zhou, and Igor L. Markov. arXiv, 2021.
@@ -702,6 +702,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ### Podcast
 - [Off-Line, Off-Policy RL for Real-World Decision Making at Facebook](https://twimlai.com/off-line-off-policy-rl-for-real-world-decision-making-at-facebook/)
   - Jason Gauci. TWIML, 2021.
+- [Xianyuan Zhan | TalkRL: The Reinforcement Learning Podcast](https://www.talkrl.com/episodes/xianyuan-zhan)
+  - Xianyuan Zhan. TWIML, 2021.
 - [MOReL: Model-Based Offline Reinforcement Learning with Aravind Rajeswaran](https://twimlai.com/morel-model-based-offline-reinforcement-learning-with-aravind-rajeswaran/)
   - Aravind Rajeswaran. TWIML, 2020.
 - [Trends in Reinforcement Learning with Chelsea Finn](https://twimlai.com/twiml-talk-335-trends-in-reinforcement-learning-with-chelsea-finn/)
