@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Implicit Behavioral Cloning](https://arxiv.org/abs/2109.00137)
+  - Pete Florence, Corey Lynch, Andy Zeng, Oscar Ramirez, Ayzaan Wahid, Laura Downs, Adrian Wong, Johnny Lee, Igor Mordatch, and Jonathan Tompson. arXiv, 2021.
 - [Nearly Horizon-Free Offline Reinforcement Learning](https://arxiv.org/abs/2103.14077)
   - Tongzheng Ren, Jialian Li, Bo Dai, Simon S. Du, and Sujay Sanghavi. arXiv, 2021.
 - [Reducing Conservativeness Oriented Offline Reinforcement Learning](https://arxiv.org/abs/2103.00098)
@@ -336,6 +338,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Dmitry Kalashnikov, Alex Irpan, Peter Pastor, Julian Ibarz, Alexander Herzog, Eric Jang, Deirdre Quillen, Ethan Holly, Mrinal Kalakrishnan, Vincent Vanhoucke, and Sergey Levine. CoRL, 2018.
 - [Off-Policy Policy Gradient with State Distribution Correction](https://arxiv.org/abs/1904.08473)
   - Yao Liu, Adith Swaminathan, Alekh Agarwal, and Emma Brunskill. UAI, 2018.
+- [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954)
+  - Faraz Torabi, Garrett Warnell, and Peter Stone. IJCAI, 2018.
 - [Deep Exploration via Bootstrapped DQN](https://papers.nips.cc/paper/2016/hash/8d8818c8e140c64c743113f563cf750f-Abstract.html)
   - Ian Osband, Charles Blundell, Alexander Pritzel, and Benjamin Van Roy. NeurIPS, 2016.
 - [Safe Policy Improvement by Minimizing Robust Baseline Regret](https://proceedings.neurips.cc/paper/2016/hash/9a3d458322d70046f63dfd8b0153ece4-Abstract.html)
