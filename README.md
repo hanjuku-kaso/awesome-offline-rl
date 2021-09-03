@@ -364,6 +364,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation](https://arxiv.org/abs/2109.01115)
+  - Suraj Nair, Eric Mitchell, Kevin Chen, Brian Ichter, Silvio Savarese, and Chelsea Finn. arXiv, 2021.
 - [Offline-Online Reinforcement Learning for Energy Pricing in Office Demand Response: Lowering Energy and Data Costs](https://arxiv.org/abs/2108.06594)
   - Doseok Jang, Lucas Spangher, Manan Khattar, Utkarsha Agwan, Selvaprabuh Nadarajah, and Costas Spanos. arXiv, 2021.
 - [Offline reinforcement learning with uncertainty for treatment strategies in sepsis](https://arxiv.org/abs/2107.04491)
