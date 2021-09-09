@@ -449,6 +449,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
+- [Conservative Policy Construction Using Variational Autoencoders for Logged Data with Missing Values](https://arxiv.org/abs/2109.03747)
+  - Mahed Abroshan, Kai Hou Yip, Cem Tekin, and Mihaela van der Schaar. arXiv, 2021.
 - [Control Variates for Slate Off-Policy Evaluation](https://arxiv.org/abs/2106.07914)
   - Nikos Vlassis, Ashok Chandrashekar, Fernando Amat Gil, and Nathan Kallus. arXiv, 2021.
 - [Off-Policy Evaluation via Adaptive Weighting with Data from Contextual Bandits](https://arxiv.org/abs/2106.02029)
