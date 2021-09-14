@@ -529,6 +529,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
    - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [Projected State-action Balancing Weights for Offline Reinforcement Learning](https://arxiv.org/abs/2109.04640)
+  - Jiayi Wang, Zhengling Qi, and Raymond K.W. Wong. arXiv, 2021.
 - [Supervised Off-Policy Ranking](https://arxiv.org/abs/2107.01360)
   - Yue Jin, Yue Zhang, Tao Qin, Xudong Zhang, Jian Yuan, Houqiang Li, and Tie-Yan Liu. arXiv, 2021.
 - [Unifying Gradient Estimators for Meta-Reinforcement Learning via Off-Policy Evaluation](https://arxiv.org/abs/2106.13125)
