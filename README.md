@@ -116,8 +116,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. arXiv, 2021.
 - [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
   - Caglar Gulcehre, Sergio Gómez Colmenarejo, Ziyu Wang, Jakub Sygnowski, Thomas Paine, Konrad Zolna, Yutian Chen, Matthew Hoffman, Razvan Pascanu, and Nando de Freitas. arXiv, 2021.
-- [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
-  - Samarth Sinha and Animesh Garg. arXiv, 2021.
 - [Causal-aware Safe Policy Improvement for Task-oriented dialogue](https://arxiv.org/abs/2103.06370)
   - Govardana Sachithanandam Ramachandran, Kazuma Hashimoto, and Caiming Xiong. arXiv, 2021.
 - [Improved Context-Based Offline Meta-RL with Attention and Contrastive Learning](https://arxiv.org/abs/2102.10774)
@@ -198,6 +196,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Chuheng Zhang, Yuanying Cai, Longbo Huang, and Jian Li. AAAI, 2021.
 - [Efficient Self-Supervised Data Collection for Offline Robot Learning](https://arxiv.org/abs/2105.04607)
   - Shadi Endrawis, Gal Leibovich, Guy Jacob, Gal Novik, Aviv Tamar. ICRA, 2021.
+- [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
+  - Samarth Sinha and Animesh Garg. CoRL, 2021.
 - [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://arxiv.org/abs/2106.10411)
   - Hua Wei, Deheng Ye, Zhao Liu, Hao Wu, Bo Yuan, Qiang Fu, Wei Yang, and Zhenhui (Jessie)Li. IJCAI, 2021.
 - [Behavior Constraining in Weight Space for Offline Reinforcement Learning](https://arxiv.org/abs/2107.05479)
@@ -521,6 +521,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
 
 #### Reinforcement Learning
+- [State Relevance for Off-Policy Evaluation](https://arxiv.org/abs/2109.06310)
+  - Simon P. Shen, Yecheng Jason Ma, Omer Gottesman, and Finale Doshi-Velez. ICML, 2021.
 - [Bootstrapping Fitted Q-Evaluation for Off-Policy Inference](http://proceedings.mlr.press/v139/hao21b.html)
   - Botao Hao, Xiang Ji, Yaqi Duan, Hao Lu, Csaba Szepesvari, and Mengdi Wang. ICML, 2021.
 - [Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)
