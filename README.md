@@ -718,6 +718,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Aviral Kumar. BAIR Blog, 2019.
 
 ### Podcast
+- [Sergey Levine on Robot Learning & Offline RL](https://thegradientpub.substack.com/p/sergey-levine-on-robot-learning-and)
+  - Sergey Levine. The Gradient, 2021.
 - [Off-Line, Off-Policy RL for Real-World Decision Making at Facebook](https://twimlai.com/off-line-off-policy-rl-for-real-world-decision-making-at-facebook/)
   - Jason Gauci. TWIML, 2021.
 - [Xianyuan Zhan | TalkRL: The Reinforcement Learning Podcast](https://www.talkrl.com/episodes/xianyuan-zhan)
