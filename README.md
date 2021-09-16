@@ -40,6 +40,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [DROMO: Distributionally Robust Offline Model-based Policy Optimization](https://arxiv.org/abs/2109.07275)
+  - Ruizhen Liu, Dazhi Zhong, and Zhicong Chen. arXiv, 2021.
 - [Implicit Behavioral Cloning](https://arxiv.org/abs/2109.00137)
   - Pete Florence, Corey Lynch, Andy Zeng, Oscar Ramirez, Ayzaan Wahid, Laura Downs, Adrian Wong, Johnny Lee, Igor Mordatch, and Jonathan Tompson. arXiv, 2021.
 - [Nearly Horizon-Free Offline Reinforcement Learning](https://arxiv.org/abs/2103.14077)
