@@ -42,7 +42,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ### Offline RL: Theory/Methods
 - [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://arxiv.org/abs/2109.08128)
   - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Sergey Levine, and Chelsea Finn. arXiv, 2021.
-- [DCUR: Data Curriculum for Teaching via Samples with Reinforcement Learning](https://arxiv.org/abs/2109.07380) [[website](https://sites.google.com/view/teach-curr/home)]
+- [DCUR: Data Curriculum for Teaching via Samples with Reinforcement Learning](https://arxiv.org/abs/2109.07380) [[website](https://sites.google.com/view/teach-curr/home)] [[code](https://github.com/DanielTakeshi/DCUR)]
   - Daniel Seita, Abhinav Gopal, Zhao Mandi, and John Canny. arXiv, 2021.
 - [DROMO: Distributionally Robust Offline Model-based Policy Optimization](https://arxiv.org/abs/2109.07275)
   - Ruizhen Liu, Dazhi Zhong, and Zhicong Chen. arXiv, 2021.
