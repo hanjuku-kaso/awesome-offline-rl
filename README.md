@@ -40,6 +40,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://arxiv.org/abs/2109.08128)
+  - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Sergey Levine, and Chelsea Finn. arXiv, 2021.
+- [DCUR: Data Curriculum for Teaching via Samples with Reinforcement Learning](https://arxiv.org/abs/2109.07380) [[website](https://sites.google.com/view/teach-curr/home)]
+  - Daniel Seita, Abhinav Gopal, Zhao Mandi, and John Canny. arXiv, 2021.
 - [DROMO: Distributionally Robust Offline Model-based Policy Optimization](https://arxiv.org/abs/2109.07275)
   - Ruizhen Liu, Dazhi Zhong, and Zhicong Chen. arXiv, 2021.
 - [Implicit Behavioral Cloning](https://arxiv.org/abs/2109.00137)
@@ -366,6 +370,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Comparison and Unification of Three Regularization Methods in Batch Reinforcement Learning](https://arxiv.org/abs/2109.08134)
+  - Sarah Rathnam, Susan A. Murphy, and Finale Doshi-Velez. arXiv, 2021.
 - [Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation](https://arxiv.org/abs/2109.01115)
   - Suraj Nair, Eric Mitchell, Kevin Chen, Brian Ichter, Silvio Savarese, and Chelsea Finn. arXiv, 2021.
 - [Offline-Online Reinforcement Learning for Energy Pricing in Office Demand Response: Lowering Energy and Data Costs](https://arxiv.org/abs/2108.06594)
