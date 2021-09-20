@@ -19,6 +19,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ## Table of Contents
 - [Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#papers)
   - [Review Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#review-papers)
+  - [Position Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#position-papers)
   - [Offline RL: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-theorymethods)
   - [Offline RL: Benchmarks/Experiments/Applications](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-benchmarksexperimentsapplications)
   - [Off-Policy Evaluation: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-theorymethods)
@@ -39,7 +40,18 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
+### Position Papers
+
+- [Accelerating Offline Reinforcement Learning Application in Real-Time Bidding and Recommendation: Potential Use of Simulation](https://arxiv.org/abs/2109.08331)
+  - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
+
 ### Offline RL: Theory/Methods
+- [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://arxiv.org/abs/2109.08128)
+  - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Sergey Levine, and Chelsea Finn. arXiv, 2021.
+- [DCUR: Data Curriculum for Teaching via Samples with Reinforcement Learning](https://arxiv.org/abs/2109.07380) [[website](https://sites.google.com/view/teach-curr/home)] [[code](https://github.com/DanielTakeshi/DCUR)]
+  - Daniel Seita, Abhinav Gopal, Zhao Mandi, and John Canny. arXiv, 2021.
+- [DROMO: Distributionally Robust Offline Model-based Policy Optimization](https://arxiv.org/abs/2109.07275)
+  - Ruizhen Liu, Dazhi Zhong, and Zhicong Chen. arXiv, 2021.
 - [Implicit Behavioral Cloning](https://arxiv.org/abs/2109.00137)
   - Pete Florence, Corey Lynch, Andy Zeng, Oscar Ramirez, Ayzaan Wahid, Laura Downs, Adrian Wong, Johnny Lee, Igor Mordatch, and Jonathan Tompson. arXiv, 2021.
 - [Nearly Horizon-Free Offline Reinforcement Learning](https://arxiv.org/abs/2103.14077)
@@ -116,8 +128,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. arXiv, 2021.
 - [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
   - Caglar Gulcehre, Sergio Gómez Colmenarejo, Ziyu Wang, Jakub Sygnowski, Thomas Paine, Konrad Zolna, Yutian Chen, Matthew Hoffman, Razvan Pascanu, and Nando de Freitas. arXiv, 2021.
-- [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
-  - Samarth Sinha and Animesh Garg. arXiv, 2021.
 - [Causal-aware Safe Policy Improvement for Task-oriented dialogue](https://arxiv.org/abs/2103.06370)
   - Govardana Sachithanandam Ramachandran, Kazuma Hashimoto, and Caiming Xiong. arXiv, 2021.
 - [Improved Context-Based Offline Meta-RL with Attention and Contrastive Learning](https://arxiv.org/abs/2102.10774)
@@ -198,6 +208,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Chuheng Zhang, Yuanying Cai, Longbo Huang, and Jian Li. AAAI, 2021.
 - [Efficient Self-Supervised Data Collection for Offline Robot Learning](https://arxiv.org/abs/2105.04607)
   - Shadi Endrawis, Gal Leibovich, Guy Jacob, Gal Novik, Aviv Tamar. ICRA, 2021.
+- [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
+  - Samarth Sinha and Animesh Garg. CoRL, 2021.
 - [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://arxiv.org/abs/2106.10411)
   - Hua Wei, Deheng Ye, Zhao Liu, Hao Wu, Bo Yuan, Qiang Fu, Wei Yang, and Zhenhui (Jessie)Li. IJCAI, 2021.
 - [Behavior Constraining in Weight Space for Offline Reinforcement Learning](https://arxiv.org/abs/2107.05479)
@@ -364,6 +376,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Comparison and Unification of Three Regularization Methods in Batch Reinforcement Learning](https://arxiv.org/abs/2109.08134)
+  - Sarah Rathnam, Susan A. Murphy, and Finale Doshi-Velez. arXiv, 2021.
 - [Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation](https://arxiv.org/abs/2109.01115)
   - Suraj Nair, Eric Mitchell, Kevin Chen, Brian Ichter, Silvio Savarese, and Chelsea Finn. arXiv, 2021.
 - [Offline-Online Reinforcement Learning for Energy Pricing in Office Demand Response: Lowering Energy and Data Costs](https://arxiv.org/abs/2108.06594)
@@ -449,6 +463,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
+- [Conservative Policy Construction Using Variational Autoencoders for Logged Data with Missing Values](https://arxiv.org/abs/2109.03747)
+  - Mahed Abroshan, Kai Hou Yip, Cem Tekin, and Mihaela van der Schaar. arXiv, 2021.
 - [Control Variates for Slate Off-Policy Evaluation](https://arxiv.org/abs/2106.07914)
   - Nikos Vlassis, Ashok Chandrashekar, Fernando Amat Gil, and Nathan Kallus. arXiv, 2021.
 - [Off-Policy Evaluation via Adaptive Weighting with Data from Contextual Bandits](https://arxiv.org/abs/2106.02029)
@@ -519,6 +535,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
 
 #### Reinforcement Learning
+- [State Relevance for Off-Policy Evaluation](https://arxiv.org/abs/2109.06310)
+  - Simon P. Shen, Yecheng Jason Ma, Omer Gottesman, and Finale Doshi-Velez. ICML, 2021.
 - [Bootstrapping Fitted Q-Evaluation for Off-Policy Inference](http://proceedings.mlr.press/v139/hao21b.html)
   - Botao Hao, Xiang Ji, Yaqi Duan, Hao Lu, Csaba Szepesvari, and Mengdi Wang. ICML, 2021.
 - [Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)
@@ -527,6 +545,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
    - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [Projected State-action Balancing Weights for Offline Reinforcement Learning](https://arxiv.org/abs/2109.04640)
+  - Jiayi Wang, Zhengling Qi, and Raymond K.W. Wong. arXiv, 2021.
 - [Supervised Off-Policy Ranking](https://arxiv.org/abs/2107.01360)
   - Yue Jin, Yue Zhang, Tao Qin, Xudong Zhang, Jian Yuan, Houqiang Li, and Tie-Yan Liu. arXiv, 2021.
 - [Unifying Gradient Estimators for Meta-Reinforcement Learning via Off-Policy Evaluation](https://arxiv.org/abs/2106.13125)
@@ -639,6 +659,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ### Off-Policy Evaluation: Benchmarks/Experiments/Applications
 - [Evaluating the Robustness of Off-Policy Evaluation](https://arxiv.org/abs/2108.13703) [[package](https://github.com/sony/pyIEOE)]
   - Yuta Saito, Takuma Udagawa, Haruka Kiyohara, Kazuki Mogi, Yusuke Narita, and Kei Tateno. RecSys, 2021.
+- [Data-Driven Off-Policy Estimator Selection: An Application in User Marketing on An Online Content Delivery Service](https://arxiv.org/abs/2109.08621)
+  - Yuta Saito, Takuma Udagawa, and Kei Tateno. arXiv, 2021.
 - [Towards Automatic Evaluation of Dialog Systems: A Model-Free Off-Policy Evaluation Approach](https://arxiv.org/abs/2102.10242)
   - Haoming Jiang, Bo Dai, Mengjiao Yang, Wei Wei, and Tuo Zhao. arXiv, 2021.
 - [Benchmarks for Deep Off-Policy Evaluation](https://openreview.net/forum?id=kWSeGEeHvF8) [[code](https://github.com/google-research/deep_ope)]
@@ -710,6 +732,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Aviral Kumar. BAIR Blog, 2019.
 
 ### Podcast
+- [Sergey Levine on Robot Learning & Offline RL](https://thegradientpub.substack.com/p/sergey-levine-on-robot-learning-and)
+  - Sergey Levine. The Gradient, 2021.
 - [Off-Line, Off-Policy RL for Real-World Decision Making at Facebook](https://twimlai.com/off-line-off-policy-rl-for-real-world-decision-making-at-facebook/)
   - Jason Gauci. TWIML, 2021.
 - [Xianyuan Zhan | TalkRL: The Reinforcement Learning Podcast](https://www.talkrl.com/episodes/xianyuan-zhan)
@@ -735,6 +759,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Real-world Sequential Decision Making (ICML 2019)](https://realworld-sdm.github.io/)
 
 ## Tutorials/Talks/Lectures
+- [Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances](https://sites.google.com/cornell.edu/recsys2021tutorial)
+  - Yuta Saito and Thorstem Joachims. RecSys2021.
 - [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
   - Guy Tennenholtz. CHIL2021.
 - [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://www.youtube.com/watch?v=T1Am0bGzH4A)
