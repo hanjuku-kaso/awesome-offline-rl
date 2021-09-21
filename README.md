@@ -46,6 +46,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Lifelong Robotic Reinforcement Learning by Retaining Experiences](https://arxiv.org/abs/2109.09180) [[website](https://sites.google.com/view/retain-experience/)]
+  - Annie Xie and Chelsea Finn. arXiv, 2021.
+- [Dual Behavior Regularized Reinforcement Learning](https://arxiv.org/abs/2109.09037)
+  - Chapman Siu, Jason Traish, and Richard Yi Da Xu. arXiv, 2021.
 - [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://arxiv.org/abs/2109.08128)
   - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Sergey Levine, and Chelsea Finn. arXiv, 2021.
 - [DCUR: Data Curriculum for Teaching via Samples with Reinforcement Learning](https://arxiv.org/abs/2109.07380) [[website](https://sites.google.com/view/teach-curr/home)] [[code](https://github.com/DanielTakeshi/DCUR)]
