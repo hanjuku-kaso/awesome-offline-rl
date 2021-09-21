@@ -3,8 +3,8 @@ This is a collection of research and review papers for **offline reinforcement l
 
 
 Maintainers:
-- [Haruka Kiyohara](https://sites.google.com/view/harukakiyohara) (Tokyo Institute of Technology)
-- [Yuta Saito](http://usaito.github.io/) (Hanjuku-kaso Co., Ltd.)
+- [Haruka Kiyohara](https://sites.google.com/view/harukakiyohara) (Tokyo Institute of Technology / Hanjuku-kaso Co., Ltd.)
+- [Yuta Saito](http://usaito.github.io/) (Hanjuku-kaso Co., Ltd. / Cornell University)
 
 We are looking for more contributors and maintainers! Please feel free to [pull requests](https://github.com/usaito/awesome-offline-rl/pulls).
 
