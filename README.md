@@ -214,6 +214,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Shadi Endrawis, Gal Leibovich, Guy Jacob, Gal Novik, Aviv Tamar. ICRA, 2021.
 - [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
   - Samarth Sinha and Animesh Garg. CoRL, 2021.
+- [A Workflow for Offline Model-Free Robotic Reinforcement Learning](https://arxiv.org/abs/2109.10813) [[website](https://sites.google.com/view/offline-rl-workflow)]
+  - Aviral Kumar, Anikait Singh, Stephen Tian, Chelsea Finn, and Sergey Levine. CoRL, 2021.
 - [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://arxiv.org/abs/2106.10411)
   - Hua Wei, Deheng Ye, Zhao Liu, Hao Wu, Bo Yuan, Qiang Fu, Wei Yang, and Zhenhui (Jessie)Li. IJCAI, 2021.
 - [Behavior Constraining in Weight Space for Offline Reinforcement Learning](https://arxiv.org/abs/2107.05479)
@@ -549,6 +551,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
    - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [A Spectral Approach to Off-Policy Evaluation for POMDPs](https://arxiv.org/abs/2109.10502)
+  - Yash Nair and Nan Jiang. arXiv, 2021.
 - [Projected State-action Balancing Weights for Offline Reinforcement Learning](https://arxiv.org/abs/2109.04640)
   - Jiayi Wang, Zhengling Qi, and Raymond K.W. Wong. arXiv, 2021.
 - [Supervised Off-Policy Ranking](https://arxiv.org/abs/2107.01360)
