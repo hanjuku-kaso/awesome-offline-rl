@@ -3,8 +3,8 @@ This is a collection of research and review papers for **offline reinforcement l
 
 
 Maintainers:
-- [Haruka Kiyohara](https://sites.google.com/view/harukakiyohara) (Tokyo Institute of Technology)
-- [Yuta Saito](http://usaito.github.io/) (Hanjuku-kaso Co., Ltd.)
+- [Haruka Kiyohara](https://sites.google.com/view/harukakiyohara) (Tokyo Institute of Technology / Hanjuku-kaso Co., Ltd.)
+- [Yuta Saito](http://usaito.github.io/) (Hanjuku-kaso Co., Ltd. / Cornell University)
 
 We are looking for more contributors and maintainers! Please feel free to [pull requests](https://github.com/usaito/awesome-offline-rl/pulls).
 
@@ -46,6 +46,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Lifelong Robotic Reinforcement Learning by Retaining Experiences](https://arxiv.org/abs/2109.09180) [[website](https://sites.google.com/view/retain-experience/)]
+  - Annie Xie and Chelsea Finn. arXiv, 2021.
+- [Dual Behavior Regularized Reinforcement Learning](https://arxiv.org/abs/2109.09037)
+  - Chapman Siu, Jason Traish, and Richard Yi Da Xu. arXiv, 2021.
 - [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://arxiv.org/abs/2109.08128)
   - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Sergey Levine, and Chelsea Finn. arXiv, 2021.
 - [DCUR: Data Curriculum for Teaching via Samples with Reinforcement Learning](https://arxiv.org/abs/2109.07380) [[website](https://sites.google.com/view/teach-curr/home)] [[code](https://github.com/DanielTakeshi/DCUR)]
@@ -210,6 +214,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Shadi Endrawis, Gal Leibovich, Guy Jacob, Gal Novik, Aviv Tamar. ICRA, 2021.
 - [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
   - Samarth Sinha and Animesh Garg. CoRL, 2021.
+- [A Workflow for Offline Model-Free Robotic Reinforcement Learning](https://arxiv.org/abs/2109.10813) [[website](https://sites.google.com/view/offline-rl-workflow)]
+  - Aviral Kumar, Anikait Singh, Stephen Tian, Chelsea Finn, and Sergey Levine. CoRL, 2021.
 - [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://arxiv.org/abs/2106.10411)
   - Hua Wei, Deheng Ye, Zhao Liu, Hao Wu, Bo Yuan, Qiang Fu, Wei Yang, and Zhenhui (Jessie)Li. IJCAI, 2021.
 - [Behavior Constraining in Weight Space for Offline Reinforcement Learning](https://arxiv.org/abs/2107.05479)
@@ -376,6 +382,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [An Offline Deep Reinforcement Learning for Maintenance Decision-Making](https://arxiv.org/abs/2109.15050)
+  - Hamed Khorasgani, Haiyan Wang, Chetan Gupta, and Ahmed Farahat. arXiv, 2021.
 - [Comparison and Unification of Three Regularization Methods in Batch Reinforcement Learning](https://arxiv.org/abs/2109.08134)
   - Sarah Rathnam, Susan A. Murphy, and Finale Doshi-Velez. arXiv, 2021.
 - [Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation](https://arxiv.org/abs/2109.01115)
@@ -545,6 +553,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
    - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [A Spectral Approach to Off-Policy Evaluation for POMDPs](https://arxiv.org/abs/2109.10502)
+  - Yash Nair and Nan Jiang. arXiv, 2021.
 - [Projected State-action Balancing Weights for Offline Reinforcement Learning](https://arxiv.org/abs/2109.04640)
   - Jiayi Wang, Zhengling Qi, and Raymond K.W. Wong. arXiv, 2021.
 - [Supervised Off-Policy Ranking](https://arxiv.org/abs/2107.01360)
