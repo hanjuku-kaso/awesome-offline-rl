@@ -382,6 +382,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [An Offline Deep Reinforcement Learning for Maintenance Decision-Making](https://arxiv.org/abs/2109.15050)
+  - Hamed Khorasgani, Haiyan Wang, Chetan Gupta, and Ahmed Farahat. arXiv, 2021.
 - [Comparison and Unification of Three Regularization Methods in Batch Reinforcement Learning](https://arxiv.org/abs/2109.08134)
   - Sarah Rathnam, Susan A. Murphy, and Finale Doshi-Velez. arXiv, 2021.
 - [Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation](https://arxiv.org/abs/2109.01115)
