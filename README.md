@@ -160,6 +160,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ming Yin, Yu Bai, and Yu-Xiang Wang. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
+- [Uncertainty-Based Offline Reinforcement Learning with Diversified Q-Ensemble](https://arxiv.org/abs/2110.01548)
+  - Gaon An, Seungyong Moon, Jang-Hyun Kim, and Hyun Oh Song. NeurIPS, 2021.
 - [EMaQ: Expected-Max Q-Learning Operator for Simple Yet Effective Offline and Online RL](https://arxiv.org/abs/2007.11091)
   - Seyed Kamyar Seyed Ghasemipour, Dale Schuurmans, and Shixiang Shane Gu. ICML, 2021.
 - [Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills](https://arxiv.org/abs/2104.07749) [[website](https://actionable-models.github.io/)]
@@ -220,6 +222,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Aviral Kumar, Anikait Singh, Stephen Tian, Chelsea Finn, and Sergey Levine. CoRL, 2021.
 - [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://arxiv.org/abs/2106.10411)
   - Hua Wei, Deheng Ye, Zhao Liu, Hao Wu, Bo Yuan, Qiang Fu, Wei Yang, and Zhenhui (Jessie)Li. IJCAI, 2021.
+- [BRAC+: Improved Behavior Regularized Actor Critic for Offline Reinforcement Learning](https://arxiv.org/abs/2110.00894)
+  - Chi Zhang, Sanmukh Rao Kuppannagari, and Viktor K Prasanna. ACML, 2021.
 - [Behavior Constraining in Weight Space for Offline Reinforcement Learning](https://arxiv.org/abs/2107.05479)
   - Phillip Swazinna, Steffen Udluft, Daniel Hein, and Thomas Runkler. ESANN, 2021.
 - [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783)
