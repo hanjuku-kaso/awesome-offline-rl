@@ -216,6 +216,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Chuheng Zhang, Yuanying Cai, Longbo Huang, and Jian Li. AAAI, 2021.
 - [Efficient Self-Supervised Data Collection for Offline Robot Learning](https://arxiv.org/abs/2105.04607)
   - Shadi Endrawis, Gal Leibovich, Guy Jacob, Gal Novik, Aviv Tamar. ICRA, 2021.
+- [You Only Evaluate Once: a Simple Baseline Algorithm for Offline RL](https://arxiv.org/abs/2110.02304)
+  - Wonjoon Goo and Scott Niekum. CoRL, 2021.
 - [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
   - Samarth Sinha and Animesh Garg. CoRL, 2021.
 - [A Workflow for Offline Model-Free Robotic Reinforcement Learning](https://arxiv.org/abs/2109.10813) [[website](https://sites.google.com/view/offline-rl-workflow)]
