@@ -46,6 +46,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Revisiting Design Choices in Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2110.04135)
+  - Cong Lu, Philip J. Ball, Jack Parker-Holder, Michael A. Osborne, and Stephen J. Roberts. arXiv, 2021.
+- [Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters](https://arxiv.org/abs/2110.04156)
+  - Vladislav Kurenkov and Sergey Kolesnikov. arXiv, 2021.
 - [Offline RL With Resource Constrained Online Deployment](https://arxiv.org/abs/2110.03165) [[code](https://github.com/JayanthRR/RC-OfflineRL)]
   - Jayanth Reddy Regatti, Aniket Anand Deshmukh, Frank Cheng, Young Hun Jung, Abhishek Gupta, and Urun Dogan. arXiv, 2021.
 - [Offline Reinforcement Learning with Reverse Model-based Imagination](https://arxiv.org/abs/2110.00188)
