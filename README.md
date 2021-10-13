@@ -46,6 +46,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/abs/2110.06169)
+  - Ilya Kostrikov, Ashvin Nair, and Sergey Levine. arXiv, 2021.
 - [Representation Learning for Online and Offline RL in Low-rank MDPs](https://arxiv.org/abs/2110.04652)
   - Masatoshi Uehara, Xuezhou Zhang, and Wen Sun. arXiv, 2021.
 - [Revisiting Design Choices in Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2110.04135)
