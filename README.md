@@ -46,6 +46,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Planning from Pixels in Environments with Combinatorially Hard Search Spaces](https://arxiv.org/abs/2110.06149)
+  - Marco Bagatella, Mirek Olšák, Michal Rolínek, and Georg Martius. arXiv, 2021.
+- [StARformer: Transformer with State-Action-Reward Representations](https://arxiv.org/abs/2110.06206)
+  - Jinghuan Shang and Michael S. Ryoo. arXiv, 2021.
 - [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/abs/2110.06169)
   - Ilya Kostrikov, Ashvin Nair, and Sergey Levine. arXiv, 2021.
 - [Representation Learning for Online and Offline RL in Low-rank MDPs](https://arxiv.org/abs/2110.04652)
@@ -232,6 +236,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Samarth Sinha and Animesh Garg. CoRL, 2021.
 - [A Workflow for Offline Model-Free Robotic Reinforcement Learning](https://arxiv.org/abs/2109.10813) [[website](https://sites.google.com/view/offline-rl-workflow)]
   - Aviral Kumar, Anikait Singh, Stephen Tian, Chelsea Finn, and Sergey Levine. CoRL, 2021.
+- [Beyond Pick-and-Place: Tackling Robotic Stacking of Diverse Shapes](https://arxiv.org/abs/2110.06192)  [[blog](https://deepmind.com/blog/article/stacking-our-way-to-more-general-robots)] [[video](https://www.youtube.com/watch?v=BxOKPEtMuZw)] [[code](https://github.com/deepmind/rgb_stacking)]
+  - Alex X. Lee, Coline Devin, Yuxiang Zhou, Thomas Lampe, Konstantinos Bousmalis, Jost Tobias Springenberg, Arunkumar Byravan, Abbas Abdolmaleki, Nimrod Gileadi, David Khosid, Claudio Fantacci, Jose Enrique Chen, Akhil Raju, Rae Jeong, Michael Neunert, Antoine Laurens, Stefano Saliceti, Federico Casarini, Martin Riedmiller, Raia Hadsell, and Francesco Nori. CoRL, 2021.
 - [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://arxiv.org/abs/2106.10411)
   - Hua Wei, Deheng Ye, Zhao Liu, Hao Wu, Bo Yuan, Qiang Fu, Wei Yang, and Zhenhui (Jessie)Li. IJCAI, 2021.
 - [BRAC+: Improved Behavior Regularized Actor Critic for Offline Reinforcement Learning](https://arxiv.org/abs/2110.00894)
@@ -400,6 +406,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Medical Dead-ends and Learning to Identify High-risk States and Treatments](https://arxiv.org/abs/2110.04186)
+  - Mehdi Fatemi, Taylor W. Killian, Jayakumar Subramanian, and Marzyeh Ghassemi. arXiv, 2021.
 - [An Offline Deep Reinforcement Learning for Maintenance Decision-Making](https://arxiv.org/abs/2109.15050)
   - Hamed Khorasgani, Haiyan Wang, Chetan Gupta, and Ahmed Farahat. arXiv, 2021.
 - [Comparison and Unification of Three Regularization Methods in Batch Reinforcement Learning](https://arxiv.org/abs/2109.08134)
