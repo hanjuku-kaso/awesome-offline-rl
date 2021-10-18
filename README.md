@@ -46,6 +46,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Value Penalized Q-Learning for Recommender Systems](https://arxiv.org/abs/2110.07923)
+  - Chengqian Gao, Ke Xu, and Peilin Zhao. arXiv, 2021.
 - [Offline Reinforcement Learning with Soft Behavior Regularization](https://arxiv.org/abs/2110.07395)
   - Haoran Xu, Xianyuan Zhan, Jianxiong Li, and Honglei Yin. arXiv, 2021.
 - [Planning from Pixels in Environments with Combinatorially Hard Search Spaces](https://arxiv.org/abs/2110.06149)
