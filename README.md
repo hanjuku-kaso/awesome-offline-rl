@@ -180,6 +180,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
 - [Uncertainty-Based Offline Reinforcement Learning with Diversified Q-Ensemble](https://arxiv.org/abs/2110.01548)
   - Gaon An, Seungyong Moon, Jang-Hyun Kim, and Hyun Oh Song. NeurIPS, 2021.
+- [Towards Instance-Optimal Offline Reinforcement Learning with Pessimism](https://arxiv.org/abs/2110.08695)
+  - Ming Yin and Yu-Xiang Wang. NeurIPS, 2021.
 - [EMaQ: Expected-Max Q-Learning Operator for Simple Yet Effective Offline and Online RL](https://arxiv.org/abs/2007.11091)
   - Seyed Kamyar Seyed Ghasemipour, Dale Schuurmans, and Shixiang Shane Gu. ICML, 2021.
 - [Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills](https://arxiv.org/abs/2104.07749) [[website](https://actionable-models.github.io/)]
