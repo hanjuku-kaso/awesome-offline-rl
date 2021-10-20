@@ -46,6 +46,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/abs/2110.09796)
+  - Xiaoteng Ma, Yiqin Yang, Hao Hu, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, and Bin Liang. arXiv, 2021.
 - [Value Penalized Q-Learning for Recommender Systems](https://arxiv.org/abs/2110.07923)
   - Chengqian Gao, Ke Xu, and Peilin Zhao. arXiv, 2021.
 - [Offline Reinforcement Learning with Soft Behavior Regularization](https://arxiv.org/abs/2110.07395)
@@ -507,6 +509,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
+- [Stateful Offline Contextual Policy Evaluation and Learning](https://arxiv.org/abs/2110.10081)
+  - Nathan Kallus, and Angela Zhou. arXiv, 2021.
 - [Conservative Policy Construction Using Variational Autoencoders for Logged Data with Missing Values](https://arxiv.org/abs/2109.03747)
   - Mahed Abroshan, Kai Hou Yip, Cem Tekin, and Mihaela van der Schaar. arXiv, 2021.
 - [Control Variates for Slate Off-Policy Evaluation](https://arxiv.org/abs/2106.07914)
