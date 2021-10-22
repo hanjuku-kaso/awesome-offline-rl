@@ -46,6 +46,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Efficient Robotic Manipulation Through Offline-to-Online Reinforcement Learning and Goal-Aware State Information](https://arxiv.org/abs/2110.10905)
+  - Jin Li, Xianyuan Zhan, Zixu Xiao, and Guyue Zhou. arXiv, 2021.
 - [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/abs/2110.09796)
   - Xiaoteng Ma, Yiqin Yang, Hao Hu, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, and Bin Liang. arXiv, 2021.
 - [Value Penalized Q-Learning for Recommender Systems](https://arxiv.org/abs/2110.07923)
@@ -452,6 +454,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Leandro M. de Lima and Renato A. Krohling. IJCNN, 2021.
 - [Learning robust driving policies without online exploration](https://arxiv.org/abs/2103.08070)
   - Daniel Graves, Nhat M. Nguyen, Kimia Hassanzadeh, Jun Jin, and Jun Luo. ICRA, 2021.
+- [Engagement Rewarded Actor-Critic with Conservative Q-Learning for Speech-Driven Laughter Backchannel Generation](https://dl.acm.org/doi/abs/10.1145/3462244.3479944)
+  - Öykü Zeynep Bayramoğlu, Engin Erzin, Tevfik Metin Sezgin, and Yücel Yemez. ICMI, 2021.
 - [Offline Meta-level Model-based Reinforcement Learning Approach for Cold-Start Recommendation](https://arxiv.org/abs/2012.02476)
   - Yanan Wang, Yong Ge, Li Li, Rui Chen, and Tong Xu. arXiv, 2020.
 - [Batch-Constrained Distributional Reinforcement Learning for Session-based Recommendation](https://arxiv.org/abs/2012.08984)
