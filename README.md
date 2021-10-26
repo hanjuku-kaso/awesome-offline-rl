@@ -46,6 +46,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [SCORE: Spurious COrrelation REduction for Offline Reinforcement Learning](https://arxiv.org/abs/2110.12468)
+  - Zhihong Deng, Zuyue Fu, Lingxiao Wang, Zhuoran Yang, Chenjia Bai, Zhaoran Wang, and Jing Jiang. arXiv, 2021.
+- [Safely Bridging Offline and Online Reinforcement Learning](https://arxiv.org/abs/2110.13060)
+  - Wanqiao Xu, Kan Xu, Hamsa Bastani, and Osbert Bastani. arXiv, 2021.
 - [Efficient Robotic Manipulation Through Offline-to-Online Reinforcement Learning and Goal-Aware State Information](https://arxiv.org/abs/2110.10905)
   - Jin Li, Xianyuan Zhan, Zixu Xiao, and Guyue Zhou. arXiv, 2021.
 - [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/abs/2110.09796)
@@ -597,9 +601,11 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
    - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [Off-Policy Evaluation in Partially Observed Markov Decision Processes](https://arxiv.org/abs/2110.12343)
+  - Yuchen Hu and Stefan Wager. arXiv, 2021.
 - [A Spectral Approach to Off-Policy Evaluation for POMDPs](https://arxiv.org/abs/2109.10502)
   - Yash Nair and Nan Jiang. arXiv, 2021.
-- [Projected State-action Balancing Weights for Offline Reinforcement Learning](https://arxiv.org/abs/2109.04640)
+- [Projected State-action Balancing Weights for Offline Reinforcement Learning](https://arxiv.org/abs/2109.04640)s
   - Jiayi Wang, Zhengling Qi, and Raymond K.W. Wong. arXiv, 2021.
 - [Supervised Off-Policy Ranking](https://arxiv.org/abs/2107.01360)
   - Yue Jin, Yue Zhang, Tao Qin, Xudong Zhang, Jian Yuan, Houqiang Li, and Tie-Yan Liu. arXiv, 2021.
