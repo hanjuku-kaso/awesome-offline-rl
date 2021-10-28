@@ -100,7 +100,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Daniel Shin and Daniel S. Brown. arXiv, 2021.
 - [Constraints Penalized Q-Learning for Safe Offline Reinforcement Learning](https://arxiv.org/abs/2107.09003)
   - Haoran Xu, Xianyuan Zhan, and Xiangyu Zhu. arXiv, 2021.
-- [Pessimistic Model-based Offline RL: PAC Bounds and Posterior Sampling under Partial Coverage](https://arxiv.org/abs/2107.06226)
+- [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://arxiv.org/abs/2107.06226) [[video](https://www.youtube.com/watch?v=aPce6Y-NqpQs)]
   - Masatoshi Uehara and Wen Sun. arXiv, 2021.
 - [Conservative Offline Distributional Reinforcement Learning](https://arxiv.org/abs/2107.06106)
   - Yecheng Jason Ma, Dinesh Jayaraman, and Osbert Bastani. arXiv, 2021.
@@ -186,6 +186,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ming Yin, Yu Bai, and Yu-Xiang Wang. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
+- [The Difficulty of Passive Learning in Deep Reinforcement Learning](https://arxiv.org/abs/2110.14020)
+  - Georg Ostrovski, Pablo Samuel Castro, and Will Dabney. NeurIPS, 2021.
 - [Uncertainty-Based Offline Reinforcement Learning with Diversified Q-Ensemble](https://arxiv.org/abs/2110.01548)
   - Gaon An, Seungyong Moon, Jang-Hyun Kim, and Hyun Oh Song. NeurIPS, 2021.
 - [Towards Instance-Optimal Offline Reinforcement Learning with Pessimism](https://arxiv.org/abs/2110.08695)
@@ -591,6 +593,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
 
 #### Reinforcement Learning
+- [Towards Hyperparameter-free Policy Selection for Offline Reinforcement Learning](https://arxiv.org/abs/2110.14000)
+  - Siyuan Zhang and Nan Jiang. NeurIPS, 2021.
 - [State Relevance for Off-Policy Evaluation](https://arxiv.org/abs/2109.06310)
   - Simon P. Shen, Yecheng Jason Ma, Omer Gottesman, and Finale Doshi-Velez. ICML, 2021.
 - [Bootstrapping Fitted Q-Evaluation for Off-Policy Inference](http://proceedings.mlr.press/v139/hao21b.html)
@@ -823,6 +827,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yuta Saito and Thorstem Joachims. RecSys2021.
 - [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
   - Guy Tennenholtz. CHIL2021.
+- [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://www.youtube.com/watch?v=aPce6Y-NqpQ)
+  - Masatoshi Uehara. RL Theory Seminar2021.
 - [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://www.youtube.com/watch?v=T1Am0bGzH4A)
   - Paria Rashidinejad. RL Theory Seminar2021.
 - [Infinite-Horizon Offline Reinforcement Learning with Linear Function Approximation: Curse of Dimensionality and Algorithm](https://www.youtube.com/watch?v=uOIvo1wQ_RQ)
