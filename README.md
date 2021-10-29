@@ -605,6 +605,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
    - Cameron Voloshin, Nan Jiang, and Yisong Yue. AISTATS, 2021.
 - [Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders](https://arxiv.org/abs/2007.13893)
   - Andrew Bennett, Nathan Kallus, Lihong Li, and Ali Mousavi. AISTATS, 2021.
+- [Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes](https://arxiv.org/abs/2110.15332)
+  - Andrew Bennett and Nathan Kallus. arXiv, 2021.
 - [Off-Policy Evaluation in Partially Observed Markov Decision Processes](https://arxiv.org/abs/2110.12343)
   - Yuchen Hu and Stefan Wager. arXiv, 2021.
 - [A Spectral Approach to Off-Policy Evaluation for POMDPs](https://arxiv.org/abs/2109.10502)
