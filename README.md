@@ -46,6 +46,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Koopman Q-learning: Offline Reinforcement Learning via Symmetries of Dynamics](https://arxiv.org/abs/2111.01365)
+  - Matthias Weissenbacher, Samarth Sinha, Animesh Garg, and Yoshinobu Kawahara. arXiv, 2021.
 - [SCORE: Spurious COrrelation REduction for Offline Reinforcement Learning](https://arxiv.org/abs/2110.12468)
   - Zhihong Deng, Zuyue Fu, Lingxiao Wang, Zhuoran Yang, Chenjia Bai, Zhaoran Wang, and Jing Jiang. arXiv, 2021.
 - [Safely Bridging Offline and Online Reinforcement Learning](https://arxiv.org/abs/2110.13060)
