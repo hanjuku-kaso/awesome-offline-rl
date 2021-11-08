@@ -452,6 +452,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Pavlos Athanasios Apostolopoulos, Zehui Wang, Hanson Wang, Chad Zhou, Kittipat Virochsiri, Norm Zhou, and Igor L. Markov. arXiv, 2021.
 - [NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning](https://arxiv.org/abs/2102.00714) [[website](http://polixir.ai/research/neorl)] [[code](https://agit.ai/Polixir/neorl)]
   - Rongjun Qin, Songyi Gao, Xingyuan Zhang, Zhen Xu, Shengkai Huang, Zewen Li, Weinan Zhang, and Yang Yu. arXiv, 2021.
+- [RLDS: an Ecosystem to Generate, Share and Use Datasets in Reinforcement Learning](https://arxiv.org/abs/2111.02767) [[code](https://github.com/google-research/rlds)]
+  - Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev. NeurIPS, 2021.
 - [Safe Driving via Expert Guided Policy Optimization](https://arxiv.org/abs/2110.06831) [[website](https://decisionforce.github.io/EGPO/)] [[code](https://github.com/decisionforce/EGPO)]
   - Zhenghao Peng, Quanyi Li, Chunxiao Liu, and Bolei Zhou. CoRL, 2021.
 - [A General Offline Reinforcement Learning Framework for Interactive Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/16579)
@@ -763,6 +765,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Takuma Seno.
 - [MINERVA: An out-of-the-box GUI tool for data-driven deep reinforcement learning](https://github.com/takuseno/minerva) [[website](https://takuseno.github.io/minerva/)] [[documentation](https://minerva-ui.readthedocs.io/en/v0.20/)]
   - Takuma Seno.
+- [RLDS: Reinforcement Learning Datasets](https://github.com/google-research/rlds) [[paper](https://arxiv.org/abs/2111.02767)]
+  - Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev.
 - [Benchmarks for Deep Off-Policy Evaluation](https://github.com/google-research/deep_ope) [[paper](https://openreview.net/forum?id=kWSeGEeHvF8)]
   - Justin Fu, Mohammad Norouzi, Ofir Nachum, George Tucker, Ziyu Wang, Alexander Novikov, Mengjiao Yang, Michael R Zhang, Yutian Chen, Aviral Kumar, Cosmin Paduraru, Sergey Levine, and Thomas Paine.
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://github.com/rail-berkeley/d4rl) [[paper](https://arxiv.org/abs/2004.07219)] [[website](https://sites.google.com/view/d4rl/home)]
@@ -829,6 +833,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ## Tutorials/Talks/Lectures
 - [Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances](https://sites.google.com/cornell.edu/recsys2021tutorial)
   - Yuta Saito and Thorstem Joachims. RecSys2021.
+- [Offline Reinforcement Learning](https://www.youtube.com/watch?v=k08N5a0gG0A)
+  - Sergey Levine. BayLearn2021.
 - [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
   - Guy Tennenholtz. CHIL2021.
 - [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://www.youtube.com/watch?v=aPce6Y-NqpQ)
