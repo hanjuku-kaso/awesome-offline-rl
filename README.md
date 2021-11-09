@@ -771,7 +771,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita.
 - [pyIEOE: Towards An Interpretable Evaluation for Offline Evaluation](https://github.com/sony/pyIEOE) [[paper](https://arxiv.org/abs/2108.13703)]
   - Yuta Saito, Takuma Udagawa, Haruka Kiyohara, Kazuki Mogi, Yusuke Narita, and Kei Tateno.
-- [d3rlpy: An Offline Deep Reinforcement Learning Library](https://github.com/takuseno/d3rlpy) [[paper](https://arxiv.org/abs/2111.03788)] [[website](https://takuseno.github.io/d3rlpy/)] [[documentation](https://d3rlpy.readthedocs.io/en/v0.70/)]
+- [d3rlpy: An Offline Deep Reinforcement Learning Library](https://github.com/takuseno/d3rlpy) [[paper](https://arxiv.org/abs/2111.03788)] [[website](https://takuseno.github.io/d3rlpy/)] [[documentation](https://d3rlpy.readthedocs.io/)]
   - Takuma Seno and Michita Imai.
 - [MINERVA: An out-of-the-box GUI tool for data-driven deep reinforcement learning](https://github.com/takuseno/minerva) [[website](https://takuseno.github.io/minerva/)] [[documentation](https://minerva-ui.readthedocs.io/en/v0.20/)]
   - Takuma Seno.
