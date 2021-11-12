@@ -252,6 +252,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Chuheng Zhang, Yuanying Cai, Longbo Huang, and Jian Li. AAAI, 2021.
 - [Efficient Self-Supervised Data Collection for Offline Robot Learning](https://arxiv.org/abs/2105.04607)
   - Shadi Endrawis, Gal Leibovich, Guy Jacob, Gal Novik, Aviv Tamar. ICRA, 2021.
+- [AW-Opt: Learning Robotic Skills with Imitation and Reinforcement at Scale](https://arxiv.org/abs/2111.05424) [[website](https://awopt.github.io/)]
+  - Yao Lu, Karol Hausman, Yevgen Chebotar, Mengyuan Yan, Eric Jang, Alexander Herzog, Ted Xiao, Alex Irpan, Mohi Khansari, Dmitry Kalashnikov, and Sergey Levine. CoRL, 2021.
+- [Dealing with the Unknown: Pessimistic Offline Reinforcement Learning](https://arxiv.org/abs/2111.05440)
+  - Jinning Li, Chen Tang, Masayoshi Tomizuka, and Wei Zhan. CoRL, 2021.
 - [You Only Evaluate Once: a Simple Baseline Algorithm for Offline RL](https://arxiv.org/abs/2110.02304)
   - Wonjoon Goo and Scott Niekum. CoRL, 2021.
 - [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326)
