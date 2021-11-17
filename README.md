@@ -46,6 +46,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Exploiting Action Impact Regularity and Partially Known Models for Offline Reinforcement Learning](https://arxiv.org/abs/2111.08066)
+  - Vincent Liu, James Wright, and Martha White. arXiv, 2021.
 - [Batch Reinforcement Learning from Crowds](https://arxiv.org/abs/2111.04279)
   - Guoxi Zhang and Hisashi Kashima. arXiv, 2021.
 - [Koopman Q-learning: Offline Reinforcement Learning via Symmetries of Dynamics](https://arxiv.org/abs/2111.01365)
@@ -132,7 +134,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Shideh Rezaeifar, Robert Dadashi, Nino Vieillard, Léonard Hussenot, Olivier Bachem, Olivier Pietquin, and Matthieu Geist. arXiv, 2021.
 - [Corruption-Robust Offline Reinforcement Learning](https://arxiv.org/abs/2106.06630)
   - Xuezhou Zhang, Yiding Chen, Jerry Zhu, and Wen Sun. arXiv, 2021.
-- [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://arxiv.org/abs/2106.06926)
+- [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://arxiv.org/abs/2106.06926) [[video](https://www.youtube.com/watch?v=g_yD6Yw8MLQ)]
   - Tengyang Xie, Ching-An Cheng, Nan Jiang, Paul Mineiro, and Alekh Agarwal. arXiv, 2021.
 - [Offline Inverse Reinforcement Learning](https://arxiv.org/abs/2106.05068)
   - Firas Jarboui and Vianney Perchet. arXiv, 2021.
@@ -326,6 +328,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ashvin Nair, Murtaza Dalal, Abhishek Gupta, and Sergey Levine. arXiv, 2020.
 - [DisCor: Corrective Feedback in Reinforcement Learning via Distribution Correction](https://arxiv.org/abs/2003.07305) [[blog](https://bair.berkeley.edu/blog/2020/03/16/discor/)]
   - Aviral Kumar, Abhishek Gupta, and Sergey Levine. arXiv, 2020.
+- [Improving Offline Contextual Bandits with Distributional Robustness](https://arxiv.org/abs/2011.06835)
+  - Otmane Sakhi, Louis Faury, and Flavian Vasile. arXiv, 2020.
 - [Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies](https://papers.nips.cc/paper/2020/hash/75df63609809c7a2052fdffe5c00a84e-Abstract.html)
   - Nathan Kallus and Masatoshi Uehara. NeurIPS, 2020.
 - [Critic Regularized Regression](https://proceedings.neurips.cc/paper/2020/hash/588cb956d6bbe67078f29f8de420a13d-Abstract.html)
@@ -432,6 +436,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Offline Contextual Bandits for Wireless Network Optimization](https://arxiv.org/abs/2111.08587)
+  - Miguel Suau, Alexandros Agapitos, David Lynch, Derek Farrell, Mingqi Zhou, and Aleksandar Milenovic. arXiv, 2021.
 - [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) [[software](https://github.com/takuseno/d3rlpy)]
   - Takuma Seno and Michita Imai. arXiv, 2021.
 - [Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning](https://arxiv.org/abs/2111.04714) [[code](https://github.com/ml-jku/OfflineRL)]
@@ -500,6 +506,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Amin Rakhsha, Goran Radanovic, Rati Devidze, Xiaojin Zhu, and Adish Singla. ICML, 2020.
 - [Off-policy Learning in Two-stage Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3366423.3380130)
   - Jiaqi Ma, Zhe Zhao, Xinyang Yi, Ji Yang, Minmin Chen, Jiaxi Tang, Lichan Hong, and Ed H Chi. WWW, 2020.
+- [Offline Contextual Multi-armed Bandits for Mobile Health Interventions: A Case Study on Emotion Regulation](https://arxiv.org/abs/2008.09472)
+  - Mawulolo K. Ameko, Miranda L. Beltzer, Lihua Cai, Mehdi Boukhechba, Bethany A. Teachman, and Laura E. Barnes. RecSys, 2020.
 - [Human-centric Dialog Training via Offline Reinforcement Learning](https://arxiv.org/abs/2010.05848)
   - Natasha Jaques, Judy Hanwen Shen, Asma Ghandeharioun, Craig Ferguson, Agata Lapedriza, Noah Jones, Shixiang Shane Gu, and Rosalind Picard. EMNLP, 2020.
 - [Definition and evaluation of model-free coordination of electrical vehicle charging with reinforcement learning](https://arxiv.org/abs/1809.10679)
@@ -851,6 +859,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine. BayLearn2021.
 - [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
   - Guy Tennenholtz. CHIL2021.
+- [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://www.youtube.com/watch?v=g_yD6Yw8MLQ)
+  - Tengyan Xie. RL Theory Seminar2021.
 - [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://www.youtube.com/watch?v=aPce6Y-NqpQ)
   - Masatoshi Uehara. RL Theory Seminar2021.
 - [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://www.youtube.com/watch?v=T1Am0bGzH4A)
