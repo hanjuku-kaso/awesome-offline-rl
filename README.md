@@ -540,6 +540,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 ### Off-Policy Evaluation: Theory/Methods
 #### Contextual Bandits
+- [Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning](https://papers.nips.cc/paper/2021/hash/4476b929e30dd0c4e8bdbcc82c6ba23a-Abstract.html)
+  - Alberto Maria Metelli, Alessio Russo, Marcello Restelli. NeurIPS, 2021.
+- [Control Variates for Slate Off-Policy Evaluation](https://arxiv.org/abs/2106.07914)
+  - Nikos Vlassis, Ashok Chandrashekar, Fernando Amat Gil, and Nathan Kallus. NeurIPS, 2021.
 - [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002) [[code](https://github.com/CausalML/MultipleLoggers)]
   - Nathan Kallus, Yuta Saito, and Masatoshi Uehara. ICML, 2021.
 - [Non-Stationary Off-Policy Optimization](https://arxiv.org/abs/2006.08236)
@@ -554,8 +558,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Nathan Kallus, and Angela Zhou. arXiv, 2021.
 - [Conservative Policy Construction Using Variational Autoencoders for Logged Data with Missing Values](https://arxiv.org/abs/2109.03747)
   - Mahed Abroshan, Kai Hou Yip, Cem Tekin, and Mihaela van der Schaar. arXiv, 2021.
-- [Control Variates for Slate Off-Policy Evaluation](https://arxiv.org/abs/2106.07914)
-  - Nikos Vlassis, Ashok Chandrashekar, Fernando Amat Gil, and Nathan Kallus. arXiv, 2021.
 - [Off-Policy Evaluation via Adaptive Weighting with Data from Contextual Bandits](https://arxiv.org/abs/2106.02029)
   - Ruohan Zhan, Vitor Hadad, David A. Hirshberg, and Susan Athey. arXiv, 2021.
 - [Off-Policy Risk Assessment in Contextual Bandits](https://arxiv.org/abs/2104.08977)
@@ -624,6 +626,14 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
 
 #### Reinforcement Learning
+- [Unifying Gradient Estimators for Meta-Reinforcement Learning via Off-Policy Evaluation](https://arxiv.org/abs/2106.13125)
+  - Yunhao Tang, Tadashi Kozuno, Mark Rowland, Rémi Munos, and Michal Valko. NeurIPS, 2021.
+- [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/abs/2010.15963)
+  - Hengrui Cai, Chengchun Shi, Rui Song, and Wenbin Lu. NeurIPS, 2021.
+- [Variance-Aware Off-Policy Evaluation with Linear Function Approximation](https://arxiv.org/abs/2106.11960)
+  - Yifei Min, Tianhao Wang, Dongruo Zhou, and Quanquan Gu. NeurIPS, 2021.
+- [Universal Off-Policy Evaluation](https://arxiv.org/abs/2104.12820)
+  - Yash Chandak, Scott Niekum, Bruno Castro da Silva, Erik Learned-Miller, Emma Brunskill, and Philip S. Thomas. NeurIPS, 2021.
 - [Towards Hyperparameter-free Policy Selection for Offline Reinforcement Learning](https://arxiv.org/abs/2110.14000)
   - Siyuan Zhang and Nan Jiang. NeurIPS, 2021.
 - [State Relevance for Off-Policy Evaluation](https://arxiv.org/abs/2109.06310)
@@ -646,10 +656,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Jiayi Wang, Zhengling Qi, and Raymond K.W. Wong. arXiv, 2021.
 - [Supervised Off-Policy Ranking](https://arxiv.org/abs/2107.01360)
   - Yue Jin, Yue Zhang, Tao Qin, Xudong Zhang, Jian Yuan, Houqiang Li, and Tie-Yan Liu. arXiv, 2021.
-- [Unifying Gradient Estimators for Meta-Reinforcement Learning via Off-Policy Evaluation](https://arxiv.org/abs/2106.13125)
-  - Yunhao Tang, Tadashi Kozuno, Mark Rowland, Rémi Munos, and Michal Valko. arXiv, 2021.
-- [Variance-Aware Off-Policy Evaluation with Linear Function Approximation](https://arxiv.org/abs/2106.11960)
-  - Yifei Min, Tianhao Wang, Dongruo Zhou, and Quanquan Gu. arXiv, 2021.
 - [Active Offline Policy Selection](https://arxiv.org/abs/2106.10251)
   - Ksenia Konyushkova, Yutian Chen, Thomas Paine, Caglar Gulcehre, Cosmin Paduraru, Daniel J Mankowitz, Misha Denil, and Nando de Freitas. arXiv, 2021.
 - [On Instrumental Variable Regression for Deep Offline Policy Evaluation](https://arxiv.org/abs/2105.10148)
@@ -658,8 +664,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ming Yin and Yu-Xiang Wang. arXiv, 2021.
 - [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808)
   - Shangtong Zhang, Yi Wan, Richard S. Sutton, and Shimon Whiteson. arXiv, 2021.
-- [Universal Off-Policy Evaluation](https://arxiv.org/abs/2104.12820)
-  - Yash Chandak, Scott Niekum, Bruno Castro da Silva, Erik Learned-Miller, Emma Brunskill, Philip S. Thomas. arXiv, 2021.
 - [Sequential causal inference in a single world of connected units](https://arxiv.org/abs/2101.07380)
   - Aurelien Bibaut, Maya Petersen, Nikos Vlassis, Maria Dimakopoulou, and Mark van der Laan, arXiv, 2021.
 - [Near-Optimal Provable Uniform Convergence in Offline Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2007.03760)
@@ -756,10 +760,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 ### Off-Policy Evaluation: Benchmarks/Experiments/Applications
 - [Open Bandit Dataset and Pipeline: Towards Realistic and Reproducible Off-Policy Evaluation](https://arxiv.org/abs/2008.07146) [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
   - Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. NeurIPS, 2021.
+- [SOPE: Spectrum of Off-Policy Estimators](https://arxiv.org/abs/2111.03936)
+  - Christina J. Yuan, Yash Chandak, Stephen Giguere, Philip S. Thomas, and Scott Niekum. NeurIPS, 2021.
 - [Evaluating the Robustness of Off-Policy Evaluation](https://arxiv.org/abs/2108.13703) [[software](https://github.com/sony/pyIEOE)]
   - Yuta Saito, Takuma Udagawa, Haruka Kiyohara, Kazuki Mogi, Yusuke Narita, and Kei Tateno. RecSys, 2021.
-- [SOPE: Spectrum of Off-Policy Estimators](https://arxiv.org/abs/2111.03936)
-  - Christina J. Yuan, Yash Chandak, Stephen Giguere, Philip S. Thomas, and Scott Niekum. arXiv, 2021.
 - [Data-Driven Off-Policy Estimator Selection: An Application in User Marketing on An Online Content Delivery Service](https://arxiv.org/abs/2109.08621)
   - Yuta Saito, Takuma Udagawa, and Kei Tateno. arXiv, 2021.
 - [Towards Automatic Evaluation of Dialog Systems: A Model-Free Off-Policy Evaluation Approach](https://arxiv.org/abs/2102.10242)
