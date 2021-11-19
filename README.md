@@ -72,26 +72,18 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Vladislav Kurenkov and Sergey Kolesnikov. arXiv, 2021.
 - [Offline RL With Resource Constrained Online Deployment](https://arxiv.org/abs/2110.03165) [[code](https://github.com/JayanthRR/RC-OfflineRL)]
   - Jayanth Reddy Regatti, Aniket Anand Deshmukh, Frank Cheng, Young Hun Jung, Abhishek Gupta, and Urun Dogan. arXiv, 2021.
-- [Offline Reinforcement Learning with Reverse Model-based Imagination](https://arxiv.org/abs/2110.00188)
-  - Jianhao Wang, Wenzhe Li, Haozhe Jiang, Guangxiang Zhu, Siyuan Li, and Chongjie Zhang. arXiv, 2021.
 - [Lifelong Robotic Reinforcement Learning by Retaining Experiences](https://arxiv.org/abs/2109.09180) [[website](https://sites.google.com/view/retain-experience/)]
   - Annie Xie and Chelsea Finn. arXiv, 2021.
 - [Dual Behavior Regularized Reinforcement Learning](https://arxiv.org/abs/2109.09037)
   - Chapman Siu, Jason Traish, and Richard Yi Da Xu. arXiv, 2021.
-- [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://arxiv.org/abs/2109.08128)
-  - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Sergey Levine, and Chelsea Finn. arXiv, 2021.
 - [DCUR: Data Curriculum for Teaching via Samples with Reinforcement Learning](https://arxiv.org/abs/2109.07380) [[website](https://sites.google.com/view/teach-curr/home)] [[code](https://github.com/DanielTakeshi/DCUR)]
   - Daniel Seita, Abhinav Gopal, Zhao Mandi, and John Canny. arXiv, 2021.
 - [DROMO: Distributionally Robust Offline Model-based Policy Optimization](https://arxiv.org/abs/2109.07275)
   - Ruizhen Liu, Dazhi Zhong, and Zhicong Chen. arXiv, 2021.
 - [Implicit Behavioral Cloning](https://arxiv.org/abs/2109.00137)
   - Pete Florence, Corey Lynch, Andy Zeng, Oscar Ramirez, Ayzaan Wahid, Laura Downs, Adrian Wong, Johnny Lee, Igor Mordatch, and Jonathan Tompson. arXiv, 2021.
-- [Nearly Horizon-Free Offline Reinforcement Learning](https://arxiv.org/abs/2103.14077)
-  - Tongzheng Ren, Jialian Li, Bo Dai, Simon S. Du, and Sujay Sanghavi. arXiv, 2021.
 - [Reducing Conservativeness Oriented Offline Reinforcement Learning](https://arxiv.org/abs/2103.00098)
   - Hongchang Zhang, Jianzhun Shao, Yuhang Jiang, Shuncheng He, and Xiangyang Ji. arXiv, 2021.
-- [Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning](https://arxiv.org/abs/2108.08812)
-  - Andrea Zanette, Martin J. Wainwright, and Emma Brunskill. arXiv, 2021.
 - [Policy Gradients Incorporating the Future](https://arxiv.org/abs/2108.02096)
   - David Venuto, Elaine Lau, Doina Precup, and Ofir Nachum. arXiv, 2021.
 - [Offline Decentralized Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2108.01832)
@@ -102,8 +94,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Haoran Xu, Xianyuan Zhan, and Xiangyu Zhu. arXiv, 2021.
 - [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://arxiv.org/abs/2107.06226) [[video](https://www.youtube.com/watch?v=aPce6Y-NqpQs)]
   - Masatoshi Uehara and Wen Sun. arXiv, 2021.
-- [Conservative Offline Distributional Reinforcement Learning](https://arxiv.org/abs/2107.06106)
-  - Yecheng Jason Ma, Dinesh Jayaraman, and Osbert Bastani. arXiv, 2021.
 - [Offline Meta-Reinforcement Learning with Online Self-Supervision](https://arxiv.org/abs/2107.03974)
   - Vitchyr H. Pong, Ashvin Nair, Laura Smith, Catherine Huang, and Sergey Levine. arXiv, 2021.
 - [Where is the Grass Greener? Revisiting Generalized Policy Iteration for Offline Reinforcement Learning](https://arxiv.org/abs/2107.01407)
@@ -118,32 +108,20 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Chenjun Xiao, Ilbin Lee, Bo Dai, Dale Schuurmans, and Csaba Szepesvari. arXiv, 2021.
 - [Behavioral Priors and Dynamics Models: Improving Performance and Domain Transfer in Offline RL](https://arxiv.org/abs/2106.09119) [[website](https://sites.google.com/berkeley.edu/mabe)]
   - Catherine Cang, Aravind Rajeswaran, Pieter Abbeel, and Michael Laskin. arXiv, 2021.
-- [Offline RL Without Off-Policy Evaluation](https://arxiv.org/abs/2106.08909)
-  - David Brandfonbrener, William F. Whitney, Rajesh Ranganath, and Joan Bruna. arXiv, 2021.
 - [On Multi-objective Policy Optimization as a Tool for Reinforcement Learning](https://arxiv.org/abs/2106.08199)
   - Abbas Abdolmaleki, Sandy H. Huang, Giulia Vezzani, Bobak Shahriari, Jost Tobias Springenberg, Shruti Mishra, Dhruva TB, Arunkumar Byravan, Konstantinos Bousmalis, Andras Gyorgy, Csaba Szepesvari, Raia Hadsell, Nicolas Heess, and Martin Riedmiller. arXiv, 2021.
-- [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
-  - Scott Fujimoto and Shixiang Shane Gu. arXiv, 2021.
 - [Offline Reinforcement Learning as Anti-Exploration](https://arxiv.org/abs/2106.06431)
   - Shideh Rezaeifar, Robert Dadashi, Nino Vieillard, Léonard Hussenot, Olivier Bachem, Olivier Pietquin, and Matthieu Geist. arXiv, 2021.
 - [Corruption-Robust Offline Reinforcement Learning](https://arxiv.org/abs/2106.06630)
   - Xuezhou Zhang, Yiding Chen, Jerry Zhu, and Wen Sun. arXiv, 2021.
-- [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://arxiv.org/abs/2106.06926)
-  - Tengyang Xie, Ching-An Cheng, Nan Jiang, Paul Mineiro, and Alekh Agarwal. arXiv, 2021.
 - [Offline Inverse Reinforcement Learning](https://arxiv.org/abs/2106.05068)
   - Firas Jarboui and Vianney Perchet. arXiv, 2021.
-- [Policy Finetuning: Bridging Sample-Efficient Offline and Online Reinforcement Learning](https://arxiv.org/abs/2106.04895)
-  - Tengyang Xie, Nan Jiang, Huan Wang, Caiming Xiong, and Yu Bai. arXiv, 2021.
 - [Heuristic-Guided Reinforcement Learning](https://arxiv.org/abs/2106.02757)
   - Ching-An Cheng, Andrey Kolobov, and Adith Swaminathan. arXiv, 2021.
-- [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400)
-  - Yiqin Yang, Xiaoteng Ma, Chenghao Li, Zewu Zheng, Qiyuan Zhang, Gao Huang, Jun Yang, and Qianchuan Zhao. arXiv, 2021.
 - [Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
   - Michael Janner, Qiyang Li, and Sergey Levine. arXiv, 2021.
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
   - Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, and Igor Mordatch. arXiv, 2021.
-- [Multi-Objective SPIBB: Seldonian Offline Policy Improvement with Safety Constraints in Finite MDPs](https://arxiv.org/abs/2106.00099)
-  - Harsh Satija, Philip S. Thomas, Joelle Pineau, and Romain Laroche. arXiv, 2021.
 - [Model-Based Offline Planning with Trajectory Pruning](https://arxiv.org/abs/2105.07351)
   - Xianyuan Zhan, Xiangyu Zhu, and Haoran Xu. arXiv, 2021.
 - [InferNet for Delayed Reinforcement Tasks: Addressing the Temporal Credit Assignment Problem](https://arxiv.org/abs/2105.00568)
@@ -152,12 +130,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Lin Chen, Bruno Scherrer, and Peter L. Bartlett. arXiv, 2021.
 - [MT-Opt: Continuous Multi-Task Robotic Reinforcement Learning at Scale](https://arxiv.org/abs/2104.08212) [[website](https://karolhausman.github.io/mt-opt/)]
   - Dmitry Kalashnikov, Jacob Varley, Yevgen Chebotar, Benjamin Swanson, Rico Jonschkowski, Chelsea Finn, Sergey Levine, and Karol Hausman. arXiv, 2021.
-- [Online and Offline Reinforcement Learning by Planning with a Learned Model](https://arxiv.org/abs/2104.06294)
-  - Julian Schrittwieser, Thomas Hubert, Amol Mandhane, Mohammadamin Barekatain, Ioannis Antonoglou, and David Silver. arXiv, 2021.
 - [Distributional Offline Continuous-Time Reinforcement Learning with Neural Physics-Informed PDEs (SciPhy RL for DOCTR-L)](https://arxiv.org/abs/2104.01040)
   - Igor Halperin. arXiv, 2021.
-- [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021) [[video](https://www.youtube.com/watch?v=T1Am0bGzH4A)]
-  - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. arXiv, 2021.
 - [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
   - Caglar Gulcehre, Sergio Gómez Colmenarejo, Ziyu Wang, Jakub Sygnowski, Thomas Paine, Konrad Zolna, Yutian Chen, Matthew Hoffman, Razvan Pascanu, and Nando de Freitas. arXiv, 2021.
 - [Causal-aware Safe Policy Improvement for Task-oriented dialogue](https://arxiv.org/abs/2103.06370)
@@ -172,20 +146,56 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - DiJia Su, Jason D. Lee, John M. Mulvey, and H. Vincent Poor. arXiv, 2021.
 - [Continuous Doubly Constrained Batch Reinforcement Learning](https://arxiv.org/abs/2102.09225)
   - Rasool Fakoor, Jonas Mueller, Pratik Chaudhari, and Alexander J. Smola. arXiv, 2021.
-- [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)
-  - Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, and Chelsea Finn. arXiv, 2021.
 - [Q-Value Weighted Regression: Reinforcement Learning with Limited Data](https://arxiv.org/abs/2102.06782)
   - Piotr Kozakowski, Łukasz Kaiser, Henryk Michalewski, Afroz Mohiuddin, and Katarzyna Kańska. arXiv, 2021.
-- [PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators](https://arxiv.org/abs/2102.06961)
-  - Anish Agarwal, Abdullah Alomar, Varkey Alumootil, Devavrat Shah, Dennis Shen, Zhi Xu, and Cindy Yang. arXiv, 2021.
 - [Finite Sample Analysis of Minimax Offline Reinforcement Learning: Completeness, Fast Rates and First-Order Efficiency](https://arxiv.org/abs/2102.02981)
   - Masatoshi Uehara, Masaaki Imaizumi, Nan Jiang, Nathan Kallus, Wen Sun, and Tengyang Xie. arXiv, 2021.
 - [Fast Rates for the Regret of Offline Reinforcement Learning](https://arxiv.org/abs/2102.00479)
   - Yichun Hu, Nathan Kallus, and Masatoshi Uehara. arXiv, 2021.
-- [Near-Optimal Offline Reinforcement Learning via Double Variance Reduction](https://arxiv.org/abs/2102.01748)
-  - Ming Yin, Yu Bai, and Yu-Xiang Wang. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
+- [Towards Hyperparameter-free Policy Selection for Offline Reinforcement Learning](https://arxiv.org/abs/2110.14000)
+  - Siyuan Zhang, Nan Jiang. NeurIPS, 2021.
+- [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
+  - Scott Fujimoto and Shixiang Shane Gu. NeurIPS, 2021.
+- [Conservative Offline Distributional Reinforcement Learning](https://arxiv.org/abs/2107.06106)
+  - Yecheng Jason Ma, Dinesh Jayaraman, and Osbert Bastani. NeurIPS, 2021.
+- [Pessimism Meets Invariance: Provably Efficient Offline Mean-Field Multi-Agent RL](https://openreview.net/forum?id=Ww1e07fy9fC)
+  - Minshuo Chen, Yan Li, Ethan Wang, Zhuoran Yang, Zhaoran Wang, Tuo Zhao. NeurIPS, 2021.
+- [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400)
+  - Yiqin Yang, Xiaoteng Ma, Chenghao Li, Zewu Zheng, Qiyuan Zhang, Gao Huang, Jun Yang, and Qianchuan Zhao. NeurIPS, 2021.
+- [Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning](https://arxiv.org/abs/2108.08812)
+  - Andrea Zanette, Martin J. Wainwright, and Emma Brunskill. NeurIPS, 2021.
+- [Multi-Objective SPIBB: Seldonian Offline Policy Improvement with Safety Constraints in Finite MDPs](https://arxiv.org/abs/2106.00099)
+  - Harsh Satija, Philip S. Thomas, Joelle Pineau, and Romain Laroche. NeurIPS, 2021.
+- [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
+  - Michael Janner, Qiyang Li, Sergey Levine. NeurIPS, 2021.
+- [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021) [[video](https://www.youtube.com/watch?v=T1Am0bGzH4A)]
+  - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. NeurIPS, 2021.
+- [Offline Reinforcement Learning with Reverse Model-based Imagination](https://arxiv.org/abs/2110.00188)
+  - Jianhao Wang, Wenzhe Li, Haozhe Jiang, Guangxiang Zhu, Siyuan Li, and Chongjie Zhang. NeurIPS, 2021.
+- [Offline Meta Reinforcement Learning -- Identifiability Challenges and Effective Data Collection Strategies](https://openreview.net/forum?id=IBdEfhLveS)
+  - Ron Dorfman, Idan Shenfeld, Aviv Tamar. NeurIPS, 2021.
+- [Nearly Horizon-Free Offline Reinforcement Learning](https://arxiv.org/abs/2103.14077)
+  - Tongzheng Ren, Jialian Li, Bo Dai, Simon S. Du, and Sujay Sanghavi. NeurIPS, 2021.
+- [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://arxiv.org/abs/2109.08128)
+  - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Sergey Levine, and Chelsea Finn. NeurIPS, 2021.
+- [Online and Offline Reinforcement Learning by Planning with a Learned Model](https://arxiv.org/abs/2104.06294)
+  - Julian Schrittwieser, Thomas Hubert, Amol Mandhane, Mohammadamin Barekatain, Ioannis Antonoglou, and David Silver. NeurIPS, 2021.
+- [Policy Finetuning: Bridging Sample-Efficient Offline and Online Reinforcement Learning](https://arxiv.org/abs/2106.04895)
+  - Tengyang Xie, Nan Jiang, Huan Wang, Caiming Xiong, and Yu Bai. NeurIPS, 2021.
+- [Offline RL Without Off-Policy Evaluation](https://arxiv.org/abs/2106.08909)
+  - David Brandfonbrener, William F. Whitney, Rajesh Ranganath, and Joan Bruna. NeurIPS, 2021.
+- [Offline Model-based Adaptable Policy Learning](https://openreview.net/forum?id=lrdXc17jm6)
+  - Xiong-Hui Chen, Yang Yu, Qingyang Li, Fan-Ming Luo, Zhiwei Tony Qin, Shang Wenjie, Jieping Ye. NeurIPS, 2021.
+- [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)
+  - Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, and Chelsea Finn. NeurIPS, 2021.
+- [PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators](https://arxiv.org/abs/2102.06961)
+  - Anish Agarwal, Abdullah Alomar, Varkey Alumootil, Devavrat Shah, Dennis Shen, Zhi Xu, and Cindy Yang. NeurIPS, 2021.
+- [Near-Optimal Offline Reinforcement Learning via Double Variance Reduction](https://arxiv.org/abs/2102.01748)
+  - Ming Yin, Yu Bai, and Yu-Xiang Wang. NeurIPS, 2021.
+- [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://arxiv.org/abs/2106.06926)
+  - Tengyang Xie, Ching-An Cheng, Nan Jiang, Paul Mineiro, and Alekh Agarwal. NeurIPS, 2021.
 - [The Difficulty of Passive Learning in Deep Reinforcement Learning](https://arxiv.org/abs/2110.14020)
   - Georg Ostrovski, Pablo Samuel Castro, and Will Dabney. NeurIPS, 2021.
 - [Uncertainty-Based Offline Reinforcement Learning with Diversified Q-Ensemble](https://arxiv.org/abs/2110.01548)
