@@ -41,9 +41,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Position Papers
-
 - [Accelerating Offline Reinforcement Learning Application in Real-Time Bidding and Recommendation: Potential Use of Simulation](https://arxiv.org/abs/2109.08331)
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
+- [A Survey of Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
+  - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
 - [Exploiting Action Impact Regularity and Partially Known Models for Offline Reinforcement Learning](https://arxiv.org/abs/2111.08066)
@@ -160,14 +161,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yichun Hu, Nathan Kallus, and Masatoshi Uehara. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
-- [Towards Hyperparameter-free Policy Selection for Offline Reinforcement Learning](https://arxiv.org/abs/2110.14000)
-  - Siyuan Zhang, Nan Jiang. NeurIPS, 2021.
 - [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
   - Scott Fujimoto and Shixiang Shane Gu. NeurIPS, 2021.
 - [Conservative Offline Distributional Reinforcement Learning](https://arxiv.org/abs/2107.06106)
   - Yecheng Jason Ma, Dinesh Jayaraman, and Osbert Bastani. NeurIPS, 2021.
 - [Pessimism Meets Invariance: Provably Efficient Offline Mean-Field Multi-Agent RL](https://openreview.net/forum?id=Ww1e07fy9fC)
-  - Minshuo Chen, Yan Li, Ethan Wang, Zhuoran Yang, Zhaoran Wang, Tuo Zhao. NeurIPS, 2021.
+  - Minshuo Chen, Yan Li, Ethan Wang, Zhuoran Yang, Zhaoran Wang, and Tuo Zhao. NeurIPS, 2021.
 - [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400)
   - Yiqin Yang, Xiaoteng Ma, Chenghao Li, Zewu Zheng, Qiyuan Zhang, Gao Huang, Jun Yang, and Qianchuan Zhao. NeurIPS, 2021.
 - [Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning](https://arxiv.org/abs/2108.08812)
@@ -175,13 +174,13 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Multi-Objective SPIBB: Seldonian Offline Policy Improvement with Safety Constraints in Finite MDPs](https://arxiv.org/abs/2106.00099)
   - Harsh Satija, Philip S. Thomas, Joelle Pineau, and Romain Laroche. NeurIPS, 2021.
 - [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
-  - Michael Janner, Qiyang Li, Sergey Levine. NeurIPS, 2021.
+  - Michael Janner, Qiyang Li, and Sergey Levine. NeurIPS, 2021.
 - [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021) [[video](https://www.youtube.com/watch?v=T1Am0bGzH4A)]
   - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell. NeurIPS, 2021.
 - [Offline Reinforcement Learning with Reverse Model-based Imagination](https://arxiv.org/abs/2110.00188)
   - Jianhao Wang, Wenzhe Li, Haozhe Jiang, Guangxiang Zhu, Siyuan Li, and Chongjie Zhang. NeurIPS, 2021.
 - [Offline Meta Reinforcement Learning -- Identifiability Challenges and Effective Data Collection Strategies](https://openreview.net/forum?id=IBdEfhLveS)
-  - Ron Dorfman, Idan Shenfeld, Aviv Tamar. NeurIPS, 2021.
+  - Ron Dorfman, Idan Shenfeld, and Aviv Tamar. NeurIPS, 2021.
 - [Nearly Horizon-Free Offline Reinforcement Learning](https://arxiv.org/abs/2103.14077)
   - Tongzheng Ren, Jialian Li, Bo Dai, Simon S. Du, and Sujay Sanghavi. NeurIPS, 2021.
 - [Conservative Data Sharing for Multi-Task Offline Reinforcement Learning](https://arxiv.org/abs/2109.08128)
@@ -193,7 +192,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline RL Without Off-Policy Evaluation](https://arxiv.org/abs/2106.08909)
   - David Brandfonbrener, William F. Whitney, Rajesh Ranganath, and Joan Bruna. NeurIPS, 2021.
 - [Offline Model-based Adaptable Policy Learning](https://openreview.net/forum?id=lrdXc17jm6)
-  - Xiong-Hui Chen, Yang Yu, Qingyang Li, Fan-Ming Luo, Zhiwei Tony Qin, Shang Wenjie, Jieping Ye. NeurIPS, 2021.
+  - Xiong-Hui Chen, Yang Yu, Qingyang Li, Fan-Ming Luo, Zhiwei Tony Qin, Shang Wenjie, and Jieping Ye. NeurIPS, 2021.
 - [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)
   - Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, and Chelsea Finn. NeurIPS, 2021.
 - [PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators](https://arxiv.org/abs/2102.06961)
