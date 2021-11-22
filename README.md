@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Generalized Decision Transformer for Offline Hindsight Information Matching](https://arxiv.org/abs/2111.10364)  [[website](https://sites.google.com/view/generalizeddt)]
+  - Hiroki Furuta, Yutaka Matsuo, and Shixiang Shane Gu. arXiv, 2021.
 - [Exploiting Action Impact Regularity and Partially Known Models for Offline Reinforcement Learning](https://arxiv.org/abs/2111.08066)
   - Vincent Liu, James Wright, and Martha White. arXiv, 2021.
 - [Batch Reinforcement Learning from Crowds](https://arxiv.org/abs/2111.04279)
