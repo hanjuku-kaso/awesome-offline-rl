@@ -47,6 +47,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Offline Reinforcement Learning: Fundamental Barriers for Value Function Approximation](https://arxiv.org/abs/2111.10919)
+  - Dylan J. Foster, Akshay Krishnamurthy, David Simchi-Levi, and Yunzong Xu. arXiv, 2021.
+- [UMBRELLA: Uncertainty-Aware Model-Based Offline Reinforcement Learning Leveraging Planning](https://arxiv.org/abs/2111.11097)
+  - Christopher Diehl, Timo Sievernich, Martin Krüger, Frank Hoffmann, and Torsten Bertran. arXiv, 2021.
 - [Generalized Decision Transformer for Offline Hindsight Information Matching](https://arxiv.org/abs/2111.10364)  [[website](https://sites.google.com/view/generalizeddt)]
   - Hiroki Furuta, Yutaka Matsuo, and Shixiang Shane Gu. arXiv, 2021.
 - [Exploiting Action Impact Regularity and Partially Known Models for Offline Reinforcement Learning](https://arxiv.org/abs/2111.08066)
