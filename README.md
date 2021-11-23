@@ -167,6 +167,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yichun Hu, Nathan Kallus, and Masatoshi Uehara. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
+- [Weighted Model Estimation for Offline Model-based Reinforcement Learning](https://papers.nips.cc/paper/2021/hash/949694a5059302e7283073b502f094d7-Abstract.html)
+  - Toru Hishinuma and Kei Senda. NeurIPS, 2021.
 - [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
   - Scott Fujimoto and Shixiang Shane Gu. NeurIPS, 2021.
 - [Conservative Offline Distributional Reinforcement Learning](https://arxiv.org/abs/2107.06106)
