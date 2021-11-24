@@ -47,6 +47,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification](https://arxiv.org/abs/2111.11188)
+  - Ling Pan, Longbo Huang, Tengyu Ma, and Huazhe Xu. arXiv, 2021.
+- [Policy Gradient and Actor-Critic Learning in Continuous Time and Space: Theory and Algorithms](https://arxiv.org/abs/2111.11232)
+  - Yanwei Jia and Xun Yu Zhou. arXiv, 2021.
 - [Offline Reinforcement Learning: Fundamental Barriers for Value Function Approximation](https://arxiv.org/abs/2111.10919)
   - Dylan J. Foster, Akshay Krishnamurthy, David Simchi-Levi, and Yunzong Xu. arXiv, 2021.
 - [UMBRELLA: Uncertainty-Aware Model-Based Offline Reinforcement Learning Leveraging Planning](https://arxiv.org/abs/2111.11097)
@@ -499,6 +503,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Daniel Graves, Nhat M. Nguyen, Kimia Hassanzadeh, Jun Jin, and Jun Luo. ICRA, 2021.
 - [Engagement Rewarded Actor-Critic with Conservative Q-Learning for Speech-Driven Laughter Backchannel Generation](https://dl.acm.org/doi/abs/10.1145/3462244.3479944)
   - Öykü Zeynep Bayramoğlu, Engin Erzin, Tevfik Metin Sezgin, and Yücel Yemez. ICMI, 2021.
+- [Network Intrusion Detection Based on Extended RBF Neural Network With Offline Reinforcement Learning](https://ieeexplore.ieee.org/document/9612220)
+  - Manuel Lopez-Martin, Antonio Sanchez-Esguevillas, Juan Ignacio Arribas, and Belen Carro. IEEE Access, 2021.
 - [Offline Meta-level Model-based Reinforcement Learning Approach for Cold-Start Recommendation](https://arxiv.org/abs/2012.02476)
   - Yanan Wang, Yong Ge, Li Li, Rui Chen, and Tong Xu. arXiv, 2020.
 - [Batch-Constrained Distributional Reinforcement Learning for Session-based Recommendation](https://arxiv.org/abs/2012.08984)
