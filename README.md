@@ -505,6 +505,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Öykü Zeynep Bayramoğlu, Engin Erzin, Tevfik Metin Sezgin, and Yücel Yemez. ICMI, 2021.
 - [Network Intrusion Detection Based on Extended RBF Neural Network With Offline Reinforcement Learning](https://ieeexplore.ieee.org/document/9612220)
   - Manuel Lopez-Martin, Antonio Sanchez-Esguevillas, Juan Ignacio Arribas, and Belen Carro. IEEE Access, 2021.
+- [Measuring Data Quality for Dataset Selection in Offline Reinforcement Learning](https://arxiv.org/abs/2111.13461)
+  - Phillip Swazinna, Steffen Udluft, and Thomas Runkler. IEEE SSCI, 2021.
 - [Offline Meta-level Model-based Reinforcement Learning Approach for Cold-Start Recommendation](https://arxiv.org/abs/2012.02476)
   - Yanan Wang, Yong Ge, Li Li, Rui Chen, and Tong Xu. arXiv, 2020.
 - [Batch-Constrained Distributional Reinforcement Learning for Session-based Recommendation](https://arxiv.org/abs/2012.08984)
