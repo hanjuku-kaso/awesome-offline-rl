@@ -47,6 +47,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Offline Neural Contextual Bandits: Pessimism, Optimization and Generalization](https://arxiv.org/abs/2111.13807)
+  - Thanh Nguyen-Tang, Sunil Gupta, A.Tuan Nguyen, and Svetha Venkatesh. arXiv, 2021.
+- [Improving Zero-shot Generalization in Offline Reinforcement Learning using Generalized Similarity Functions](https://arxiv.org/abs/2111.14629)
+  - Bogdan Mazoure, Ilya Kostrikov, Ofir Nachum, and Jonathan Tompson. arXiv, 2021.
 - [Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification](https://arxiv.org/abs/2111.11188)
   - Ling Pan, Longbo Huang, Tengyu Ma, and Huazhe Xu. arXiv, 2021.
 - [Policy Gradient and Actor-Critic Learning in Continuous Time and Space: Theory and Algorithms](https://arxiv.org/abs/2111.11232)
@@ -570,6 +574,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
+- [Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation](https://arxiv.org/abs/2111.14272)
+  - Ramtin Keramati, Omer Gottesman, Leo Anthony Celi, Finale Doshi-Velez, and Emma Brunskill. arXiv, 2021.
+- [Pessimistic Model Selection for Offline Deep Reinforcement Learning](https://arxiv.org/abs/2111.14346)
+  - Chao-Han Huck Yang, Zhengling Qi, Yifan Cui, and Pin-Yu Chen. arXiv, 2021.
+- [Robust On-Policy Data Collection for Data-Efficient Policy Evaluation](https://arxiv.org/abs/2111.14552)
+  - Rujie Zhong, Josiah P. Hanna, Lukas Schäfer, and Stefano V. Albrecht. arXiv, 2021.
 - [Stateful Offline Contextual Policy Evaluation and Learning](https://arxiv.org/abs/2110.10081)
   - Nathan Kallus, and Angela Zhou. arXiv, 2021.
 - [Conservative Policy Construction Using Variational Autoencoders for Logged Data with Missing Values](https://arxiv.org/abs/2109.03747)
