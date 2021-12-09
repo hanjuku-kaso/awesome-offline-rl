@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [CoMPS: Continual Meta Policy Search](https://arxiv.org/abs/2112.04467)
+  - Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine. arXiv, 2021.
 - [MESA: Offline Meta-RL for Safe Adaptation and Fault Tolerance](https://arxiv.org/abs/2112.03575)
   - Michael Luo, Ashwin Balakrishna, Brijen Thananjeyan, Suraj Nair, Julian Ibarz, Jie Tan, Chelsea Finn, Ion Stoica, and Ken Goldberg. arXiv, 2021.
 - [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks](https://arxiv.org/abs/2112.02845)
