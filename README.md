@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [DR3: Value-Based Deep Reinforcement Learning Requires Explicit Regularization](https://arxiv.org/abs/2112.04716)
+  - Aviral Kumar, Rishabh Agarwal, Tengyu Ma, Aaron Courville, George Tucker, and Sergey Levine. arXiv, 2021.
 - [CoMPS: Continual Meta Policy Search](https://arxiv.org/abs/2112.04467)
   - Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine. arXiv, 2021.
 - [MESA: Offline Meta-RL for Safe Adaptation and Fault Tolerance](https://arxiv.org/abs/2112.03575)
@@ -179,7 +181,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Piotr Kozakowski, Łukasz Kaiser, Henryk Michalewski, Afroz Mohiuddin, and Katarzyna Kańska. arXiv, 2021.
 - [Finite Sample Analysis of Minimax Offline Reinforcement Learning: Completeness, Fast Rates and First-Order Efficiency](https://arxiv.org/abs/2102.02981)
   - Masatoshi Uehara, Masaaki Imaizumi, Nan Jiang, Nathan Kallus, Wen Sun, and Tengyang Xie. arXiv, 2021.
-- [Fast Rates for the Regret of Offline Reinforcement Learning](https://arxiv.org/abs/2102.00479)
+- [Fast Rates for the Regret of Offline Reinforcement Learning](https://arxiv.org/abs/2102.00479) [[video](https://www.youtube.com/watch?v=eGZ-2JU9zKE)]
   - Yichun Hu, Nathan Kallus, and Masatoshi Uehara. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
@@ -904,6 +906,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine. BayLearn2021.
 - [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
   - Guy Tennenholtz. CHIL2021.
+- [Fast Rates for the Regret of Offline Reinforcement Learning](https://www.youtube.com/watch?v=eGZ-2JU9zKE)
+  - Yichun Hu. RL Theory Seminar2021.
 - [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://www.youtube.com/watch?v=g_yD6Yw8MLQ)
   - Tengyan Xie. RL Theory Seminar2021.
 - [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://www.youtube.com/watch?v=aPce6Y-NqpQ)
