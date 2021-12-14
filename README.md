@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Learning Contraction Policies from Offline Data](https://arxiv.org/abs/2112.05911)
+  - Navid Rezazadeh, Maxwell Kolarich, Solmaz S. Kia, and Negar Mehr. arXiv, 2021.
 - [DR3: Value-Based Deep Reinforcement Learning Requires Explicit Regularization](https://arxiv.org/abs/2112.04716)
   - Aviral Kumar, Rishabh Agarwal, Tengyu Ma, Aaron Courville, George Tucker, and Sergey Levine. arXiv, 2021.
 - [CoMPS: Continual Meta Policy Search](https://arxiv.org/abs/2112.04467)
