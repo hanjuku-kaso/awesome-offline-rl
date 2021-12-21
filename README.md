@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/abs/2112.10751)
+  - Scott Emmons, Benjamin Eysenbach, Ilya Kostrikov, and Sergey Levine. arXiv, 2021.
 - [Learning Contraction Policies from Offline Data](https://arxiv.org/abs/2112.05911)
   - Navid Rezazadeh, Maxwell Kolarich, Solmaz S. Kia, and Negar Mehr. arXiv, 2021.
 - [DR3: Value-Based Deep Reinforcement Learning Requires Explicit Regularization](https://arxiv.org/abs/2112.04716)
@@ -588,6 +590,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
+- [Off-Policy Evaluation Using Information Borrowing and Context-Based Switching](https://arxiv.org/abs/2112.09865)
+  - Sutanoy Dasgupta, Yabo Niu, Kishan Panaganti, Dileep Kalathil, Debdeep Pati, and Bani Mallick. arXiv, 2021.
 - [Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation](https://arxiv.org/abs/2111.14272)
   - Ramtin Keramati, Omer Gottesman, Leo Anthony Celi, Finale Doshi-Velez, and Emma Brunskill. arXiv, 2021.
 - [Pessimistic Model Selection for Offline Deep Reinforcement Learning](https://arxiv.org/abs/2111.14346)
