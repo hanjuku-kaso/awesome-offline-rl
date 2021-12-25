@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Model Selection in Batch Policy Optimization](https://arxiv.org/abs/2112.12320)
+  - Jonathan N. Lee, George Tucker, Ofir Nachum, and Bo Dai. arXiv, 2021.
 - [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/abs/2112.10751)
   - Scott Emmons, Benjamin Eysenbach, Ilya Kostrikov, and Sergey Levine. arXiv, 2021.
 - [Learning Contraction Policies from Offline Data](https://arxiv.org/abs/2112.05911)
