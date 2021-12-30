@@ -47,6 +47,20 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Model Selection in Batch Policy Optimization](https://arxiv.org/abs/2112.12320)
+  - Jonathan N. Lee, George Tucker, Ofir Nachum, and Bo Dai. arXiv, 2021.
+- [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/abs/2112.10751)
+  - Scott Emmons, Benjamin Eysenbach, Ilya Kostrikov, and Sergey Levine. arXiv, 2021.
+- [Learning Contraction Policies from Offline Data](https://arxiv.org/abs/2112.05911)
+  - Navid Rezazadeh, Maxwell Kolarich, Solmaz S. Kia, and Negar Mehr. arXiv, 2021.
+- [DR3: Value-Based Deep Reinforcement Learning Requires Explicit Regularization](https://arxiv.org/abs/2112.04716)
+  - Aviral Kumar, Rishabh Agarwal, Tengyu Ma, Aaron Courville, George Tucker, and Sergey Levine. arXiv, 2021.
+- [CoMPS: Continual Meta Policy Search](https://arxiv.org/abs/2112.04467)
+  - Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine. arXiv, 2021.
+- [MESA: Offline Meta-RL for Safe Adaptation and Fault Tolerance](https://arxiv.org/abs/2112.03575)
+  - Michael Luo, Ashwin Balakrishna, Brijen Thananjeyan, Suraj Nair, Julian Ibarz, Jie Tan, Chelsea Finn, Ion Stoica, and Ken Goldberg. arXiv, 2021.
+- [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks](https://arxiv.org/abs/2112.02845)
+  - Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, Haifeng Zhang, Jun Wang, and Bo Xu. arXiv, 2021.
 - [Generalizing Off-Policy Learning under Sample Selection Bias](https://arxiv.org/abs/2112.01387)
   - Tobias Hatt, Daniel Tschernutter, and Stefan Feuerriegel. arXiv, 2021.
 - [Offline Neural Contextual Bandits: Pessimism, Optimization and Generalization](https://arxiv.org/abs/2111.13807)
@@ -173,7 +187,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Piotr Kozakowski, Łukasz Kaiser, Henryk Michalewski, Afroz Mohiuddin, and Katarzyna Kańska. arXiv, 2021.
 - [Finite Sample Analysis of Minimax Offline Reinforcement Learning: Completeness, Fast Rates and First-Order Efficiency](https://arxiv.org/abs/2102.02981)
   - Masatoshi Uehara, Masaaki Imaizumi, Nan Jiang, Nathan Kallus, Wen Sun, and Tengyang Xie. arXiv, 2021.
-- [Fast Rates for the Regret of Offline Reinforcement Learning](https://arxiv.org/abs/2102.00479)
+- [Fast Rates for the Regret of Offline Reinforcement Learning](https://arxiv.org/abs/2102.00479) [[video](https://www.youtube.com/watch?v=eGZ-2JU9zKE)]
   - Yichun Hu, Nathan Kallus, and Masatoshi Uehara. arXiv, 2021.
 - [Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment](https://arxiv.org/abs/2101.03309)
   - Kristine Zhang, Yuanheng Wang, Jianzhun Du, Brian Chu, Leo Anthony Celi, Ryan Kindle, and Finale Doshi-Velez. arXiv, 2021.
@@ -495,6 +509,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Pavlos Athanasios Apostolopoulos, Zehui Wang, Hanson Wang, Chad Zhou, Kittipat Virochsiri, Norm Zhou, and Igor L. Markov. arXiv, 2021.
 - [NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning](https://arxiv.org/abs/2102.00714) [[website](http://polixir.ai/research/neorl)] [[code](https://agit.ai/Polixir/neorl)]
   - Rongjun Qin, Songyi Gao, Xingyuan Zhang, Zhen Xu, Shengkai Huang, Zewen Li, Weinan Zhang, and Yang Yu. arXiv, 2021.
+- [BCORLE(λ): An Offline Reinforcement Learning and Evaluation Framework for Coupons Allocation in E-commerce Market](https://papers.nips.cc/paper/2021/hash/ab452534c5ce28c4fbb0e102d4a4fb2e-Abstract.html)
+  - Yang Zhang, Bo Tang, Qingyu Yang, Dou An, Hongyin Tang, Chenyang Xi, Xueying LI, and Feiyu Xiong. NeurIPS, 2021.s
 - [RLDS: an Ecosystem to Generate, Share and Use Datasets in Reinforcement Learning](https://arxiv.org/abs/2111.02767) [[code](https://github.com/google-research/rlds)]
   - Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev. NeurIPS, 2021.
 - [Safe Driving via Expert Guided Policy Optimization](https://arxiv.org/abs/2110.06831) [[website](https://decisionforce.github.io/EGPO/)] [[code](https://github.com/decisionforce/EGPO)]
@@ -576,6 +592,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
+- [Off-Policy Evaluation Using Information Borrowing and Context-Based Switching](https://arxiv.org/abs/2112.09865)
+  - Sutanoy Dasgupta, Yabo Niu, Kishan Panaganti, Dileep Kalathil, Debdeep Pati, and Bani Mallick. arXiv, 2021.
 - [Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation](https://arxiv.org/abs/2111.14272)
   - Ramtin Keramati, Omer Gottesman, Leo Anthony Celi, Finale Doshi-Velez, and Emma Brunskill. arXiv, 2021.
 - [Pessimistic Model Selection for Offline Deep Reinforcement Learning](https://arxiv.org/abs/2111.14346)
@@ -825,7 +843,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [d3rlpy: An Offline Deep Reinforcement Learning Library](https://github.com/takuseno/d3rlpy) [[paper](https://arxiv.org/abs/2111.03788)] [[website](https://takuseno.github.io/d3rlpy/)] [[documentation](https://d3rlpy.readthedocs.io/)]
   - Takuma Seno and Michita Imai.
 - [MINERVA: An out-of-the-box GUI tool for data-driven deep reinforcement learning](https://github.com/takuseno/minerva) [[website](https://takuseno.github.io/minerva/)] [[documentation](https://minerva-ui.readthedocs.io/en/v0.20/)]
-  - Takuma Seno.
+  - Takuma Seno and Michita Imai.
 - [RLDS: Reinforcement Learning Datasets](https://github.com/google-research/rlds) [[paper](https://arxiv.org/abs/2111.02767)]
   - Sabela Ramos, Sertan Girgin, Léonard Hussenot, Damien Vincent, Hanna Yakubovich, Daniel Toyama, Anita Gergely, Piotr Stanczyk, Raphael Marinier, Jeremiah Harmsen, Olivier Pietquin, and Nikola Momchev.
 - [Benchmarks for Deep Off-Policy Evaluation](https://github.com/google-research/deep_ope) [[paper](https://openreview.net/forum?id=kWSeGEeHvF8)]
@@ -898,6 +916,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine. BayLearn2021.
 - [Offline Reinforcement Learning](https://m.youtube.com/watch?v=Es2G8FDl-Nc)
   - Guy Tennenholtz. CHIL2021.
+- [Fast Rates for the Regret of Offline Reinforcement Learning](https://www.youtube.com/watch?v=eGZ-2JU9zKE)
+  - Yichun Hu. RL Theory Seminar2021.
 - [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://www.youtube.com/watch?v=g_yD6Yw8MLQ)
   - Tengyan Xie. RL Theory Seminar2021.
 - [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://www.youtube.com/watch?v=aPce6Y-NqpQ)
