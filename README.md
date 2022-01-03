@@ -47,6 +47,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15578)
+  - Samin Yeasar Arnob, Riashat Islam, and Doina Precup. arXiv, 2022.
+- [Single-Shot Pruning for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15579)
+  - Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, and Doina Precup. arXiv, 2022.
 - [Model Selection in Batch Policy Optimization](https://arxiv.org/abs/2112.12320)
   - Jonathan N. Lee, George Tucker, Ofir Nachum, and Bo Dai. arXiv, 2021.
 - [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/abs/2112.10751)
