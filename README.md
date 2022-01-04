@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Operator Deep Q-Learning: Zero-Shot Reward Transferring in Reinforcement Learning](https://arxiv.org/abs/2201.00236)
+  - Ziyang Tang, Yihao Feng, and Qiang Liu. arXiv, 2022.
 - [Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15578)
   - Samin Yeasar Arnob, Riashat Islam, and Doina Precup. arXiv, 2022.
 - [Single-Shot Pruning for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15579)
