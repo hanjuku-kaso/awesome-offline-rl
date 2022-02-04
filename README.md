@@ -47,6 +47,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [How to Leverage Unlabeled Data in Offline Reinforcement Learning](https://arxiv.org/abs/2202.01741)
+  - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Chelsea Finn, and Sergey Levine. arXiv, 2022.
+- [Can Wikipedia Help Offline Reinforcement Learning?](https://arxiv.org/abs/2201.12122)
+  - Machel Reid, Yutaro Yamada, and Shixiang Shane Gu. arXiv, 2022.
 - [MOORe: Model-based Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2201.10070)
   - Yihuan Mao, Chao Wang, Bin Wang, and Chongjie Zhang. arXiv, 2022.
 - [Operator Deep Q-Learning: Zero-Shot Reward Transferring in Reinforcement Learning](https://arxiv.org/abs/2201.00236)
@@ -485,6 +489,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/abs/2201.13425)
+  - Denis Yarats, David Brandfonbrener, Hao Liu, Michael Laskin, Pieter Abbeel, Alessandro Lazaric, and Lerrel Pinto. arXiv, 2022.
+- [The Challenges of Exploration for Offline Reinforcement Learning](https://arxiv.org/abs/2201.11861)
+  - Nathan Lambert, Markus Wulfmeier, William Whitney, Arunkumar Byravan, Michael Bloesch, Vibhavari Dasagi, Tim Hertweck, and Martin Riedmiller. arXiv, 2022.
 - [Comparing Model-free and Model-based Algorithms for Offline Reinforcement Learning](https://arxiv.org/abs/2201.05433)
   - Phillip Swazinna, Steffen Udluft, Daniel Hein, and Thomas Runkler. arXiv, 2022.
 - [Offline Reinforcement Learning for Road Traffic Control](https://arxiv.org/abs/2201.02381)
@@ -543,6 +551,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Manuel Lopez-Martin, Antonio Sanchez-Esguevillas, Juan Ignacio Arribas, and Belen Carro. IEEE Access, 2021.
 - [Measuring Data Quality for Dataset Selection in Offline Reinforcement Learning](https://arxiv.org/abs/2111.13461)
   - Phillip Swazinna, Steffen Udluft, and Thomas Runkler. IEEE SSCI, 2021.
+- [Towards Accelerating Offline RL based Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3486001.3486244)
+  - Mayank Mishra, Rekha Singhal, and Ravi Singh. AIMLSystems, 2021.
 - [Offline Meta-level Model-based Reinforcement Learning Approach for Cold-Start Recommendation](https://arxiv.org/abs/2012.02476)
   - Yanan Wang, Yong Ge, Li Li, Rui Chen, and Tong Xu. arXiv, 2020.
 - [Batch-Constrained Distributional Reinforcement Learning for Session-based Recommendation](https://arxiv.org/abs/2012.08984)
@@ -592,6 +602,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 ### Off-Policy Evaluation: Theory/Methods
 #### Contextual Bandits
+- [Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model](https://arxiv.org/abs/2202.01562)
+  - Haruka Kiyohara, Yuta Saito, Tatsuya Matsuhiro, Yusuke Narita, Nobuyuki Shimizu, and Yasuo Yamamoto. WSDM, 2022.
 - [IMO^3: Interactive Multi-Objective Off-Policy Optimization](https://arxiv.org/abs/2201.09798)
   - Nan Wang, Hongning Wang, Maryam Karimzadehgan, Branislav Kveton, and Craig Boutilier. arXiv, 2022.
 - [Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning](https://papers.nips.cc/paper/2021/hash/4476b929e30dd0c4e8bdbcc82c6ba23a-Abstract.html)
