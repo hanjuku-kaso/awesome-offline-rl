@@ -46,7 +46,9 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [A Survey of Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
-### Offline RL: Theory/Methods
+### Offline RL: Theory/Methods  
+- [Offline Reinforcement Learning with Realizability and Single-policy Concentrability](https://arxiv.org/abs/2202.04634)  
+  - Wenhao Zhan, Baihe Huang, Audrey Huang, Nan Jiang, Jason D. Lee. arXiv, 2022. 
 - [How to Leverage Unlabeled Data in Offline Reinforcement Learning](https://arxiv.org/abs/2202.01741)
   - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Chelsea Finn, and Sergey Levine. arXiv, 2022.
 - [Can Wikipedia Help Offline Reinforcement Learning?](https://arxiv.org/abs/2201.12122)
@@ -76,7 +78,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Generalizing Off-Policy Learning under Sample Selection Bias](https://arxiv.org/abs/2112.01387)
   - Tobias Hatt, Daniel Tschernutter, and Stefan Feuerriegel. arXiv, 2021.
 - [Offline Neural Contextual Bandits: Pessimism, Optimization and Generalization](https://arxiv.org/abs/2111.13807)
-  - Thanh Nguyen-Tang, Sunil Gupta, A.Tuan Nguyen, and Svetha Venkatesh. arXiv, 2021.
+  - Thanh Nguyen-Tang, Sunil Gupta, A.Tuan Nguyen, and Svetha Venkatesh. ICLR, 2022.
 - [Improving Zero-shot Generalization in Offline Reinforcement Learning using Generalized Similarity Functions](https://arxiv.org/abs/2111.14629)
   - Bogdan Mazoure, Ilya Kostrikov, Ofir Nachum, and Jonathan Tompson. arXiv, 2021.
 - [Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification](https://arxiv.org/abs/2111.11188)
