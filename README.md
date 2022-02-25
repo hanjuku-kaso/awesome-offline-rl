@@ -18,8 +18,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 ## Table of Contents
 - [Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#papers)
-  - [Review Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#review-papers)
-  - [Position Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#position-papers)
+  - [Review/Survey/Position Papers](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#reviewsurveyposition-papers)
   - [Offline RL: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-theorymethods)
   - [Offline RL: Benchmarks/Experiments/Applications](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#offline-rl-benchmarksexperimentsapplications)
   - [Off-Policy Evaluation: Theory/Methods](https://github.com/hanjuku-kaso/awesome-offline-rl/tree/main#off-policy-evaluation-theorymethods)
