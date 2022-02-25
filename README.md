@@ -4,7 +4,7 @@ This is a collection of research and review papers for **offline reinforcement l
 
 Maintainers:
 - [Haruka Kiyohara](https://sites.google.com/view/harukakiyohara) (Tokyo Institute of Technology / Hanjuku-kaso Co., Ltd.)
-- [Yuta Saito](http://usaito.github.io/) (Hanjuku-kaso Co., Ltd. / Cornell University)
+- [Yuta Saito](https://usait0.com/en/) (Hanjuku-kaso Co., Ltd. / Cornell University)
 
 We are looking for more contributors and maintainers! Please feel free to [pull requests](https://github.com/usaito/awesome-offline-rl/pulls).
 
@@ -35,18 +35,21 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 ## Papers
 
-### Review Papers
-
-- [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
-  - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
-
-### Position Papers
+### Review/Survey/Position Papers
+- [Deep Reinforcement Learning: Opportunities and Challenges](https://arxiv.org/abs/2202.11296)
+  - Yuxi Li. arXiv, 2022.
 - [Accelerating Offline Reinforcement Learning Application in Real-Time Bidding and Recommendation: Potential Use of Simulation](https://arxiv.org/abs/2109.08331)
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 - [A Survey of Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
+- [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
+  - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning](https://arxiv.org/abs/2202.10324)
+  - Che Wang, Xufang Luo, Keith Ross, and Dongsheng Li. arXiv, 2022.
+- [Retrieval-Augmented Reinforcement Learning](https://arxiv.org/abs/2202.08417)
+  - Anirudh Goyal, Abram L. Friesen, Andrea Banino, Theophane Weber, Nan Rosemary Ke, Adria Puigdomenech Badia, Arthur Guez, Mehdi Mirza, Ksenia Konyushkova, Michal Valko, Simon Osindero, Timothy Lillicrap, Nicolas Heess, and Charles Blundell. arXiv, 2022.
 - [Pessimistic Minimax Value Iteration: Provably Efficient Equilibrium Learning from Offline Datasets](https://arxiv.org/abs/2202.07511)
   - Han Zhong, Wei Xiong, Jiyuan Tan, Liwei Wang, Tong Zhang, Zhaoran Wang, and Zhuoran Yang. arXiv, 2022.
 - [Supported Policy Optimization for Offline Reinforcement Learning](https://arxiv.org/abs/2202.06239)
@@ -77,6 +80,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Samin Yeasar Arnob, Riashat Islam, and Doina Precup. arXiv, 2022.
 - [Single-Shot Pruning for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15579)
   - Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, and Doina Precup. arXiv, 2022.
+- [Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning](https://arxiv.org/abs/2202.11566)
+  - Chenjia Bai, Lingxiao Wang, Zhuoran Yang, Zhihong Deng, Animesh Garg, Peng Liu, and Zhaoran Wang. ICLR, 2022.
 - [Offline Neural Contextual Bandits: Pessimism, Optimization and Generalization](https://arxiv.org/abs/2111.13807)
   - Thanh Nguyen-Tang, Sunil Gupta, A.Tuan Nguyen, and Svetha Venkatesh. ICLR, 2022.
 - [Generalized Decision Transformer for Offline Hindsight Information Matching](https://arxiv.org/abs/2111.10364)  [[website](https://sites.google.com/view/generalizeddt)]
@@ -732,6 +737,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
 
 #### Reinforcement Learning
+- [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574) [[code](https://github.com/RunzheStat/CausalMARL)]
+  - Chengchun Shi, Runzhe Wan, Ge Song, Shikai Luo, Rui Song, and Hongtu Zhu. arXiv, 2022.
+- [Doubly Robust Distributionally Robust Off-Policy Evaluation and Learning](https://arxiv.org/abs/2202.09667)
+  - Nathan Kallus, Xiaojie Mao, Kaiwen Wang, and Zhengyuan Zhou. arXiv, 2022.
 - [Off-Policy Fitted Q-Evaluation with Differentiable Function Approximators: Z-Estimation and Inference Theory](https://arxiv.org/abs/2202.04970)
   - Ruiqi Zhang, Xuezhou Zhang, Chengzhuo Ni, and Mengdi Wang. arXiv, 2022.
 - [A Theoretical Framework of Almost Hyperparameter-free Hyperparameter Selection Methods for Offline Policy Evaluation](https://arxiv.org/abs/2201.02300)
