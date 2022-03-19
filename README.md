@@ -47,6 +47,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [The Efficacy of Pessimism in Asynchronous Q-Learning](https://arxiv.org/abs/2203.07368)
+  - Yuling Yan, Gen Li, Yuxin Chen, and Jianqing Fan. arXiv, 2022.
+- [Reinforcement Learning for Linear Quadratic Control is Vulnerable Under Cost Manipulation](https://arxiv.org/abs/2203.05774)
+  - Yunhan Huang and Quanyan Zhu. arXiv, 2022.
 - [Interpretable Off-Policy Learning via Hyperbox Search](https://arxiv.org/abs/2203.02473)
   - Daniel Tschernutter, Tobias Hatt, and Stefan Feuerriegel. arXiv, 2022.
 - [A Regularized Implicit Policy for Offline Reinforcement Learning](https://arxiv.org/abs/2202.09673)
@@ -91,6 +95,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Samin Yeasar Arnob, Riashat Islam, and Doina Precup. arXiv, 2022.
 - [Single-Shot Pruning for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15579)
   - Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, and Doina Precup. arXiv, 2022.
+- [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks](https://arxiv.org/abs/2203.08398)
+  - Fan Wu, Linyi Li, Chejian Xu, Huan Zhang, Bhavya Kailkhura, Krishnaram Kenthapadi, Ding Zhao, and Bo Li. ICLR, 2022.
+- [DARA: Dynamics-Aware Reward Augmentation in Offline Reinforcement Learning](https://arxiv.org/abs/2203.06662)
+  - Jinxin Liu, Hongyin Zhang, and Donglin Wang. ICLR, 2022.
+- [Near-optimal Offline Reinforcement Learning with Linear Representation: Leveraging Variance Information with Pessimism](https://arxiv.org/abs/2203.05804)
+  - Ming Yin, Yaqi Duan, Mengdi Wang, and Yu-Xiang Wang. ICLR, 2022.
 - [Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning](https://arxiv.org/abs/2202.11566)
   - Chenjia Bai, Lingxiao Wang, Zhuoran Yang, Zhihong Deng, Animesh Garg, Peng Liu, and Zhaoran Wang. ICLR, 2022.
 - [Offline Neural Contextual Bandits: Pessimism, Optimization and Generalization](https://arxiv.org/abs/2111.13807)
@@ -543,6 +553,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Phillip Swazinna, Steffen Udluft, Daniel Hein, and Thomas Runkler. arXiv, 2022.
 - [Offline Reinforcement Learning for Road Traffic Control](https://arxiv.org/abs/2201.02381)
   - Mayuresh Kunjir and Sanjay Chawla. arXiv, 2022.
+- [Semi-Markov Offline Reinforcement Learning for Healthcare](https://arxiv.org/abs/2203.09365)
+  - Mehdi Fatemi, Mary Wu, Jeremy Petch, Walter Nelson, Stuart J. Connolly, Alexander Benz, Anthony Carnicelli, and Marzyeh Ghassemi. CHIL, 2022.
 - [Compressive Features in Offline Reinforcement Learning for Recommender Systems](https://arxiv.org/abs/2111.08817)
   - Hung Nguyen, Minh Nguyen, Long Pham, and Jennifer Adorno Nieves. arXiv, 2021.
 - [Offline Contextual Bandits for Wireless Network Optimization](https://arxiv.org/abs/2111.08587)
