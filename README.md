@@ -47,6 +47,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Latent-Variable Advantage-Weighted Policy Optimization for Offline RL](https://arxiv.org/abs/2203.08949)
+  - Xi Chen, Ali Ghadirzadeh, Tianhe Yu, Yuan Gao, Jianhao Wang, Wenzhe Li, Bin Liang, Chelsea Finn, and Chongjie Zhang. arXiv, 2022.
+- [Meta Reinforcement Learning for Adaptive Control: An Offline Approach](https://arxiv.org/abs/2203.09661)
+  - Daniel G. McClement, Nathan P. Lawrence, Johan U. Backstrom, Philip D. Loewen, Michael G. Forbes, and R. Bhushan Gopaluni. arXiv, 2022.
 - [The Efficacy of Pessimism in Asynchronous Q-Learning](https://arxiv.org/abs/2203.07368)
   - Yuling Yan, Gen Li, Yuxin Chen, and Jianqing Fan. arXiv, 2022.
 - [Reinforcement Learning for Linear Quadratic Control is Vulnerable Under Cost Manipulation](https://arxiv.org/abs/2203.05774)
@@ -541,8 +545,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Optimizing Trajectories for Highway Driving with Offline Reinforcement Learning](https://arxiv.org/abs/2203.10949)
+  - Branka Mirchevska, Moritz Werling, and Joschka Boedecker. arXiv, 2022.
 - [Offline Deep Reinforcement Learning for Dynamic Pricing of Consumer Credit](https://arxiv.org/abs/2203.03003)
-  - Raad Khraishi, and Ramin Okhrati. arXiv, 2022.
+  - Raad Khraishi and Ramin Okhrati. arXiv, 2022.
 - [Offline Reinforcement Learning for Mobile Notifications](https://arxiv.org/abs/2202.03867)
   - Yiping Yuan, Ajith Muralidharan, Preetam Nandy, Miao Cheng, and Prakruthi Prabhakar. arXiv, 2022.
 - [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/abs/2201.13425)
@@ -1034,7 +1040,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Kosuke Imai. Online Causal Inference Seminar2022.
 - [Imitation learning vs. offline reinforcement learning](https://www.youtube.com/watch?v=sVPm7zOrBxM)
   - Sergey Levine. 2022.
-- [Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances](https://sites.google.com/cornell.edu/recsys2021tutorial)
+- [Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances](https://www.youtube.com/watch?v=HMo9fQMVB4w) [[website](https://sites.google.com/cornell.edu/recsys2021tutorial)]
   - Yuta Saito and Thorstem Joachims. RecSys2021.
 - [Offline Reinforcement Learning](https://www.youtube.com/watch?v=k08N5a0gG0A)
   - Sergey Levine. BayLearn2021.
