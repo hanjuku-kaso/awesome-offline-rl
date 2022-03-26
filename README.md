@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Bellman Residual Orthogonalization for Offline Reinforcement Learning](https://arxiv.org/abs/2203.12786)
+  - Andrea Zanette, and Martin J. Wainwright. arXiv, 2022.
 - [Latent-Variable Advantage-Weighted Policy Optimization for Offline RL](https://arxiv.org/abs/2203.08949)
   - Xi Chen, Ali Ghadirzadeh, Tianhe Yu, Yuan Gao, Jianhao Wang, Wenzhe Li, Bin Liang, Chelsea Finn, and Chongjie Zhang. arXiv, 2022.
 - [Meta Reinforcement Learning for Adaptive Control: An Offline Approach](https://arxiv.org/abs/2203.09661)
