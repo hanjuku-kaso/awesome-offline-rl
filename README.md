@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Offline Reinforcement Learning Under Value and Density-Ratio Realizability: the Power of Gaps](https://arxiv.org/abs/2203.13935)
+  - Jinglin Chen and Nan Jiang. arXiv, 2022.
 - [Bellman Residual Orthogonalization for Offline Reinforcement Learning](https://arxiv.org/abs/2203.12786)
   - Andrea Zanette, and Martin J. Wainwright. arXiv, 2022.
 - [Latent-Variable Advantage-Weighted Policy Optimization for Offline RL](https://arxiv.org/abs/2203.08949)
@@ -117,6 +119,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sen Lin, Jialin Wan, Tengyu Xu, Yingbin Liang, and Junshan Zhang. ICLR, 2022.
 - [Towards Robust Off-policy Learning for Runtime Uncertainty](https://arxiv.org/abs/2202.13337)
   - Da Xu, Yuting Ye, Chuanwei Ruan, and Bo Yang. AAAI, 2022.
+- [Sample Complexity of Offline Reinforcement Learning with Deep ReLU Networks](https://arxiv.org/abs/2103.06671)
+  - Thanh Nguyen-Tang, Sunil Gupta, Hung Tran-The, and Svetha Venkatesh. arXiv, 2021.
 - [Model Selection in Batch Policy Optimization](https://arxiv.org/abs/2112.12320)
   - Jonathan N. Lee, George Tucker, Ofir Nachum, and Bo Dai. arXiv, 2021.
 - [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/abs/2112.10751)
@@ -547,6 +551,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [A Conservative Q-Learning approach for handling distribution shift in sepsis treatment strategies](https://arxiv.org/abs/2203.13884)
+  - Pramod Kaushik, Sneha Kummetha, Perusha Moodley, and Raju S. Bapi. arXiv, 2022.
 - [Optimizing Trajectories for Highway Driving with Offline Reinforcement Learning](https://arxiv.org/abs/2203.10949)
   - Branka Mirchevska, Moritz Werling, and Joschka Boedecker. arXiv, 2022.
 - [Offline Deep Reinforcement Learning for Dynamic Pricing of Consumer Credit](https://arxiv.org/abs/2203.03003)
