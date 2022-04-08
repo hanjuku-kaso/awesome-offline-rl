@@ -47,6 +47,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [PAnDR: Fast Adaptation to New Environments from Offline Experiences via Decoupling Policy and Environment Representations](https://arxiv.org/abs/2204.02877)
+  - Tong Sang, Hongyao Tang, Yi Ma, Jianye Hao, Yan Zheng, Zhaopeng Meng, Boyan Li, and Zhen Wang. arXiv, 2022.
+- [Jump-Start Reinforcement Learning](https://arxiv.org/abs/2204.02372) [[website](https://jumpstart-rl.github.io/)]
+  - Ikechukwu Uchendu, Ted Xiao, Yao Lu, Banghua Zhu, Mengyuan Yan, Joséphine Simon, Matthew Bennice, Chuyuan Fu, Cong Ma, Jiantao Jiao, Sergey Levine, and Karol Hausman. arXiv, 2022.
 - [Offline Reinforcement Learning Under Value and Density-Ratio Realizability: the Power of Gaps](https://arxiv.org/abs/2203.13935)
   - Jinglin Chen and Nan Jiang. arXiv, 2022.
 - [Bellman Residual Orthogonalization for Offline Reinforcement Learning](https://arxiv.org/abs/2203.12786)
@@ -551,6 +555,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Offline Reinforcement Learning for Safer Blood Glucose Control in People with Type 1 Diabetes](https://arxiv.org/abs/2204.03376) [[code](https://github.com/hemerson1/offline-glucose)]
+  - Harry Emerson, Matt Guy, and Ryan McConville. arXiv, 2022.
+- [CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System](https://arxiv.org/abs/2204.01266) [[code](https://github.com/chongminggao/CIRS-codes)]
+  - Chongming Gao, Wenqiang Lei, Jiawei Chen, Shiqi Wang, Xiangnan He, Shijun Li, Biao Li, Yuan Zhang, and Peng Jiang. arXiv, 2022.
 - [A Conservative Q-Learning approach for handling distribution shift in sepsis treatment strategies](https://arxiv.org/abs/2203.13884)
   - Pramod Kaushik, Sneha Kummetha, Perusha Moodley, and Raju S. Bapi. arXiv, 2022.
 - [Optimizing Trajectories for Highway Driving with Offline Reinforcement Learning](https://arxiv.org/abs/2203.10949)
@@ -844,6 +852,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Shangtong Zhang, Yi Wan, Richard S. Sutton, and Shimon Whiteson. arXiv, 2021.
 - [Sequential causal inference in a single world of connected units](https://arxiv.org/abs/2101.07380)
   - Aurelien Bibaut, Maya Petersen, Nikos Vlassis, Maria Dimakopoulou, and Mark van der Laan, arXiv, 2021.
+- [Offline Policy Selection under Uncertainty](https://arxiv.org/abs/2012.06919)
+  - Mengjiao Yang, Bo Dai, Ofir Nachum, George Tucker, and Dale Schuurmans. arXiv, 2020.
 - [Near-Optimal Provable Uniform Convergence in Offline Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2007.03760)
   - Ming Yin, Yu Bai, and Yu-Xiang Wang. arXiv, 2020.
 - [Optimal Mixture Weights for Off-Policy Evaluation with Multiple Behavior Policies](https://arxiv.org/abs/2011.14359)
@@ -930,6 +940,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Nan Jiang and Lihong Li. ICML, 2016.
 - [Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning](http://proceedings.mlr.press/v48/thomasa16.html)
   - Philip Thomas and Emma Brunskill. ICML, 2016.
+- [High Confidence Policy Improvement](http://proceedings.mlr.press/v37/thomas15.html)
+  - Philip Thomas, Georgios Theocharous, and Mohammad Ghavamzadeh. ICML, 2015.
 - [High Confidence Off-Policy Evaluation](https://people.cs.umass.edu/~pthomas/papers/Thomas2015.pdf)
   - Philip S. Thomas, Georgios Theocharous, and Mohammad Ghavamzadeh. AAAI, 2015.
 - [Eligibility Traces for Off-Policy Policy Evaluation](https://dl.acm.org/doi/10.5555/645529.658134)
@@ -964,6 +976,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Alexandre Gilotte, Clément Calauzènes, Thomas Nedelec, Alexandre Abraham, and Simon Dollé. WSDM, 2018.
 - [Offline Comparative Evaluation with Incremental, Minimally-Invasive Online Feedback](https://dl.acm.org/doi/10.1145/3209978.3210050)
   - Ben Carterette and Praveen Chandar. SIGIR, 2018.
+- [Handling Confounding for Realistic Off-Policy Evaluation](https://dl.acm.org/doi/abs/10.1145/3184558.3186915)
+  - Saurabh Sohoney, Nikita Prabhu, and Vineet Chaoji. WWW, 2018.
+- [Counterfactual Reasoning and Learning Systems: The Example of Computational Advertising](https://jmlr.org/papers/v14/bottou13a.html)
+  - Léon Bottou, Jonas Peters, Joaquin Quiñonero-Candela, Denis X. Charles, D. Max Chickering, Elon Portugaly, Dipankar Ray, Patrice Simard, and Ed Snelson. JMLR, 2013.
 
 ## Open Source Software/Implementations
 - [Open Bandit Pipeline: a research framework for bandit algorithms and off-policy evaluation](https://github.com/st-tech/zr-obp) [[paper](https://arxiv.org/abs/2008.07146)] [[documentation](https://zr-obp.readthedocs.io/en/latest/index.html)] [[public dataset](https://research.zozo.com/data.html)]
