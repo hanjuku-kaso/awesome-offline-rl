@@ -47,6 +47,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Settling the Sample Complexity of Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2204.05275)
+  - Gen Li, Laixi Shi, Yuxin Chen, Yuejie Chi, and Yuting Wei. arXiv, 2022.
 - [PAnDR: Fast Adaptation to New Environments from Offline Experiences via Decoupling Policy and Environment Representations](https://arxiv.org/abs/2204.02877)
   - Tong Sang, Hongyao Tang, Yi Ma, Jianye Hao, Yan Zheng, Zhaopeng Meng, Boyan Li, and Zhen Wang. arXiv, 2022.
 - [Jump-Start Reinforcement Learning](https://arxiv.org/abs/2204.02372) [[website](https://jumpstart-rl.github.io/)]
@@ -107,6 +109,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Samin Yeasar Arnob, Riashat Islam, and Doina Precup. arXiv, 2022.
 - [Single-Shot Pruning for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15579)
   - Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, and Doina Precup. arXiv, 2022.
+- [When Should We Prefer Offline Reinforcement Learning Over Behavioral Cloning?](https://arxiv.org/abs/2204.05618)
+  - Aviral Kumar, Joey Hong, Anikait Singh, and Sergey Levine. ICLR, 2022.
 - [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks](https://arxiv.org/abs/2203.08398)
   - Fan Wu, Linyi Li, Chejian Xu, Huan Zhang, Bhavya Kailkhura, Krishnaram Kenthapadi, Ding Zhao, and Bo Li. ICLR, 2022.
 - [DARA: Dynamics-Aware Reward Augmentation in Offline Reinforcement Learning](https://arxiv.org/abs/2203.06662)
@@ -121,6 +125,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Hiroki Furuta, Yutaka Matsuo, and Shixiang Shane Gu. ICLR, 2022.
 - [Model-Based Offline Meta-Reinforcement Learning with Regularization](https://arxiv.org/abs/2202.02929)
   - Sen Lin, Jialin Wan, Tengyu Xu, Yingbin Liang, and Junshan Zhang. ICLR, 2022.
+- [Towards Off-Policy Learning for Ranking Policies with Logged Feedback](https://www.aaai.org/AAAI22Papers/AAAI-8695.XiaoT.pdf)
+  - Teng Xiao and Suhang Wang. AAAI, 2022.
 - [Towards Robust Off-policy Learning for Runtime Uncertainty](https://arxiv.org/abs/2202.13337)
   - Da Xu, Yuting Ye, Chuanwei Ruan, and Bo Yang. AAAI, 2022.
 - [Sample Complexity of Offline Reinforcement Learning with Deep ReLU Networks](https://arxiv.org/abs/2103.06671)
@@ -1011,6 +1017,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 
 ## Blog/Podcast
 ### Blog
+- [Counterfactual Evaluation for Recommendation Systems](https://eugeneyan.com/writing/counterfactual-evaluation/)
+  - Eugene Yan. 2022.
 - [Offline Reinforcement Learning: How Conservative Algorithms Can Enable New Applications](https://bair.berkeley.edu/blog/2020/12/07/offline/)
   - Aviral Kumar and Avi Singh. BAIR Blog, 2020.
 - [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://bair.berkeley.edu/blog/2020/09/10/awac/)
@@ -1060,6 +1068,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Real-world Sequential Decision Making (ICML 2019)](https://realworld-sdm.github.io/)
 
 ## Tutorials/Talks/Lectures
+- [Tutorial on the Foundations of Offline Reinforcement Learning](https://www.youtube.com/watch?app=desktop&v=lH9DzugrejY)
+  - Romain Laroche and David Brandfonbrener. 2022.
 - [Safe Policy Learning through Extrapolation: Application to Pre-trial Risk Assessment](https://www.youtube.com/watch?v=Gd2-MxJQTKA)
   - Kosuke Imai. Online Causal Inference Seminar2022.
 - [Imitation learning vs. offline reinforcement learning](https://www.youtube.com/watch?v=sVPm7zOrBxM)
