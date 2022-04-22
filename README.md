@@ -109,8 +109,36 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Samin Yeasar Arnob, Riashat Islam, and Doina Precup. arXiv, 2022.
 - [Single-Shot Pruning for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15579)
   - Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, and Doina Precup. arXiv, 2022.
-- [When Should We Prefer Offline Reinforcement Learning Over Behavioral Cloning?](https://arxiv.org/abs/2204.05618)
+- [Representation Learning for Online and Offline RL in Low-rank MDPs](https://arxiv.org/abs/2110.04652)
+  - Masatoshi Uehara, Xuezhou Zhang, and Wen Sun. ICLR, 2022.
+- [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://arxiv.org/abs/2107.06226) [[video](https://www.youtube.com/watch?v=aPce6Y-NqpQs)]
+  - Masatoshi Uehara and Wen Sun. ICLR, 2022.
+- [Revisiting Design Choices in Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2110.04135)
+  - Cong Lu, Philip J. Ball, Jack Parker-Holder, Michael A. Osborne, and Stephen J. Roberts. ICLR, 2022.
+- [DR3: Value-Based Deep Reinforcement Learning Requires Explicit Regularization](https://arxiv.org/abs/2112.04716)
+  - Aviral Kumar, Rishabh Agarwal, Tengyu Ma, Aaron Courville, George Tucker, and Sergey Levine. ICLR, 2022.
+- [COptiDICE: Offline Constrained Reinforcement Learning via Stationary Distribution Correction Estimation](https://arxiv.org/abs/2204.08957)
+  - Jongmin Lee, Cosmin Paduraru, Daniel J. Mankowitz, Nicolas Heess, Doina Precup, Kee-Eung Kim, and Arthur Guez. ICLR, 2022.
+- [POETREE: Interpretable Policy Learning with Adaptive Decision Trees](https://arxiv.org/abs/2203.08057)
+  - Alizée Pace, Alex J. Chan, and Mihaela van der Schaar. ICLR, 2022.
+- [Planning in Stochastic Environments with a Learned Model](https://openreview.net/forum?id=X6D9bAHhBQ1)
+  - Ioannis Antonoglou, Julian Schrittwieser, Sherjil Ozair, Thomas K Hubert, and David Silver. ICLR, 2022.
+- [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/abs/2110.09796)
+  - Xiaoteng Ma, Yiqin Yang, Hao Hu, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, and Bin Liang. ICLR, 2022.
+- [Should I Run Offline Reinforcement Learning or Behavioral Cloning?](https://openreview.net/forum?id=AP1MKT37rJ)
   - Aviral Kumar, Joey Hong, Anikait Singh, and Sergey Levine. ICLR, 2022.
+- [Learning Value Functions from Undirected State-only Experience](https://openreview.net/forum?id=6Pe99Juo9gd)
+  - Matthew Chang, Arjun Gupta, and Saurabh Gupta. ICLR, 2022.
+- [Rethinking Goal-Conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW)
+  - Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, and Chongjie Zhang. ICLR, 2022.
+- [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/abs/2110.06169)
+  - Ilya Kostrikov, Ashvin Nair, and Sergey Levine. ICLR, 2022.
+- [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/abs/2112.10751)
+  - Scott Emmons, Benjamin Eysenbach, Ilya Kostrikov, and Sergey Levine. ICLR, 2022.
+- [Pareto Policy Pool for Model-based Offline Reinforcement Learning](https://openreview.net/forum?id=OqcZu8JIIzS)
+  - Yijun Yang, Jing Jiang, Tianyi Zhou, Jie Ma, and Yuhui Shi. ICLR, 2022.
+- [CrowdPlay: Crowdsourcing Human Demonstrations for Offline Learning](https://openreview.net/forum?id=qyTBxTztIpQ)
+  - Matthias Gerstgrasser, Rakshit Trivedi, and David C. Parkes. ICLR, 2022.
 - [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks](https://arxiv.org/abs/2203.08398)
   - Fan Wu, Linyi Li, Chejian Xu, Huan Zhang, Bhavya Kailkhura, Krishnaram Kenthapadi, Ding Zhao, and Bo Li. ICLR, 2022.
 - [DARA: Dynamics-Aware Reward Augmentation in Offline Reinforcement Learning](https://arxiv.org/abs/2203.06662)
@@ -133,12 +161,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Thanh Nguyen-Tang, Sunil Gupta, Hung Tran-The, and Svetha Venkatesh. arXiv, 2021.
 - [Model Selection in Batch Policy Optimization](https://arxiv.org/abs/2112.12320)
   - Jonathan N. Lee, George Tucker, Ofir Nachum, and Bo Dai. arXiv, 2021.
-- [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/abs/2112.10751)
-  - Scott Emmons, Benjamin Eysenbach, Ilya Kostrikov, and Sergey Levine. arXiv, 2021.
 - [Learning Contraction Policies from Offline Data](https://arxiv.org/abs/2112.05911)
   - Navid Rezazadeh, Maxwell Kolarich, Solmaz S. Kia, and Negar Mehr. arXiv, 2021.
-- [DR3: Value-Based Deep Reinforcement Learning Requires Explicit Regularization](https://arxiv.org/abs/2112.04716)
-  - Aviral Kumar, Rishabh Agarwal, Tengyu Ma, Aaron Courville, George Tucker, and Sergey Levine. arXiv, 2021.
 - [CoMPS: Continual Meta Policy Search](https://arxiv.org/abs/2112.04467)
   - Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine. arXiv, 2021.
 - [MESA: Offline Meta-RL for Safe Adaptation and Fault Tolerance](https://arxiv.org/abs/2112.03575)
@@ -153,7 +177,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ling Pan, Longbo Huang, Tengyu Ma, and Huazhe Xu. arXiv, 2021.
 - [Policy Gradient and Actor-Critic Learning in Continuous Time and Space: Theory and Algorithms](https://arxiv.org/abs/2111.11232)
   - Yanwei Jia and Xun Yu Zhou. arXiv, 2021.
-- [Offline Reinforcement Learning: Fundamental Barriers for Value Function Approximation](https://arxiv.org/abs/2111.10919)
+- [Offline Reinforcement Learning: Fundamental Barriers for Value Function Approximation](https://arxiv.org/abs/2111.10919) [[video](https://youtu.be/QS2xVHgBg-k)]
   - Dylan J. Foster, Akshay Krishnamurthy, David Simchi-Levi, and Yunzong Xu. arXiv, 2021.
 - [UMBRELLA: Uncertainty-Aware Model-Based Offline Reinforcement Learning Leveraging Planning](https://arxiv.org/abs/2111.11097)
   - Christopher Diehl, Timo Sievernich, Martin Krüger, Frank Hoffmann, and Torsten Bertran. arXiv, 2021.
@@ -169,8 +193,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Wanqiao Xu, Kan Xu, Hamsa Bastani, and Osbert Bastani. arXiv, 2021.
 - [Efficient Robotic Manipulation Through Offline-to-Online Reinforcement Learning and Goal-Aware State Information](https://arxiv.org/abs/2110.10905)
   - Jin Li, Xianyuan Zhan, Zixu Xiao, and Guyue Zhou. arXiv, 2021.
-- [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/abs/2110.09796)
-  - Xiaoteng Ma, Yiqin Yang, Hao Hu, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, and Bin Liang. arXiv, 2021.
 - [Value Penalized Q-Learning for Recommender Systems](https://arxiv.org/abs/2110.07923)
   - Chengqian Gao, Ke Xu, and Peilin Zhao. arXiv, 2021.
 - [Offline Reinforcement Learning with Soft Behavior Regularization](https://arxiv.org/abs/2110.07395)
@@ -179,12 +201,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Marco Bagatella, Mirek Olšák, Michal Rolínek, and Georg Martius. arXiv, 2021.
 - [StARformer: Transformer with State-Action-Reward Representations](https://arxiv.org/abs/2110.06206)
   - Jinghuan Shang and Michael S. Ryoo. arXiv, 2021.
-- [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/abs/2110.06169)
-  - Ilya Kostrikov, Ashvin Nair, and Sergey Levine. arXiv, 2021.
-- [Representation Learning for Online and Offline RL in Low-rank MDPs](https://arxiv.org/abs/2110.04652)
-  - Masatoshi Uehara, Xuezhou Zhang, and Wen Sun. arXiv, 2021.
-- [Revisiting Design Choices in Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2110.04135)
-  - Cong Lu, Philip J. Ball, Jack Parker-Holder, Michael A. Osborne, and Stephen J. Roberts. arXiv, 2021.
 - [Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters](https://arxiv.org/abs/2110.04156)
   - Vladislav Kurenkov and Sergey Kolesnikov. arXiv, 2021.
 - [Offline RL With Resource Constrained Online Deployment](https://arxiv.org/abs/2110.03165) [[code](https://github.com/JayanthRR/RC-OfflineRL)]
@@ -209,8 +225,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Daniel Shin and Daniel S. Brown. arXiv, 2021.
 - [Constraints Penalized Q-Learning for Safe Offline Reinforcement Learning](https://arxiv.org/abs/2107.09003)
   - Haoran Xu, Xianyuan Zhan, and Xiangyu Zhu. arXiv, 2021.
-- [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://arxiv.org/abs/2107.06226) [[video](https://www.youtube.com/watch?v=aPce6Y-NqpQs)]
-  - Masatoshi Uehara and Wen Sun. arXiv, 2021.
 - [Offline Meta-Reinforcement Learning with Online Self-Supervision](https://arxiv.org/abs/2107.03974)
   - Vitchyr H. Pong, Ashvin Nair, Laura Smith, Catherine Huang, and Sergey Levine. arXiv, 2021.
 - [Where is the Grass Greener? Revisiting Generalized Policy Iteration for Offline Reinforcement Learning](https://arxiv.org/abs/2107.01407)
@@ -561,6 +575,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [A Reinforcement Learning-based Volt-VAR Control Dataset and Testing Environment](https://arxiv.org/abs/2204.09500)
+  - Yuanqi Gao and Nanpeng Yu. arXiv, 2022.
+- [CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning](https://arxiv.org/abs/2204.08426)
+  - Siddharth Verma, Justin Fu, Mengjiao Yang, and Sergey Levine. arXiv, 2022.
 - [Offline Reinforcement Learning for Safer Blood Glucose Control in People with Type 1 Diabetes](https://arxiv.org/abs/2204.03376) [[code](https://github.com/hemerson1/offline-glucose)]
   - Harry Emerson, Matt Guy, and Ryan McConville. arXiv, 2022.
 - [CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System](https://arxiv.org/abs/2204.01266) [[code](https://github.com/chongminggao/CIRS-codes)]
@@ -581,6 +599,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Phillip Swazinna, Steffen Udluft, Daniel Hein, and Thomas Runkler. arXiv, 2022.
 - [Offline Reinforcement Learning for Road Traffic Control](https://arxiv.org/abs/2201.02381)
   - Mayuresh Kunjir and Sanjay Chawla. arXiv, 2022.
+- [GPT-Critic: Offline Reinforcement Learning for End-to-End Task-Oriented Dialogue Systems](https://openreview.net/forum?id=qaxhBG1UUaS)
+  - Youngsoo Jang, Jongmin Lee, and Kee-Eung Kim. ICLR, 2022.
 - [Semi-Markov Offline Reinforcement Learning for Healthcare](https://arxiv.org/abs/2203.09365)
   - Mehdi Fatemi, Mary Wu, Jeremy Petch, Walter Nelson, Stuart J. Connolly, Alexander Benz, Anthony Carnicelli, and Marzyeh Ghassemi. CHIL, 2022.
 - [Compressive Features in Offline Reinforcement Learning for Recommender Systems](https://arxiv.org/abs/2111.08817)
@@ -1068,12 +1088,14 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Real-world Sequential Decision Making (ICML 2019)](https://realworld-sdm.github.io/)
 
 ## Tutorials/Talks/Lectures
-- [Tutorial on the Foundations of Offline Reinforcement Learning](https://www.youtube.com/watch?app=desktop&v=lH9DzugrejY)
-  - Romain Laroche and David Brandfonbrener. 2022.
+- [Offline Reinforcement Learning: Fundamental Barriers for Value Function Approximation](https://youtu.be/QS2xVHgBg-k)
+  - Yunzong Xu. RL Theory Seminar2022.
 - [Safe Policy Learning through Extrapolation: Application to Pre-trial Risk Assessment](https://www.youtube.com/watch?v=Gd2-MxJQTKA)
   - Kosuke Imai. Online Causal Inference Seminar2022.
 - [Imitation learning vs. offline reinforcement learning](https://www.youtube.com/watch?v=sVPm7zOrBxM)
   - Sergey Levine. 2022.
+- [Tutorial on the Foundations of Offline Reinforcement Learning](https://www.youtube.com/watch?app=desktop&v=lH9DzugrejY)
+  - Romain Laroche and David Brandfonbrener. 2022.
 - [Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances](https://www.youtube.com/watch?v=HMo9fQMVB4w) [[website](https://sites.google.com/cornell.edu/recsys2021tutorial)]
   - Yuta Saito and Thorstem Joachims. RecSys2021.
 - [Offline Reinforcement Learning](https://www.youtube.com/watch?v=k08N5a0gG0A)
