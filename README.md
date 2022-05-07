@@ -583,6 +583,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Pessimism meets VCG: Learning Dynamic Mechanism Design via Offline Reinforcement Learning](https://arxiv.org/abs/2205.02450)
+  - Boxiang Lyu, Zhaoran Wang, Mladen Kolar, and Zhuoran Yang. arXiv, 2022.
 - [A Reinforcement Learning-based Volt-VAR Control Dataset and Testing Environment](https://arxiv.org/abs/2204.09500)
   - Yuanqi Gao and Nanpeng Yu. arXiv, 2022.
 - [CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning](https://arxiv.org/abs/2204.08426)
