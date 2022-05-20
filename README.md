@@ -47,6 +47,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL](https://arxiv.org/abs/2205.08716)
+  - Han Wang, Archit Sakhadeo, Adam White, James Bell, Vincent Liu, Xutong Zhao, Puer Liu, Tadashi Kozuno, Alona Fyshe, and Martha White. arXiv, 2022.
+- [How to Spend Your Robot Time: Bridging Kickstarting and Offline Reinforcement Learning for Vision-based Robotic Manipulation](https://arxiv.org/abs/2205.03353)
+  - Alex X. Lee, Coline Devin, Jost Tobias Springenberg, Yuxiang Zhou, Thomas Lampe, Abbas Abdolmaleki, and Konstantinos Bousmalis. arXiv, 2022.
 - [Offline Visual Representation Learning for Embodied Navigation](https://arxiv.org/abs/2204.13226)
   - Karmesh Yadav, Ram Ramrakhya, Arjun Majumdar, Vincent-Pierre Berges, Sachit Kuhar, Dhruv Batra, Alexei Baevski, and Oleksandr Maksymets. arXiv, 2022.
 - [Towards Flexible Inference in Sequential Decision Problems via Bidirectional Transformers](https://arxiv.org/abs/2204.13326)
@@ -165,6 +169,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Teng Xiao and Suhang Wang. AAAI, 2022.
 - [Towards Robust Off-policy Learning for Runtime Uncertainty](https://arxiv.org/abs/2202.13337)
   - Da Xu, Yuting Ye, Chuanwei Ruan, and Bo Yang. AAAI, 2022.
+- [Safe Offline Reinforcement Learning Through Hierarchical Policies](https://link.springer.com/chapter/10.1007/978-3-031-05936-0_30)
+  - Shaofan Liu and Shiliang Sun. PAKDD, 2022.
 - [Sample Complexity of Offline Reinforcement Learning with Deep ReLU Networks](https://arxiv.org/abs/2103.06671)
   - Thanh Nguyen-Tang, Sunil Gupta, Hung Tran-The, and Svetha Venkatesh. arXiv, 2021.
 - [Model Selection in Batch Policy Optimization](https://arxiv.org/abs/2112.12320)
@@ -727,7 +733,9 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model](https://arxiv.org/abs/2202.01562) [[code](https://github.com/aiueola/wsdm2022-cascade-dr)]
   - Haruka Kiyohara, Yuta Saito, Tatsuya Matsuhiro, Yusuke Narita, Nobuyuki Shimizu, and Yasuo Yamamoto. WSDM, 2022.
 - [Off-Policy Evaluation for Large Action Spaces via Embeddings](https://arxiv.org/abs/2202.06317)
-  - Yuta Saito and Thorsten Joachims. arXiv, 2022.
+  - Yuta Saito and Thorsten Joachims. ICML, 2022.
+- [Safe Optimal Design with Applications in Off-Policy Learning](https://arxiv.org/abs/2111.04835)
+  - Ruihao Zhu and Branislav Kveton. AISTATS, 2022.
 - [Off-Policy Evaluation in Embedded Spaces](https://arxiv.org/abs/2203.02807)
   - Jaron J. R. Lee, David Arbour, and Georgios Theocharous. arXiv, 2022.
 - [Variance-Optimal Augmentation Logging for Counterfactual Evaluation in Contextual Bandits](https://arxiv.org/abs/2202.01721)
@@ -752,8 +760,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yash Chandak, Shiv Shankar, and Philip S. Thomas. AAAI, 2021.
 - [Learning from eXtreme Bandit Feedback](https://arxiv.org/abs/2009.12947)
   - Romain Lopez, Inderjit Dhillon, and Michael I. Jordan. AAAI, 2021.
-- [Safe Optimal Design with Applications in Policy Learning](https://arxiv.org/abs/2111.04835)
-  - Ruihao Zhu and Branislav Kveton. arXiv, 2021.
 - [Off-Policy Evaluation Using Information Borrowing and Context-Based Switching](https://arxiv.org/abs/2112.09865)
   - Sutanoy Dasgupta, Yabo Niu, Kishan Panaganti, Dileep Kalathil, Debdeep Pati, and Bani Mallick. arXiv, 2021.
 - [Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation](https://arxiv.org/abs/2111.14272)
@@ -838,6 +844,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. WSDM, 2011.
 
 #### Reinforcement Learning
+- [Off-Policy Risk Assessment for Markov Decision Processes](https://proceedings.mlr.press/v151/huang22b)
+  - Audrey Huang, Liu Leqi, Zachary Lipton, and Kamyar Azizzadenesheli. AISTATS, 2022.
 - [A Sharp Characterization of Linear Estimators for Offline Policy Evaluation](https://arxiv.org/abs/2203.04236)
   - Juan C. Perdomo, Akshay Krishnamurthy, Peter Bartlett, and Sham Kakade. arXiv, 2022.
 - [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574) [[code](https://github.com/RunzheStat/CausalMARL)]
