@@ -39,6 +39,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Rafael Figueiredo Prudencio, Marcos R. O. A. Maximo, and Esther Luna Colombini. arXiv, 2022.
 - [Deep Reinforcement Learning: Opportunities and Challenges](https://arxiv.org/abs/2202.11296)
   - Yuxi Li. arXiv, 2022.
+- [Survey on Fair Reinforcement Learning: Theory and Practice](https://arxiv.org/abs/2205.10032)
+  - Pratik Gajane, Akrati Saxena, Maryam Tavakol, George Fletcher, and Mykola Pechenizkiy. arXiv, 2022.
 - [Accelerating Offline Reinforcement Learning Application in Real-Time Bidding and Recommendation: Potential Use of Simulation](https://arxiv.org/abs/2109.08331)
   - Haruka Kiyohara, Kosuke Kawakami, and Yuta Saito. arXiv, 2021.
 - [A Survey of Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
@@ -47,6 +49,14 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Hierarchical Planning Through Goal-Conditioned Offline Reinforcement Learning](https://arxiv.org/abs/2205.11790)
+  - Jinning Li, Chen Tang, Masayoshi Tomizuka, and Wei Zhan. arXiv, 2022.
+- [Distance-Sensitive Offline Reinforcement Learning](https://arxiv.org/abs/2205.11027)
+  - Jianxiong Li, Xianyuan Zhan, Haoran Xu, Xiangyu Zhu, Jingjing Liu, and Ya-Qin Zhang. arXiv, 2022.
+- [User-Interactive Offline Reinforcement Learning](https://arxiv.org/abs/2205.10629)
+  - Phillip Swazinna, Steffen Udluft, and Thomas Runkler. arXiv, 2022.
+- [Pessimism for Offline Linear Contextual Bandits using ℓp Confidence Sets](https://arxiv.org/abs/2205.10671)
+  - Gene Li, Cong Ma, and Nathan Srebro. arXiv, 2022.
 - [No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL](https://arxiv.org/abs/2205.08716)
   - Han Wang, Archit Sakhadeo, Adam White, James Bell, Vincent Liu, Xutong Zhao, Puer Liu, Tadashi Kozuno, Alona Fyshe, and Martha White. arXiv, 2022.
 - [How to Spend Your Robot Time: Bridging Kickstarting and Offline Reinforcement Learning for Vision-based Robotic Manipulation](https://arxiv.org/abs/2205.03353)
@@ -121,6 +131,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Samin Yeasar Arnob, Riashat Islam, and Doina Precup. arXiv, 2022.
 - [Single-Shot Pruning for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15579)
   - Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, and Doina Precup. arXiv, 2022.
+- [Koopman Q-learning: Offline Reinforcement Learning via Symmetries of Dynamics](https://arxiv.org/abs/2111.01365)
+  - Matthias Weissenbacher, Samarth Sinha, Animesh Garg, and Yoshinobu Kawahara. ICML, 2022.
 - [Representation Learning for Online and Offline RL in Low-rank MDPs](https://arxiv.org/abs/2110.04652) [[video](https://m.youtube.com/watch?v=EynREeip-y8s)]
   - Masatoshi Uehara, Xuezhou Zhang, and Wen Sun. ICLR, 2022.
 - [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://arxiv.org/abs/2107.06226) [[video](https://www.youtube.com/watch?v=aPce6Y-NqpQs)]
@@ -199,8 +211,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Vincent Liu, James Wright, and Martha White. arXiv, 2021.
 - [Batch Reinforcement Learning from Crowds](https://arxiv.org/abs/2111.04279)
   - Guoxi Zhang and Hisashi Kashima. arXiv, 2021.
-- [Koopman Q-learning: Offline Reinforcement Learning via Symmetries of Dynamics](https://arxiv.org/abs/2111.01365)
-  - Matthias Weissenbacher, Samarth Sinha, Animesh Garg, and Yoshinobu Kawahara. arXiv, 2021.
 - [SCORE: Spurious COrrelation REduction for Offline Reinforcement Learning](https://arxiv.org/abs/2110.12468)
   - Zhihong Deng, Zuyue Fu, Lingxiao Wang, Zhuoran Yang, Chenjia Bai, Zhaoran Wang, and Jing Jiang. arXiv, 2021.
 - [Safely Bridging Offline and Online Reinforcement Learning](https://arxiv.org/abs/2110.13060)
@@ -589,6 +599,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [ARLO: A Framework for Automated Reinforcement Learning](https://arxiv.org/abs/2205.10416)
+  - Marco Mussi, Davide Lombarda, Alberto Maria Metelli, Francesco Trovò, and Marcello Restelli. arXiv, 2022.
 - [Pessimism meets VCG: Learning Dynamic Mechanism Design via Offline Reinforcement Learning](https://arxiv.org/abs/2205.02450)
   - Boxiang Lyu, Zhaoran Wang, Mladen Kolar, and Zhuoran Yang. arXiv, 2022.
 - [A Reinforcement Learning-based Volt-VAR Control Dataset and Testing Environment](https://arxiv.org/abs/2204.09500)
@@ -994,6 +1006,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Satinder P. Singh. ICML, 2000.
 
 ### Off-Policy Evaluation: Benchmarks/Experiments/Applications
+- [Offline Policy Comparison with Confidence: Benchmarks and Baselines](https://arxiv.org/abs/2205.10739)
+  - Anurag Koul, Mariano Phielipp, and Alan Fern. arXiv, 2022.
 - [Open Bandit Dataset and Pipeline: Towards Realistic and Reproducible Off-Policy Evaluation](https://arxiv.org/abs/2008.07146) [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
   - Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. NeurIPS, 2021.
 - [Evaluating the Robustness of Off-Policy Evaluation](https://arxiv.org/abs/2108.13703) [[software](https://github.com/sony/pyIEOE)]
@@ -1098,6 +1112,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Scott Fujimoto. TalkRL, 2019.
 
 ## Related Workshops
+- [Causality, Counterfactuals, Sequential Decision-Making & Reinforcement Learning (RecSys 2022)](https://sites.google.com/view/consequences2022/home?authuser=0)
 - [Offline Reinforcement Learning (NeurIPS 2021)](https://offline-rl-neurips.github.io/2021/)
 - [Reinforcement Learning for Real Life (ICML 2021)](https://sites.google.com/view/RL4RealLife)
 - [Reinforcement Learning Day 2021](https://www.microsoft.com/en-us/research/event/reinforcement-learning-day-2021/)
@@ -1109,6 +1124,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Real-world Sequential Decision Making (ICML 2019)](https://realworld-sdm.github.io/)
 
 ## Tutorials/Talks/Lectures
+- [Counterfactual Evaluation and Learning for Interactive Systems](https://counterfactual-ml.github.io/kdd2022-tutorial/)
+  - Yuta Saito and Thorsten Joachims. KDD2022.
 - [Representation Learning for Online and Offline RL in Low-rank MDPs](https://m.youtube.com/watch?v=EynREeip-y8)
   - Masatoshi Uehara. RL Theory Seminar2022.
 - [Offline Reinforcement Learning: Fundamental Barriers for Value Function Approximation](https://youtu.be/QS2xVHgBg-k)
