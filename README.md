@@ -49,6 +49,34 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Offline Reinforcement Learning with Causal Structured World Models](https://arxiv.org/abs/2206.01474)
+  - Zheng-Mao Zhu, Xiong-Hui Chen, Hong-Long Tian, Kun Zhang, and Yang Yu. arXiv, 2022.
+- [Incorporating Explicit Uncertainty Estimates into Deep Offline Reinforcement Learning](https://arxiv.org/abs/2206.01085)
+  - David Brandfonbrener, Remi Tachet des Combes, and Romain Laroche. arXiv, 2022.
+- [When does return-conditioned supervised learning work for offline reinforcement learning?](https://arxiv.org/abs/2206.01079)
+  - David Brandfonbrener, Alberto Bietti, Jacob Buckman, Romain Laroche, and Joan Bruna. arXiv, 2022.
+- [Offline Reinforcement Learning with Differential Privacy](https://arxiv.org/abs/2206.00810)
+  - Dan Qiao and Yu-Xiang Wang. arXiv, 2022.
+- [Know Your Boundaries: The Necessity of Explicit Behavioral Cloning in Offline RL](https://arxiv.org/abs/2206.00695)
+  - Wonjoon Goo and Scott Niekum. arXiv, 2022.
+- [Byzantine-Robust Online and Offline Distributed Reinforcement Learning](https://arxiv.org/abs/2206.00165)
+  - Yiding Chen, Xuezhou Zhang, Kaiqing Zhang, Mengdi Wang, and Xiaojin Zhu. arXiv, 2022.
+- [Model Generation with Provable Coverability for Offline Reinforcement Learning](https://arxiv.org/abs/2206.00316)
+  - Chengxing Jia, Hao Yin, Chenxiao Gao, Tian Xu, Lei Yuan, Zongzhang Zhang, and Yang Yu. arXiv, 2022.
+- [On Gap-dependent Bounds for Offline Reinforcement Learning](https://arxiv.org/abs/2206.00177)
+  - Xinqi Wang, Qiwen Cui, and Simon S. Du. arXiv, 2022.
+- [Provably Efficient Offline Multi-agent Reinforcement Learning via Strategy-wise Bonus](https://arxiv.org/abs/2206.00159)
+  - Qiwen Cui and Simon S. Du. arXiv, 2022.
+- [You Can't Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/abs/2205.15967)
+  - Keiran Paster, Sheila McIlraith, and Jimmy Ba. arXiv, 2022.
+- [Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game](https://arxiv.org/abs/2205.15512)
+  - Wei Xiong, Han Zhong, Chengshuai Shi, Cong Shen, Liwei Wang, and Tong Zhang. arXiv, 2022.
+- [Why So Pessimistic? Estimating Uncertainties for Offline RL through Ensembles, and Why Their Independence Matters](https://arxiv.org/abs/2205.13703)
+  - Seyed Kamyar Seyed Ghasemipour, Shixiang Shane Gu, and Ofir Nachum. arXiv, 2022.
+- [Pessimism in the Face of Confounders: Provably Efficient Offline Reinforcement Learning in Partially Observable Markov Decision Processes](https://arxiv.org/abs/2205.13589)
+  - Miao Lu, Yifei Min, Zhaoran Wang, and Zhuoran Yang. arXiv, 2022.
+- [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241)
+  - Kuang-Huei Lee, Ofir Nachum, Mengjiao Yang, Lisa Lee, Daniel Freeman, Winnie Xu, Sergio Guadarrama, Ian Fischer, Eric Jang, Henryk Michalewski, and Igor Mordatch. arXiv, 2022.
 - [Hierarchical Planning Through Goal-Conditioned Offline Reinforcement Learning](https://arxiv.org/abs/2205.11790)
   - Jinning Li, Chen Tang, Masayoshi Tomizuka, and Wei Zhan. arXiv, 2022.
 - [Distance-Sensitive Offline Reinforcement Learning](https://arxiv.org/abs/2205.11027)
