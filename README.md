@@ -49,6 +49,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Value Memory Graph: A Graph-Structured World Model for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04384)
+  - Deyao Zhu, Li Erran Li, and Mohamed Elhoseiny. arXiv, 2022.
+- [Model-Based Reinforcement Learning Is Minimax-Optimal for Offline Zero-Sum Markov Games](https://arxiv.org/abs/2206.04044)
+  - Yuling Yan, Gen Li, Yuxin Chen, and Jianqing Fan. arXiv, 2022.
+- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://arxiv.org/abs/2206.02829)
+  - Rui Yang, Chenjia Bai, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, and Lei Han. arXiv, 2022.
 - [Offline Reinforcement Learning with Causal Structured World Models](https://arxiv.org/abs/2206.01474)
   - Zheng-Mao Zhu, Xiong-Hui Chen, Hong-Long Tian, Kun Zhang, and Yang Yu. arXiv, 2022.
 - [Incorporating Explicit Uncertainty Estimates into Deep Offline Reinforcement Learning](https://arxiv.org/abs/2206.01085)
@@ -159,6 +165,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Samin Yeasar Arnob, Riashat Islam, and Doina Precup. arXiv, 2022.
 - [Single-Shot Pruning for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15579)
   - Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, and Doina Precup. arXiv, 2022.
+- [On the Role of Discount Factor in Offline Reinforcement Learning](https://arxiv.org/abs/2206.03383)
+  - Hao Hu, Yiqin Yang, Qianchuan Zhao, and Chongjie Zhang. ICML, 2022.
 - [Koopman Q-learning: Offline Reinforcement Learning via Symmetries of Dynamics](https://arxiv.org/abs/2111.01365)
   - Matthias Weissenbacher, Samarth Sinha, Animesh Garg, and Yoshinobu Kawahara. ICML, 2022.
 - [Representation Learning for Online and Offline RL in Low-rank MDPs](https://arxiv.org/abs/2110.04652) [[video](https://m.youtube.com/watch?v=EynREeip-y8s)]
@@ -627,6 +635,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Pessimistic Off-Policy Optimization for Learning to Rank](https://arxiv.org/abs/2206.02593)
+  - Matej Cief, Branislav Kveton, and Michal Kompan. arXiv, 2022.
 - [ARLO: A Framework for Automated Reinforcement Learning](https://arxiv.org/abs/2205.10416)
   - Marco Mussi, Davide Lombarda, Alberto Maria Metelli, Francesco Trovò, and Marcello Restelli. arXiv, 2022.
 - [Pessimism meets VCG: Learning Dynamic Mechanism Design via Offline Reinforcement Learning](https://arxiv.org/abs/2205.02450)
@@ -778,6 +788,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ruihao Zhu and Branislav Kveton. AISTATS, 2022.
 - [Off-Policy Evaluation in Embedded Spaces](https://arxiv.org/abs/2203.02807)
   - Jaron J. R. Lee, David Arbour, and Georgios Theocharous. arXiv, 2022.
+- [Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/abs/2206.04405)
+  - Muhammad Faaiz Taufiq, Jean-Francois Ton, Rob Cornish, Yee Whye Teh, and Arnaud Doucet. arXiv, 2022.
 - [Variance-Optimal Augmentation Logging for Counterfactual Evaluation in Contextual Bandits](https://arxiv.org/abs/2202.01721)
   - Aaron David Tucker and Thorsten Joachims. arXiv, 2022.
 - [Safe Exploration for Efficient Policy Evaluation and Comparison](https://arxiv.org/abs/2202.13234)
