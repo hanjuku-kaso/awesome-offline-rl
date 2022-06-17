@@ -49,6 +49,18 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Regularizing a Model-based Policy Stationary Distribution to Stabilize Offline Reinforcement Learning](https://arxiv.org/abs/2206.07166)
+  - Shentao Yang, Yihao Feng, Shujian Zhang, and Mingyuan Zhou. arXiv, 2022.
+- [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
+  - Benjamin Eysenbach, Tianjun Zhang, Ruslan Salakhutdinov, and Sergey Levine. arXiv, 2022.
+- [Federated Offline Reinforcement Learning](https://arxiv.org/abs/2206.05581)
+  - Doudou Zhou, Yufeng Zhang, Aaron Sonabend-W, Zhaoran Wang, Junwei Lu, and Tianxi Cai. arXiv, 2022.
+- [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745)
+  - Jiafei Lyu, Xiaoteng Ma, Xiu Li, and Zongqing Lu. arXiv, 2022.
+- [Provable Benefit of Multitask Representation Learning in Reinforcement Learning](https://arxiv.org/abs/2206.05900)
+  - Yuan Cheng, Songtao Feng, Jing Yang, Hong Zhang, and Yingbin Liang. arXiv, 2022
+- [Provably Efficient Offline Reinforcement Learning with Trajectory-Wise Reward](https://arxiv.org/abs/2206.06426)
+  - Tengyu Xu and Yingbin Liang. arXiv, 2022.
 - [Value Memory Graph: A Graph-Structured World Model for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04384)
   - Deyao Zhu, Li Erran Li, and Mohamed Elhoseiny. arXiv, 2022.
 - [Model-Based Reinforcement Learning Is Minimax-Optimal for Offline Zero-Sum Markov Games](https://arxiv.org/abs/2206.04044)
@@ -635,6 +647,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective](https://arxiv.org/abs/2206.07353)
+  - Xin Xin, Tiago Pimentel, Alexandros Karatzoglou, Pengjie Ren, Konstantina Christakopoulou, and Zhaochun Ren. arXiv, 2022.
+- [Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations](https://arxiv.org/abs/2206.04779)
+  - Cong Lu, Philip J. Ball, Tim G. J. Rudner, Jack Parker-Holder, Michael A. Osborne, and Yee Whye Teh. arXiv, 2022.
 - [Pessimistic Off-Policy Optimization for Learning to Rank](https://arxiv.org/abs/2206.02593)
   - Matej Cief, Branislav Kveton, and Michal Kompan. arXiv, 2022.
 - [ARLO: A Framework for Automated Reinforcement Learning](https://arxiv.org/abs/2205.10416)
@@ -898,6 +914,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 #### Reinforcement Learning
 - [Off-Policy Risk Assessment for Markov Decision Processes](https://proceedings.mlr.press/v151/huang22b)
   - Audrey Huang, Liu Leqi, Zachary Lipton, and Kamyar Azizzadenesheli. AISTATS, 2022.
+- [Sample Complexity of Nonparametric Off-Policy Evaluation on Low-Dimensional Manifolds using Deep Networks](https://arxiv.org/abs/2206.02887)
+  - Xiang Ji, Minshuo Chen, Mengdi Wang, and Tuo Zhao. arXiv, 2022.
 - [A Sharp Characterization of Linear Estimators for Offline Policy Evaluation](https://arxiv.org/abs/2203.04236)
   - Juan C. Perdomo, Akshay Krishnamurthy, Peter Bartlett, and Sham Kakade. arXiv, 2022.
 - [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574) [[code](https://github.com/RunzheStat/CausalMARL)]
