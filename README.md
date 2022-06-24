@@ -39,6 +39,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Rafael Figueiredo Prudencio, Marcos R. O. A. Maximo, and Esther Luna Colombini. arXiv, 2022.
 - [Deep Reinforcement Learning: Opportunities and Challenges](https://arxiv.org/abs/2202.11296)
   - Yuxi Li. arXiv, 2022.
+- [A Survey on Model-based Reinforcement Learning](https://arxiv.org/abs/2206.09328)
+  - Fan-Ming Luo, Tian Xu, Hang Lai, Xiong-Hui Chen, Weinan Zhang, and Yang Yu. arXiv, 2022.
 - [Survey on Fair Reinforcement Learning: Theory and Practice](https://arxiv.org/abs/2205.10032)
   - Pratik Gajane, Akrati Saxena, Maryam Tavakol, George Fletcher, and Mykola Pechenizkiy. arXiv, 2022.
 - [Accelerating Offline Reinforcement Learning Application in Real-Time Bidding and Recommendation: Potential Use of Simulation](https://arxiv.org/abs/2109.08331)
@@ -49,8 +51,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
-- [Regularizing a Model-based Policy Stationary Distribution to Stabilize Offline Reinforcement Learning](https://arxiv.org/abs/2206.07166)
-  - Shentao Yang, Yihao Feng, Shujian Zhang, and Mingyuan Zhou. arXiv, 2022.
+- [Behavior Transformers: Cloning k modes with one stone](https://arxiv.org/abs/2206.11251)
+  - Nur Muhammad Mahi Shafiullah, Zichen Jeff Cui, Ariuntuya Altanzaya, and Lerrel Pinto. arXiv, 2022.
+- [Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination](https://arxiv.org/abs/2206.07989)
+  - Jiafei Lyu, Xiu Li, and Zongqing Lu. arXiv, 2022.
+- [Bootstrapped Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2206.08569)
+  - Kerong Wang, Hanye Zhao, Xufang Luo, Kan Ren, Weinan Zhang, and Dongsheng Li. arXiv, 2022.
 - [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
   - Benjamin Eysenbach, Tianjun Zhang, Ruslan Salakhutdinov, and Sergey Levine. arXiv, 2022.
 - [Federated Offline Reinforcement Learning](https://arxiv.org/abs/2206.05581)
@@ -177,6 +183,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Samin Yeasar Arnob, Riashat Islam, and Doina Precup. arXiv, 2022.
 - [Single-Shot Pruning for Offline Reinforcement Learning](https://arxiv.org/abs/2112.15579)
   - Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, and Doina Precup. arXiv, 2022.
+- [Regularizing a Model-based Policy Stationary Distribution to Stabilize Offline Reinforcement Learning](https://arxiv.org/abs/2206.07166)
+  - Shentao Yang, Yihao Feng, Shujian Zhang, and Mingyuan Zhou. ICML, 2022.
 - [On the Role of Discount Factor in Offline Reinforcement Learning](https://arxiv.org/abs/2206.03383)
   - Hao Hu, Yiqin Yang, Qianchuan Zhao, and Chongjie Zhang. ICML, 2022.
 - [Koopman Q-learning: Offline Reinforcement Learning via Symmetries of Dynamics](https://arxiv.org/abs/2111.01365)
@@ -647,6 +655,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Offline RL for Natural Language Generation with Implicit Language Q Learning](https://arxiv.org/abs/2206.11871)
+  - Charlie Snell, Ilya Kostrikov, Yi Su, Mengjiao Yang, and Sergey Levine. arXiv, 2022.
+- [Learning Optimal Treatment Strategies for Sepsis Using Offline Reinforcement Learning in Continuous Space](https://arxiv.org/abs/2206.11190)
+  - Zeyu Wang, Huiying Zhao, Peng Ren, Yuxi Zhou, and Ming Sheng. arXiv, 2022.
 - [Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective](https://arxiv.org/abs/2206.07353)
   - Xin Xin, Tiago Pimentel, Alexandros Karatzoglou, Pengjie Ren, Konstantina Christakopoulou, and Zhaochun Ren. arXiv, 2022.
 - [Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations](https://arxiv.org/abs/2206.04779)
@@ -942,6 +954,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Simon P. Shen, Yecheng Jason Ma, Omer Gottesman, and Finale Doshi-Velez. ICML, 2021.
 - [Bootstrapping Fitted Q-Evaluation for Off-Policy Inference](http://proceedings.mlr.press/v139/hao21b.html)
   - Botao Hao, Xiang Ji, Yaqi Duan, Hao Lu, Csaba Szepesvari, and Mengdi Wang. ICML, 2021.
+- [Deeply-Debiased Off-Policy Interval Estimation](https://arxiv.org/abs/2105.04646)
+  - Chengchun Shi, Runzhe Wan, Victor Chernozhukov, and Rui Song. ICML, 2021.
 - [Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)
   - Michael R. Zhang, Tom Le Paine, Ofir Nachum, Cosmin Paduraru, George Tucker, Ziyu Wang, Mohammad Norouzi. ICLR, 2021.
 - [Minimax Model Learning](http://www.yisongyue.com/publications/aistats2021_mml.pdf)
@@ -1170,7 +1184,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Scott Fujimoto. TalkRL, 2019.
 
 ## Related Workshops
-- [Causality, Counterfactuals, Sequential Decision-Making & Reinforcement Learning (RecSys 2022)](https://sites.google.com/view/consequences2022/home?authuser=0)
+- [Causality, Counterfactuals, Sequential Decision-Making & Reinforcement Learning (RecSys 2022)](https://sites.google.com/view/consequences2022)
 - [Offline Reinforcement Learning (NeurIPS 2021)](https://offline-rl-neurips.github.io/2021/)
 - [Reinforcement Learning for Real Life (ICML 2021)](https://sites.google.com/view/RL4RealLife)
 - [Reinforcement Learning Day 2021](https://www.microsoft.com/en-us/research/event/reinforcement-learning-day-2021/)
@@ -1190,6 +1204,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yunzong Xu. RL Theory Seminar2022.
 - [Safe Policy Learning through Extrapolation: Application to Pre-trial Risk Assessment](https://www.youtube.com/watch?v=Gd2-MxJQTKA)
   - Kosuke Imai. Online Causal Inference Seminar2022.
+- [Planning with Reinforcement Learning](https://www.youtube.com/watch?v=T39xkKN7uwo)
+  - Sergey Levine. 2022.
 - [Imitation learning vs. offline reinforcement learning](https://www.youtube.com/watch?v=sVPm7zOrBxM)
   - Sergey Levine. 2022.
 - [Tutorial on the Foundations of Offline Reinforcement Learning](https://www.youtube.com/watch?app=desktop&v=lH9DzugrejY)
