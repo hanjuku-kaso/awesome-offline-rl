@@ -51,6 +51,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Branch Ranking for Efficient Mixed-Integer Programming via Offline Ranking-based Policy Learning](https://arxiv.org/abs/2207.13701)
+  - Zeren Huang, Wenhao Chen, Weinan Zhang, Chuhan Shi, Furui Liu, Hui-Ling Zhen, Mingxuan Yuan, Jianye Hao, Yong Yu, and Jun Wang. arXiv, 2022.
+- [Offline Reinforcement Learning at Multiple Frequencies](https://arxiv.org/abs/2207.13082) [[webpage](https://sites.google.com/stanford.edu/adaptive-nstep-returns/)]
+  - Kaylee Burns, Tianhe Yu, Chelsea Finn, and Karol Hausman. arXiv, 2022.
 - [Offline Equilibrium Finding](https://arxiv.org/abs/2207.05285)
   - Shuxin Li, Xinrun Wang, Jakub Cerny, Youzhi Zhang, Hau Chan, and Bo An. arXiv, 2022.
 - [General Policy Evaluation and Improvement by Learning to Identify Few But Crucial States](https://arxiv.org/abs/2207.01566)
@@ -677,6 +681,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [BCRLSP: An Offline Reinforcement Learning Framework for Sequential Targeted Promotion](https://arxiv.org/abs/2207.07790)
+  - Fanglin Chen, Xiao Liu, Bo Tang, Feiyu Xiong, Serim Hwang, and Guomian Zhuang. arXiv, 2022.
 - [An Empirical Study of Implicit Regularization in Deep Offline RL](https://arxiv.org/abs/2207.02099)
   - Caglar Gulcehre, Srivatsan Srinivasan, Jakub Sygnowski, Georg Ostrovski, Mehrdad Farajtabar, Matt Hoffman, Razvan Pascanu, and Arnaud Doucet. arXiv, 2022.
 - [Offline RL for Natural Language Generation with Implicit Language Q Learning](https://arxiv.org/abs/2206.11871)
@@ -966,6 +972,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Ruiqi Zhang, Xuezhou Zhang, Chengzhuo Ni, and Mengdi Wang. ICML, 2022.
 - [Off-Policy Risk Assessment for Markov Decision Processes](https://proceedings.mlr.press/v151/huang22b)
   - Audrey Huang, Liu Leqi, Zachary Lipton, and Kamyar Azizzadenesheli. AISTATS, 2022.
+- [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/abs/2207.13081)
+  - Masatoshi Uehara, Haruka Kiyohara, Andrew Bennett, Victor Chernozhukov, Nan Jiang, Nathan Kallus, Chengchun Shi, and Wen Sun. arXiv, 2022.
 - [Sample Complexity of Nonparametric Off-Policy Evaluation on Low-Dimensional Manifolds using Deep Networks](https://arxiv.org/abs/2206.02887)
   - Xiang Ji, Minshuo Chen, Mengdi Wang, and Tuo Zhao. arXiv, 2022.
 - [A Sharp Characterization of Linear Estimators for Offline Policy Evaluation](https://arxiv.org/abs/2203.04236)
@@ -1218,6 +1226,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Scott Fujimoto. TalkRL, 2019.
 
 ## Related Workshops
+- [Offline Reinforcement Learning (NeurIPS 2022)](https://offline-rl-neurips.github.io/2022/)
+- [Reinforcement Learning for Real Life (NeurIPS 2022)](https://sites.google.com/view/RL4RealLife)
 - [Causality, Counterfactuals, Sequential Decision-Making & Reinforcement Learning (RecSys 2022)](https://sites.google.com/view/consequences2022)
 - [Offline Reinforcement Learning (NeurIPS 2021)](https://offline-rl-neurips.github.io/2021/)
 - [Reinforcement Learning for Real Life (ICML 2021)](https://sites.google.com/view/RL4RealLife)
