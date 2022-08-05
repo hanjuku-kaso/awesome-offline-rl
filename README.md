@@ -51,6 +51,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [AdaCat: Adaptive Categorical Discretization for Autoregressive Models](https://arxiv.org/abs/2208.02246)
+  - Qiyang Li, Ajay Jain, and Pieter Abbeel. arXiv, 2022.
+- [Boosted Off-Policy Learning](https://arxiv.org/abs/2208.01148)
+  - Ben London, Levi Lu, Ted Sandler, and Thorsten Joachims. arXiv, 2022.
 - [Branch Ranking for Efficient Mixed-Integer Programming via Offline Ranking-based Policy Learning](https://arxiv.org/abs/2207.13701)
   - Zeren Huang, Wenhao Chen, Weinan Zhang, Chuhan Shi, Furui Liu, Hui-Ling Zhen, Mingxuan Yuan, Jianye Hao, Yong Yu, and Jun Wang. arXiv, 2022.
 - [Offline Reinforcement Learning at Multiple Frequencies](https://arxiv.org/abs/2207.13082) [[webpage](https://sites.google.com/stanford.edu/adaptive-nstep-returns/)]
@@ -681,6 +685,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [A Maintenance Planning Framework using Online and Offline Deep Reinforcement Learning](https://arxiv.org/abs/2208.00808)
+  - Zaharah A. Bukhsh, Nils Jansen, and Hajo Molegraaf. arXiv, 2022.
 - [BCRLSP: An Offline Reinforcement Learning Framework for Sequential Targeted Promotion](https://arxiv.org/abs/2207.07790)
   - Fanglin Chen, Xiao Liu, Bo Tang, Feiyu Xiong, Serim Hwang, and Guomian Zhuang. arXiv, 2022.
 - [An Empirical Study of Implicit Regularization in Deep Offline RL](https://arxiv.org/abs/2207.02099)
@@ -848,6 +854,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Yuta Saito and Thorsten Joachims. ICML, 2022.
 - [Safe Optimal Design with Applications in Off-Policy Learning](https://arxiv.org/abs/2111.04835)
   - Ruihao Zhu and Branislav Kveton. AISTATS, 2022.
+- [Towards Robust Off-Policy Evaluation via Human Inputs](https://dl.acm.org/doi/10.1145/3514094.3534198)
+  - Harvineet Singh, Shalmali Joshi, Finale Doshi-Velez, and Himabindu Lakkaraju. AIES, 2022.
 - [Off-Policy Evaluation in Embedded Spaces](https://arxiv.org/abs/2203.02807)
   - Jaron J. R. Lee, David Arbour, and Georgios Theocharous. arXiv, 2022.
 - [Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/abs/2206.04405)
