@@ -51,6 +51,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Fast Offline Policy Optimization for Large Scale Recommendation](https://arxiv.org/abs/2208.05327)
+  - Otmane Sakhi, David Rohde, and Alexandre Gilotte. arXiv, 2022.
+- [Robust Reinforcement Learning using Offline Data](https://arxiv.org/abs/2208.05767)
+  - Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, and Mohammad Ghavamzadeh. arXiv, 2022.
+- [Distributionally Robust Model-Based Offline Reinforcement Learning with Near-Optimal Sample Complexity](https://arxiv.org/abs/2208.05767)
+  - Laixi Shi and Yuejie Chi. arXIv, 2022.
 - [AdaCat: Adaptive Categorical Discretization for Autoregressive Models](https://arxiv.org/abs/2208.02246)
   - Qiyang Li, Ajay Jain, and Pieter Abbeel. arXiv, 2022.
 - [Boosted Off-Policy Learning](https://arxiv.org/abs/2208.01148)
@@ -685,6 +691,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments/Applications
+- [Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems](https://arxiv.org/abs/2208.04560)
+  - Qihua Zhang, Junning Liu, Yuzhuo Dai, Yiyan Qi, Yifan Yuan, Kunlun Zheng, Fan Huang, and Xianfeng Tan. arXiv, 2022.
 - [A Maintenance Planning Framework using Online and Offline Deep Reinforcement Learning](https://arxiv.org/abs/2208.00808)
   - Zaharah A. Bukhsh, Nils Jansen, and Hajo Molegraaf. arXiv, 2022.
 - [BCRLSP: An Offline Reinforcement Learning Framework for Sequential Targeted Promotion](https://arxiv.org/abs/2207.07790)
