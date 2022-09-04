@@ -51,6 +51,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
+- [Strategic Decision-Making in the Presence of Information Asymmetry: Provably Efficient RL with Algorithmic Instruments](https://arxiv.org/abs/2208.11040)
+  - Mengxin Yu, Zhuoran Yang, and Jianqing Fan. arXiv, 2022.
+- [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/abs/2208.06193)
+  - Zhendong Wang, Jonathan J Hunt, and Mingyuan Zhou. arXiv, 2022.
 - [Fast Offline Policy Optimization for Large Scale Recommendation](https://arxiv.org/abs/2208.05327)
   - Otmane Sakhi, David Rohde, and Alexandre Gilotte. arXiv, 2022.
 - [Robust Reinforcement Learning using Offline Data](https://arxiv.org/abs/2208.05767)
@@ -273,6 +277,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Hiroki Furuta, Yutaka Matsuo, and Shixiang Shane Gu. ICLR, 2022.
 - [Model-Based Offline Meta-Reinforcement Learning with Regularization](https://arxiv.org/abs/2202.02929)
   - Sen Lin, Jialin Wan, Tengyu Xu, Yingbin Liang, and Junshan Zhang. ICLR, 2022.
+- [Offline Reinforcement Learning with Representations for Actions](https://www.sciencedirect.com/science/article/abs/pii/S0020025522009033?via%3Dihub)
+  - Xingzhou Lou, Qiyue Yin, Junge Zhang, Chao Yu, Zhaofeng He, Nengjie Cheng, and Kaiqi Huang. Information Sciences, 2022.
 - [Offline Policy Optimization with Eligible Actions](https://arxiv.org/abs/2207.00632)
   - Yao Liu, Yannis Flet-Berliac, and Emma Brunskill. UAI, 2022.
 - [Towards Off-Policy Learning for Ranking Policies with Logged Feedback](https://www.aaai.org/AAAI22Papers/AAAI-8695.XiaoT.pdf)
@@ -735,6 +741,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Phillip Swazinna, Steffen Udluft, Daniel Hein, and Thomas Runkler. arXiv, 2022.
 - [Offline Reinforcement Learning for Road Traffic Control](https://arxiv.org/abs/2201.02381)
   - Mayuresh Kunjir and Sanjay Chawla. arXiv, 2022.
+- [Practical Counterfactual Policy Learning for Top-K Recommendations](https://dl.acm.org/doi/abs/10.1145/3534678.3539295)
+  - Yaxu Liu, Jui-Nan Yen, Bowen Yuan, Rundong Shi, Peng Yan, and Chih-Jen Lin. KDD, 2022.
 - [Multi-objective Optimization of Notifications Using Offline Reinforcement Learning](https://arxiv.org/abs/2207.03029)
   - Prakruthi Prabhakar, Yiping Yuan, Guangyu Yang, Wensheng Sun, and Ajith Muralidharan. KDD, 2022.
 - [Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters](https://arxiv.org/abs/2110.04156)
