@@ -54,8 +54,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
 ### Offline RL: Theory/Methods
-- [Off-Policy Evaluation for Episodic Partially Observable Markov Decision Processes under Non-Parametric Models](https://arxiv.org/abs/2209.10064)
-  - Rui Miao, Zhengling Qi, and Xiaoke Zhang. arXiv, 2022.
+- [Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling](https://arxiv.org/abs/2209.14548)
+  - Huayu Chen, Cheng Lu, Chengyang Ying, Hang Su, and Jun Zhu. arXiv, 2022.
+- [DCE: Offline Reinforcement Learning With Double Conservative Estimates](https://arxiv.org/abs/2209.13132)
+  - Chen Zhao, Kai Xing Huang, and Chun Yuan. arXiv, 2022.
+- [On the Opportunities and Challenges of using Animals Videos in Reinforcement Learning](https://arxiv.org/abs/2209.12347)
+  - Vittorio Giammarino. arXiv, 2022.
 - [Offline Reinforcement Learning with Instrumental Variables in Confounded Markov Decision Processes](https://arxiv.org/abs/2209.08666)
   - Zuyue Fu, Zhengling Qi, Zhaoran Wang, Zhuoran Yang, Yanxun Xu, and Michael R. Kosorok. arXiv, 2022.
 - [Exploiting Reward Shifting in Value-Based Deep RL](https://arxiv.org/abs/2209.07288)
@@ -857,6 +861,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Nathan Kallus, Xiaojie Mao, Kaiwen Wang, and Zhengyuan Zhou. ICML, 2022.
 - [Towards Robust Off-Policy Evaluation via Human Inputs](https://arxiv.org/abs/2209.08682)
   - Harvineet Singh, Shalmali Joshi, Finale Doshi-Velez, and Himabindu Lakkaraju. AIES, 2022.
+- [Off-policy estimation of linear functionals: Non-asymptotic theory for semi-parametric efficiency](https://arxiv.org/abs/2209.13075)
+  - Wenlong Mou, Martin J. Wainwright, and Peter L. Bartlett. arXiv, 2022.
 - [Off-Policy Evaluation in Embedded Spaces](https://arxiv.org/abs/2203.02807)
   - Jaron J. R. Lee, David Arbour, and Georgios Theocharous. arXiv, 2022.
 - [Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/abs/2206.04405)
@@ -957,6 +963,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Audrey Huang, Liu Leqi, Zachary Lipton, and Kamyar Azizzadenesheli. AISTATS, 2022.
 - [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/abs/2207.13081)
   - Masatoshi Uehara, Haruka Kiyohara, Andrew Bennett, Victor Chernozhukov, Nan Jiang, Nathan Kallus, Chengchun Shi, and Wen Sun. arXiv, 2022.
+- [Off-Policy Evaluation for Episodic Partially Observable Markov Decision Processes under Non-Parametric Models](https://arxiv.org/abs/2209.10064)
+  - Rui Miao, Zhengling Qi, and Xiaoke Zhang. arXiv, 2022.
 - [Statistical Estimation of Confounded Linear MDPs: An Instrumental Variable Approach](https://arxiv.org/abs/2209.05186)
   - Miao Lu, Wenhao Yang, Liangyu Zhang, and Zhihua Zhang. arXiv, 2022.
 - [Sample Complexity of Nonparametric Off-Policy Evaluation on Low-Dimensional Manifolds using Deep Networks](https://arxiv.org/abs/2206.02887)
