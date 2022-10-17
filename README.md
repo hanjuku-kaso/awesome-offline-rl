@@ -726,7 +726,7 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Denis Yarats, David Brandfonbrener, Hao Liu, Michael Laskin, Pieter Abbeel, Alessandro Lazaric, and Lerrel Pinto. arXiv, 2022.
 - [The Challenges of Exploration for Offline Reinforcement Learning](https://arxiv.org/abs/2201.11861)
   - Nathan Lambert, Markus Wulfmeier, William Whitney, Arunkumar Byravan, Michael Bloesch, Vibhavari Dasagi, Tim Hertweck, and Martin Riedmiller. arXiv, 2022.
-- [Offline Equilibrium Finding](https://arxiv.org/abs/2207.05285)
+- [Offline Equilibrium Finding](https://arxiv.org/abs/2207.05285) [[code](https://github.com/SecurityGames/oef)]
   - Shuxin Li, Xinrun Wang, Jakub Cerny, Youzhi Zhang, Hau Chan, and Bo An. arXiv, 2022.
 - [Comparing Model-free and Model-based Algorithms for Offline Reinforcement Learning](https://arxiv.org/abs/2201.05433)
   - Phillip Swazinna, Steffen Udluft, Daniel Hein, and Thomas Runkler. arXiv, 2022.
@@ -1291,6 +1291,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Caglar Gulcehre, Ziyu Wang, Alexander Novikov, Tom Le Paine, Sergio Gomez Colmenarejo, Konrad Zolna, Rishabh Agarwal, Josh Merel, Daniel Mankowitz, Cosmin Paduraru, Gabriel Dulac-Arnold, Jerry Li, Mohammad Norouzi, Matt Hoffman, Ofir Nachum, George Tucker, Nicolas Heess, and Nando de Freitas.
 - [V-D4RL: Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations](https://github.com/conglu1997/v-d4rl) [[paper](https://arxiv.org/abs/2206.04779)}
   - Cong Lu, Philip J. Ball, Tim G. J. Rudner, Jack Parker-Holder, Michael A. Osborne, and Yee Whye Teh.
+- [OEF: Offline Equilibrium Finding](https://github.com/SecurityGames/oef) [[paper](https://arxiv.org/abs/2207.05285)]
+  - Shuxin Li, Xinrun Wang, Jakub Cerny, Youzhi Zhang, Hau Chan, and Bo An.
 - [ExORL: Exploratory Data for Offline Reinforcement Learning](https://github.com/denisyarats/exorl) [[paper](https://arxiv.org/abs/2201.13425)]
   - Denis Yarats, David Brandfonbrener, Hao Liu, Michael Laskin, Pieter Abbeel, Alessandro Lazaric, and Lerrel Pinto.
 - [RL4RS: A Real-World Benchmark for Reinforcement Learning based Recommender System](https://github.com/fuxiAIlab/RL4RS) [[paper](https://arxiv.org/abs/2110.11073)] [dataset](https://drive.google.com/file/d/1YbPtPyYrMvMGOuqD4oHvK0epDtEhEb9v/view)]
