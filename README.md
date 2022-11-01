@@ -680,6 +680,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments
+- [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://openreview.net/forum?id=SyAS49bBcv) [[code](https://github.com/tinkoff-ai/CORL)]
+  - Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov and Sergey Kolesnikov. Offline RL Workshop NeurIPS, 2022.
 - [An Empirical Study of Implicit Regularization in Deep Offline RL](https://arxiv.org/abs/2207.02099)
   - Caglar Gulcehre, Srivatsan Srinivasan, Jakub Sygnowski, Georg Ostrovski, Mehrdad Farajtabar, Matt Hoffman, Razvan Pascanu, and Arnaud Doucet. arXiv, 2022.
 - [Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations](https://arxiv.org/abs/2206.04779)
