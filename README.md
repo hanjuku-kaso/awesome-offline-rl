@@ -738,8 +738,6 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Anikait Singh, Aviral Kumar, Quan Vuong, Yevgen Chebotar, and Sergey Levine. arXiv, 2022.
 - [Real World Offline Reinforcement Learning with Realistic Data Source](https://arxiv.org/abs/2210.06479) [[website](https://sites.google.com/view/real-orl)] [[dataset](https://drive.google.com/drive/folders/1nyMPlbwkjsJ_FyMwVp9ynOvz_ykGtbA8)]
   - Gaoyue Zhou, Liyiming Ke, Siddhartha Srinivasa, Abhinav Gupta, Aravind Rajeswaran, and Vikash Kumar. arXiv, 2022.
-- [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) [[code](https://github.com/tinkoff-ai/CORL)]
-  - Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov. arXiv, 2022.
 - [Mind Your Data! Hiding Backdoors in Offline Reinforcement Learning Datasets](https://arxiv.org/abs/2210.04688)
   - Chen Gong, Zhou Yang, Yunpeng Bai, Junda He, Jieke Shi, Arunesh Sinha, Bowen Xu, Xinwen Hou, Guoliang Fan, and David Lo. arXiv, 2022.
 - [B2RL: An open-source Dataset for Building Batch Reinforcement Learning](https://arxiv.org/abs/2209.15626)
@@ -760,6 +758,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Allen Nie, Yannis Flet-Berliac, Deon R. Jordan, William Steenbergen, and Emma Brunskill. NeurIPS, 2022.
 - [Dungeons and Data: A Large-Scale NetHack Dataset](https://arxiv.org/abs/2211.00539)
   - Eric Hambro, Roberta Raileanu, Danielle Rothermel, Vegard Mella, Tim Rocktäschel, Heinrich Küttler, and Naila Murray. NeurIPS, 2022.
+- [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) [[code](https://github.com/tinkoff-ai/CORL)]
+  - Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov. Offline RL Workshop NeurIPS, 2022.
 - [Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters](https://arxiv.org/abs/2110.04156)
   - Vladislav Kurenkov and Sergey Kolesnikov. ICML, 2022.
 - [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) [[software](https://github.com/takuseno/d3rlpy)]
