@@ -68,6 +68,12 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Guoxi Zhang and Hisashi Kashima. AAAI, 2023.
 - [On Instance-Dependent Bounds for Offline Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2211.13208)
   - Thanh Nguyen-Tang, Ming Yin, Sunil Gupta, Svetha Venkatesh, and Raman Arora. AAAI, 2023.
+- [Revisiting the Linear-Programming Framework for Offline RL with General Function Approximation](https://arxiv.org/abs/2212.13861)
+  - Asuman Ozdaglar, Sarath Pattathil, Jiawei Zhang, and Kaiqing Zhang. arXiv, 2022.
+- [Offline Robot Reinforcement Learning with Uncertainty-Guided Human Expert Sampling](https://arxiv.org/abs/2212.08232)
+  - Ashish Kumar and Ilya Kuzovkin. arXiv, 2022.
+- [Latent Variable Representation for Reinforcement Learning](https://arxiv.org/abs/2212.08765)
+  - Tongzheng Ren, Chenjun Xiao, Tianjun Zhang, Na Li, Zhaoran Wang, Sujay Sanghavi, Dale Schuurmans, and Bo Dai. arXiv, 2022.
 - [Confidence-Conditioned Value Functions for Offline Reinforcement Learning](https://arxiv.org/abs/2212.04607)
   - Joey Hong, Aviral Kumar, and Sergey Levine. arXiv, 2022.
 - [One Risk to Rule Them All: A Risk-Sensitive Perspective on Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2212.00124)
@@ -872,6 +878,8 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Scott Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, and Joelle Pineau. arXiv, 2019.
 
 ### Offline RL: Applications
+- [Offline Reinforcement Learning for Visual Navigation](https://arxiv.org/abs/2212.08244) [[website](https://sites.google.com/view/revind/home)] [[code](https://github.com/arjunbhorkar/ReViND)]
+  - Dhruv Shah, Arjun Bhorkar, Hrish Leen, Ilya Kostrikov, Nick Rhinehart, and Sergey Levine. CoRL, 2022.
 - [Can Offline Reinforcement Learning Help Natural Language Understanding?](https://arxiv.org/abs/2212.03864)
   - Ziqi Zhang, Yile Wang, Yue Zhang, and Donglin Wang. arXiv, 2022.
 - [NeurIPS 2022 Competition: Driving SMARTS](https://arxiv.org/abs/2211.07545)
@@ -1149,8 +1157,14 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Audrey Huang, Liu Leqi, Zachary Lipton, and Kamyar Azizzadenesheli. AISTATS, 2022.
 - [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/abs/2207.13081)
   - Masatoshi Uehara, Haruka Kiyohara, Andrew Bennett, Victor Chernozhukov, Nan Jiang, Nathan Kallus, Chengchun Shi, and Wen Sun. arXiv, 2022.
+- [Offline Reinforcement Learning for Human-Guided Human-Machine Interaction with Private Information](https://arxiv.org/abs/2212.12167)
+  - Zuyue Fu, Zhengling Qi, Zhuoran Yang, Zhaoran Wang, and Lan Wang. arXiv, 2022.
 - [Offline Policy Evaluation and Optimization under Confounding](https://arxiv.org/abs/2211.16583)
   - Kevin Tan, Yangyi Lu, Chinmaya Kausik, YIxin Wang, and Ambuj Tewari. arXiv, 2022.
+- [Bridging the Gap Between Offline and Online Reinforcement Learning Evaluation Methodologies](https://arxiv.org/abs/2212.08131)
+  - Shivakanth Sujit, Pedro H. M. Braga, Jorg Bornschein, and Samira Ebrahimi Kahou. arXiv, 2022.
+- [Safe Evaluation For Offline Learning: Are We Ready To Deploy?](https://arxiv.org/abs/2212.08302)
+  - Hager Radi, Josiah P. Hanna, Peter Stone, and Matthew E. Taylor. arXiv, 2022.
 - [Low Variance Off-policy Evaluation with State-based Importance Sampling](https://arxiv.org/abs/2212.03932)
   - David M. Bossens and Philip Thomas. arXiv, 2022.
 - [Statistical Estimation of Confounded Linear MDPs: An Instrumental Variable Approach](https://arxiv.org/abs/2209.05186)
@@ -1327,6 +1341,10 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
   - Xiangmeng Wang, Qian Li, Dianer Yu, Zhichao Wang, Hongxu Chen, and Guandong Xu. SIGIR, 2022.
 - [Multi-Task Off-Policy Learning from Bandit Feedback](https://arxiv.org/abs/2212.04720)
   - Joey Hong, Branislav Kveton, Sumeet Katariya, Manzil Zaheer, and Mohammad Ghavamzadeh. arXiv, 2022.
+- [Local Policy Improvement for Recommender Systems](https://arxiv.org/abs/2212.11431)
+  - Dawen Liang and Nikos Vlassis. arXiv, 2022.
+- [Policy learning "without" overlap: Pessimism and generalized empirical Bernstein's inequality](https://arxiv.org/abs/2212.09900)
+  - Ying Jin, Zhimei Ren, Zhuoran Yang, and Zhaoran Wang. arXiv, 2022.
 - [Fast Offline Policy Optimization for Large Scale Recommendation](https://arxiv.org/abs/2208.05327)
   - Otmane Sakhi, David Rohde, and Alexandre Gilotte. arXiv, 2022.
 - [Practical Counterfactual Policy Learning for Top-K Recommendations](https://dl.acm.org/doi/abs/10.1145/3534678.3539295)
