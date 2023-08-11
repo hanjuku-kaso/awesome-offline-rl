@@ -1867,7 +1867,7 @@ For any questions, feel free to contact: saito@hanjuku-kaso.com
   - Takuma Seno and Michita Imai.
 - [Minari](https://github.com/Farama-Foundation/Minari)
   - Farama Foundation.
-- [CORL: Clean Offline Reinforcement Learning](https://github.com/tinkoff-ai/CORL) [[paper](https://arxiv.org/abs/2210.07105)]
+- [CORL: Clean Offline Reinforcement Learning](https://github.com/corl-team/CORL) [[paper](https://arxiv.org/abs/2210.07105)]
   - Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov.
 - [COBS: Caltech OPE Benchmarking Suite](https://github.com/clvoloshin/COBS) [[paper](https://arxiv.org/abs/1911.06854)]
   - Cameron Voloshin, Hoang M. Le, Nan Jiang, and Yisong Yue.
