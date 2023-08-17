@@ -1142,7 +1142,7 @@ For any questions, feel free to contact: saito@hanjuku-kaso.com
   - Shayegan Omidshafiei, Andrei Kapishnikov, Yannick Assogba, Lucas Dixon, and Been Kim. NeurIPS, 2022.
 - [On the Effect of Pre-training for Transformer in Different Modality on Offline Reinforcement Learning](https://openreview.net/forum?id=9GXoMs__ckJ)
   - Shiro Takagi. NeurIPS, 2022.
-- [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) [[code](https://github.com/tinkoff-ai/CORL)]
+- [CORL: Research-oriented Deep Offline Reinforcement Learning Library](https://arxiv.org/abs/2210.07105) [[code](https://github.com/corl-team/CORL)]
   - Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov. Offline RL Workshop NeurIPS, 2022.
 - [Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters](https://arxiv.org/abs/2110.04156)
   - Vladislav Kurenkov and Sergey Kolesnikov. ICML, 2022.
@@ -1867,7 +1867,7 @@ For any questions, feel free to contact: saito@hanjuku-kaso.com
   - Takuma Seno and Michita Imai.
 - [Minari](https://github.com/Farama-Foundation/Minari)
   - Farama Foundation.
-- [CORL: Clean Offline Reinforcement Learning](https://github.com/tinkoff-ai/CORL) [[paper](https://arxiv.org/abs/2210.07105)]
+- [CORL: Clean Offline Reinforcement Learning](https://github.com/corl-team/CORL) [[paper](https://arxiv.org/abs/2210.07105)]
   - Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, and Sergey Kolesnikov.
 - [COBS: Caltech OPE Benchmarking Suite](https://github.com/clvoloshin/COBS) [[paper](https://arxiv.org/abs/1911.06854)]
   - Cameron Voloshin, Hoang M. Le, Nan Jiang, and Yisong Yue.
