@@ -78,6 +78,8 @@ For any questions, feel free to contact: saito@hanjuku-kaso.com
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
+  - Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, and Sepp Hochreiter. NeurIPS, 2023.
 - [Multi-Objective Decision Transformers for Offline Reinforcement Learning](https://arxiv.org/abs/2308.16379)
   - Abdelghani Ghanem, Philippe Ciblat, and Mounir Ghogho. arXiv, 2023.
 - [AlphaStar Unplugged: Large-Scale Offline Reinforcement Learning](https://arxiv.org/abs/2308.03526)
