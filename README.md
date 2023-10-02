@@ -258,6 +258,8 @@ For any questions, feel free to contact: saito@hanjuku-kaso.com
   - Riashat Islam, Samarth Sinha, Homanga Bharadhwaj, Samin Yeasar Arnob, Zhuoran Yang, Animesh Garg, Zhaoran Wang, Lihong Li, and Doina Precup. arXiv, 2023.
 - [Transformer in Transformer as Backbone for Deep Reinforcement Learning](https://arxiv.org/abs/2212.14538)
   - Hangyu Mao, Rui Zhao, Hao Chen, Jianye Hao, Yiqun Chen, Dong Li, Junge Zhang, and Zhen Xiao. arXiv, 2023.
+- [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
+  - Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, and Sepp Hochreiter. NeurIPS, 2023.
 - [Counterfactual Conservative Q Learning for Offline Multi-agent Reinforcement Learning](https://arxiv.org/abs/2309.12696)
   - Jianzhun Shao, Yun Qu, Chen Chen, Hongchang Zhang, and Xiangyang Ji. NeurIPS, 2023.
 - [Hierarchical Diffusion for Offline Decision Making](https://openreview.net/forum?id=55kLa7tH9o)
