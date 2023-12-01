@@ -78,6 +78,22 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Projected Off-Policy Q-Learning (POP-QL) for Stabilizing Offline Reinforcement Learning](https://arxiv.org/abs/2311.14885)
+  - Melrose Roderick, Gaurav Manek, Felix Berkenkamp, and J. Zico Kolter. arXiv, 2023.
+- [Offline Data Enhanced On-Policy Policy Gradient with Provable Guarantees](https://arxiv.org/abs/2311.08384)
+  - Yifei Zhou, Ayush Sekhari, Yuda Song, and Wen Sun. arXiv, 2023.
+- [Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning](https://arxiv.org/abs/2203.07413)
+  - Qinjie Lin, Han Liu, and Biswa Sengupta. arXiv, 2023.
+- [Hierarchical Decision Transformer](https://arxiv.org/abs/2209.10447)
+  - André Correia and Luís A. Alexandre. arXiv, 2023.
+- [Prompt-Tuning Decision Transformer with Preference Ranking](https://arxiv.org/abs/2305.09648)
+  - Shengchao Hu, Li Shen, Ya Zhang, and Dacheng Tao. arXiv, 2023.
+- [Context Shift Reduction for Offline Meta-Reinforcement Learning](https://arxiv.org/abs/2311.03695)
+  - Yunkai Gao, Rui Zhang, Jiaming Guo, Fan Wu, Qi Yi, Shaohui Peng, Siming Lan, Ruizhi Chen, Zidong Du, Xing Hu, Qi Guo, Ling Li, and Yunji Chen. arXiv, 2023.
+- [Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization](https://arxiv.org/abs/2311.03351)
+  - Kun Lei, Zhengmao He, Chenhao Lu, Kaizhe Hu, Yang Gao, and Huazhe Xu. arXiv, 2023.
+- [Score Models for Offline Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2311.02013)
+  - Harshit Sikchi, Rohan Chitnis, Ahmed Touati, Alborz Geramifard, Amy Zhang, and Scott Niekum. arXiv, 2023.
 - [Offline RL with Observation Histories: Analyzing and Improving Sample Complexity](https://arxiv.org/abs/2310.20663)
   - Joey Hong, Anca Dragan, and Sergey Levine. arXiv, 2023.
 - [Expressive Modeling Is Insufficient for Offline RL: A Tractable Inference Perspective](https://arxiv.org/abs/2311.00094)
@@ -304,6 +320,8 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Hangyu Mao, Rui Zhao, Hao Chen, Jianye Hao, Yiqun Chen, Dong Li, Junge Zhang, and Zhen Xiao. arXiv, 2023.
 - [Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2310.17966)
   - Shenzhi Wang, Qisen Yang, Jiawei Gao, Matthieu Gaetan Lin, Hao Chen, Liwei Wu, Ning Jia, Shiji Song, and Gao Huang. NeurIPS, 2023.
+- [AlberDICE: Addressing Out-Of-Distribution Joint Actions in Offline Multi-Agent RL via Alternating Stationary Distribution Correction Estimation](https://arxiv.org/abs/2311.02194)
+  - Daiki E. Matsunaga, Jongmin Lee, Jaeseok Yoon, Stefanos Leonardos, Pieter Abbeel, and Kee-Eung Kim. arXiv, 2023.
 - [Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets](https://arxiv.org/abs/2310.04413)
   - Zhang-Wei Hong, Aviral Kumar, Sathwik Karnik, Abhishek Bhandwaldar, Akash Srivastava, Joni Pajarinen, Romain Laroche, Abhishek Gupta, and Pulkit Agrawal. NeurIPS, 2023.
 - [Understanding, Predicting and Better Resolving Q-Value Divergence in Offline-RL](https://arxiv.org/abs/2310.04411)
@@ -332,7 +350,7 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Juncheng Dong, Weibin Mo, Zhengling Qi, Cong Shi, Ethan X Fang, and Vahid Tarokh. ICML, 2023.
 - [Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning](https://openreview.net/forum?id=LucUrr5kUi)
   - Cheng Lu, Huayu Chen, Jianfei Chen, Hang Su, Chongxuan Li, and Jun Zhu. ICML, 2023.
-- [Supported Trust Region Optimization for Offline Reinforcement Learning](https://openreview.net/forum?id=F6gApN2CVs)
+- [Supported Trust Region Optimization for Offline Reinforcement Learning](https://arxiv.org/abs/2311.08935)
   - Yixiu Mao, Hongchang Zhang, Chen Chen, Yi Xu, and Xiangyang Ji. ICML, 2023.
 - [Principled Offline RL in the Presence of Rich Exogenous Information](https://openreview.net/forum?id=jTcRlAAO01)
   - Riashat Islam, Manan Tomar, Alex Lamb, Yonathan Efroni, Hongyu Zang, Aniket Rajiv Didolkar, Dipendra Misra, Xin Li, Harm van Seijen, Remi Tachet des Combes, and John Langford. ICML, 2023.
@@ -774,7 +792,7 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Ioannis Antonoglou, Julian Schrittwieser, Sherjil Ozair, Thomas K Hubert, and David Silver. ICLR, 2022.
 - [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/abs/2110.09796)
   - Xiaoteng Ma, Yiqin Yang, Hao Hu, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, and Bin Liang. ICLR, 2022.
-- [Should I Run Offline Reinforcement Learning or Behavioral Cloning?](https://openreview.net/forum?id=AP1MKT37rJ)
+- [When Should We Prefer Offline Reinforcement Learning Over Behavioral Cloning?](https://arxiv.org/abs/2204.05618)
   - Aviral Kumar, Joey Hong, Anikait Singh, and Sergey Levine. ICLR, 2022.
 - [Learning Value Functions from Undirected State-only Experience](https://arxiv.org/abs/2204.12458) [[website](https://matthewchang.github.io/latent_action_qlearning_site/)] [[code](https://github.com/arjung128/laq)]
   - Matthew Chang, Arjun Gupta, and Saurabh Gupta. ICLR, 2022.
@@ -1196,6 +1214,8 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Doina Precup, Richard S. Sutton, and Sanjoy Dasgupta. ICML, 2001.
 
 ### Offline RL: Benchmarks/Experiments
+- [LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models](https://arxiv.org/abs/2311.18232)
+  - Marwa Abdulhai, Isadora White, Charlie Snell, Charles Sun, Joey Hong, Yuexiang Zhai, Kelvin Xu, and Sergey Levine. arXiv, 2023.
 - [ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning](https://arxiv.org/abs/2309.03081)
   - Linkang Du, Min Chen, Mingyang Sun, Shouling Ji, Peng Cheng, Jiming Chen, and Zhikun Zhang. NDSS, 2024.
 - [Robotic Manipulation Datasets for Offline Compositional Reinforcement Learning](https://arxiv.org/abs/2307.13372)
@@ -1268,6 +1288,16 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Scott Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, and Joelle Pineau. arXiv, 2019.
 
 ### Offline RL: Applications
+- [Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning](https://arxiv.org/abs/2311.18094)
+  - Franco Terranova, M. Voetberg, Brian Nord, and Amanda Pagul. arXiv, 2023.
+- [A Fully Data-Driven Approach for Realistic Traffic Signal Control Using Offline Reinforcement Learning](https://arxiv.org/abs/2311.15920)
+  - Jianxiong Li, Shichao Lin, Tianyu Shi, Chujie Tian, Yu Mei, Jian Song, Xianyuan Zhan, and Ruimin Li. arXiv, 2023.
+- [Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets](https://arxiv.org/abs/2311.11423)
+  - Kun Yang, Cong Shen, Jing Yang, Shu-ping Yeh, and Jerry Sydir. arXiv, 2023.
+- [STEER: Unified Style Transfer with Expert Reinforcement](https://arxiv.org/abs/2311.07167)
+  - Skyler Hallinan, Faeze Brahman, Ximing Lu, Jaehun Jung, Sean Welleck, and Yejin Choi. arXiv, 2023.
+- [Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations](https://arxiv.org/abs/2311.05584)
+  - Joey Hong, Sergey Levine, and Anca Dragan. arXiv, 2023.
 - [Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning](https://arxiv.org/abs/2310.15145)
   - Jingyun Yang, Max Sobol Mark, Brandon Vu, Archit Sharma, Jeannette Bohg, and Chelsea Finn. arXiv, 2023.
 - [Offline Reinforcement Learning for Optimizing Production Bidding Policies](https://arxiv.org/abs/2310.09426)
@@ -1360,6 +1390,10 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Aviral Kumar, Anikait Singh, Frederik Ebert, Yanlai Yang, Chelsea Finn, and Sergey Levine. arXiv, 2022.
 - [Towards Safe Mechanical Ventilation Treatment Using Deep Offline Reinforcement Learning](https://arxiv.org/abs/2210.02552)
   - Flemming Kondrup, Thomas Jiralerspong, Elaine Lau, Nathan de Lara, Jacob Shkrob, My Duc Tran, Doina Precup, and Sumana Basu. IAAI, 2023.
+- [Learning-to-defer for sequential medical decision-making under uncertainty](https://arxiv.org/abs/2109.06312)
+  - Shalmali Joshi, Sonali Parbhoo, and Finale Doshi-Velez. TMLR, 2023.
+- [Imitation Is Not Enough: Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios](https://arxiv.org/abs/2212.11419)
+  - Yiren Lu, Justin Fu, George Tucker, Xinlei Pan, Eli Bronstein, Rebecca Roelofs, Benjamin Sapp, Brandyn White, Aleksandra Faust, Shimon Whiteson, Dragomir Anguelov, and Sergey Levine. arXiv, 2022.
 - [Dialogue Evaluation with Offline Reinforcement Learning](https://arxiv.org/abs/2209.00876)
   - Nurul Lubis, Christian Geishauser, Hsien-Chin Lin, Carel van Niekerk, Michael Heck, Shutong Feng, and Milica Gašić. arXiv, 2022.
 - [Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems](https://arxiv.org/abs/2208.04560)
@@ -1883,6 +1917,8 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Zhouhao Yang, Yihong Guo, Pan Xu, Anqi Liu, and Animashree Anandkumar. AISTATS, 2023.
 - [Oracle-Efficient Pessimism: Offline Policy Optimization in Contextual Bandits](https://arxiv.org/abs/2306.07923)
   - Lequn Wang, Akshay Krishnamurthy, and Aleksandrs Slivkins. arXiv, 2023.
+- [Pessimistic Off-Policy Multi-Objective Optimization](https://arxiv.org/abs/2310.18617)
+  - Shima Alizadeh, Aniruddha Bhargava, Karthick Gopalswamy, Lalit Jain, Branislav Kveton, and Ge Liu. arXiv, 2023.
 - [Unified Off-Policy Learning to Rank: a Reinforcement Learning Perspective](https://arxiv.org/abs/2306.07528)
   - Zeyu Zhang, Yi Su, Hui Yuan, Yiran Wu, Rishab Balasubramanian, Qingyun Wu, Huazheng Wang, and Mengdi Wang. arXiv, 2023.
 - [Uncertainty-Aware Off-Policy Learning](https://arxiv.org/abs/2303.06389)
@@ -1961,6 +1997,10 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Adith Swaminathan and Thorsten Joachims. ICML, 2015.
 
 ### Off-Policy Evaluation and Learning: Benchmarks/Experiments
+- [Towards Assessing and Benchmarking Risk-Return Tradeoff of Off-Policy Evaluation](https://arxiv.org/abs/2311.18207)
+  - Haruka Kiyohara, Ren Kishimoto, Kosuke Kawakami, Ken Kobayashi, Kazuhide Nakata, and Yuta Saito. arXiv, 2023.
+- [SCOPE-RL: A Python Library for Offline Reinforcement Learning and Off-Policy Evaluation](https://arxiv.org/abs/2311.18206)
+  - Haruka Kiyohara, Ren Kishimoto, Kosuke Kawakami, Ken Kobayashi, Kazuhide Nakata, and Yuta Saito. arXiv, 2023.
 - [Offline Policy Comparison with Confidence: Benchmarks and Baselines](https://arxiv.org/abs/2205.10739)
   - Anurag Koul, Mariano Phielipp, and Alan Fern. arXiv, 2022.
 - [Extending Open Bandit Pipeline to Simulate Industry Challenges](https://arxiv.org/abs/2209.04147)
@@ -1977,6 +2017,8 @@ For any questions, feel free to contact: hk844@cornell.edu
 ### Off-Policy Evaluation and Learning: Applications
 - [HOPE: Human-Centric Off-Policy Evaluation for E-Learning and Healthcare](https://arxiv.org/abs/2302.09212)
   - Ge Gao, Song Ju, Markel Sanz Ausin, and Min Chi. AAMAS, 2023.
+- [When is Off-Policy Evaluation Useful? A Data-Centric Perspective](https://arxiv.org/abs/2311.14110)
+  - Hao Sun, Alex J. Chan, Nabeel Seedat, Alihan Hüyük, and Mihaela van der Schaar. arXiv, 2023.
 - [Counterfactual Evaluation of Peer-Review Assignment Policies](https://arxiv.org/abs/2305.17339)
   - Martin Saveski, Steven Jecmen, Nihar B. Shah, and Johan Ugander. arXiv, 2023.
 - [Balanced Off-Policy Evaluation for Personalized Pricing](https://arxiv.org/abs/2302.12736)
@@ -2013,7 +2055,7 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Léon Bottou, Jonas Peters, Joaquin Quiñonero-Candela, Denis X. Charles, D. Max Chickering, Elon Portugaly, Dipankar Ray, Patrice Simard, and Ed Snelson. JMLR, 2013.
 
 ## Open Source Software/Implementations
-- [SCOPE-RL: A Python library for offline reinforcement learning, off-policy evaluation, and selection](https://github.com/hakuhodo-technologies/scope-rl) [[documentation](https://scope-rl.readthedocs.io/en/latest/)]
+- [SCOPE-RL: A Python library for offline reinforcement learning, off-policy evaluation, and selection](https://github.com/hakuhodo-technologies/scope-rl) [[paper1](https://arxiv.org/abs/2311.18206)] [[paper2](https://arxiv.org/abs/2311.18207)] [[documentation](https://scope-rl.readthedocs.io/en/latest/)] 
   - Haruka Kiyohara, Ren Kishimoto, Kosuke Kawakami, Ken Kobayashi, Kazuhide Nakata, and Yuta Saito.
 - [Open Bandit Pipeline: a research framework for bandit algorithms and off-policy evaluation](https://github.com/st-tech/zr-obp) [[paper](https://arxiv.org/abs/2008.07146)] [[documentation](https://zr-obp.readthedocs.io/en/latest/index.html)] [[dataset](https://research.zozo.com/data.html)]
   - Yuta Saito, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita.
