@@ -78,6 +78,18 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Robert Kirk, Amy Zhang, Edward Grefenstette, and Tim Rocktäschel. arXiv, 2021.
 
 ### Offline RL: Theory/Methods
+- [Critic-Guided Decision Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2312.13716)
+  - Yuanfu Wang, Chao Yang, Ying Wen, Yu Liu, and Yu Qiao. AAAI, 2024.
+- [CUDC: A Curiosity-Driven Unsupervised Data Collection Method with Adaptive Temporal Distances for Offline Reinforcement Learning](https://arxiv.org/abs/2312.12191)
+  - Chenyu Sun, Hangwei Qian, and Chunyan Miao. AAAI, 2024.
+- [Neural Network Approximation for Pessimistic Offline Reinforcement Learning](https://arxiv.org/abs/2312.11863)
+  - Di Wu, Yuling Jiao, Li Shen, Haizhao Yang, and Xiliang Lu. AAAI, 2024.
+- [A Perspective of Q-value Estimation on Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2312.07685)
+  - Yinmin Zhang, Jie Liu, Chuming Li, Yazhe Niu, Yaodong Yang, Yu Liu, and Wanli Ouyang. AAAI, 2024.
+- [The Generalization Gap in Offline Reinforcement Learning](https://arxiv.org/abs/2312.05742)
+  - Ishita Mediratta, Qingfei You, Minqi Jiang, and Roberta Raileanu. arXiv, 2023.
+- [Decoupling Meta-Reinforcement Learning with Gaussian Task Contexts and Skills](https://arxiv.org/abs/2312.06518)
+  - Hongcai He, Anjie Zhu, Shuang Liang, Feiyu Chen, and Jie Shao. arXiv, 2023.
 - [MICRO: Model-Based Offline Reinforcement Learning with a Conservative Bellman Operator](https://arxiv.org/abs/2312.03991)
   - Xiao-Yin Liu, Xiao-Hu Zhou, Guo-Tao Li, Hao Li, Mei-Jiang Gui, Tian-Yu Xiang, De-Xing Huang, and Zeng-Guang Hou. arXiv, 2023.
 - [Model-Based Epistemic Variance of Values for Risk-Aware Policy Optimization](https://arxiv.org/abs/2312.04386)
@@ -1116,6 +1128,8 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Phillip Swazinna, Steffen Udluft, Daniel Hein, and Thomas Runkler. ESANN, 2021.
 - [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://arxiv.org/abs/1812.02783)
   - Kaiqing Zhang, Zhuoran Yang, Han Liu, Tong Zhang, and Tamer Başar. IEEE T AUTOMATIC CONTROL, 2021.
+- [Can Active Sampling Reduce Causal Confusion in Offline Reinforcement Learning?](https://arxiv.org/abs/2312.17168)
+  - Gunshi Gupta, Tim G. J. Rudner, Rowan Thomas McAllister, Adrien Gaidon, and Yarin Gal. CLeaR, 2021.
 - [Reinforcement Learning via Fenchel-Rockafellar Duality](https://arxiv.org/abs/2001.01866) [[software](https://github.com/google-research/dice_rl)]
   - Ofir Nachum and Bo Dai. arXiv, 2020.
 - [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359) [[website](https://awacrl.github.io/)] [[code](https://github.com/vitchyr/rlkit/tree/master/examples/awac)] [[blog](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
@@ -1342,6 +1356,10 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Scott Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, and Joelle Pineau. arXiv, 2019.
 
 ### Offline RL: Applications
+- [Advancing RAN Slicing with Offline Reinforcement Learning](https://arxiv.org/abs/2312.10547)
+  - Kun Yang, Shu-ping Yeh, Menglei Zhang, Jerry Sydir, Jing Yang, and Cong Shen. arXiv, 2023.
+- [Traffic Signal Control Using Lightweight Transformers: An Offline-to-Online RL Approach](https://arxiv.org/abs/2312.07795)
+  - Xingshuai Huang, Di Wu, and Benoit Boulet. arXiv, 2023.
 - [Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning](https://arxiv.org/abs/2311.18094)
   - Franco Terranova, M. Voetberg, Brian Nord, and Amanda Pagul. arXiv, 2023.
 - [A Fully Data-Driven Approach for Realistic Traffic Signal Control Using Offline Reinforcement Learning](https://arxiv.org/abs/2311.15920)
@@ -1605,6 +1623,8 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Noveen Sachdeva, Lequn Wang, Dawen Liang, Nathan Kallus, and Julian McAuley. arXiv, 2023.
 - [Distributional Off-Policy Evaluation for Slate Recommendations](https://arxiv.org/abs/2308.14165)
   - Shreyas Chaudhari, David Arbour, Georgios Theocharous, and Nikos Vlassis. arXiv, 2023.
+- [Debiased Machine Learning and Network Cohesion for Doubly-Robust Differential Reward Models in Contextual Bandits](https://arxiv.org/abs/2312.06403)
+  - Easton K. Huch, Jieru Shi, Madeline R. Abbott, Jessica R. Golbus, Alexander Moreno, and Walter H. Dempsey. arXiv, 2023.
 - [Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces](https://arxiv.org/abs/2308.03443)
   - Tatsuhiro Shimizu. arXiv, 2023.
 - [Offline Policy Evaluation with Out-of-Sample Guarantees](https://arxiv.org/abs/2301.08649)
