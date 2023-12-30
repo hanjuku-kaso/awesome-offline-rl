@@ -1761,6 +1761,8 @@ For any questions, feel free to contact: hk844@cornell.edu
   - Chris Dann, Mohammad Ghavamzadeh, and Teodor V. Marinov. AISTATS, 2023.
 - [Off-Policy Evaluation with Online Adaptation for Robot Exploration in Challenging Environments](https://arxiv.org/abs/2204.03140)
   - Yafei Hu, Junyi Geng, Chen Wang, John Keller, and Sebastian Scherer. RA-L, 2023.
+- [Conservative Exploration for Policy Optimization via Off-Policy Policy Evaluation](https://arxiv.org/abs/2312.15458)
+  - Paul Daoudi, Mathias Formoso, Othman Gaizi, Achraf Azize, and Evrard Garcelon. arXiv, 2023.
 - [Robust Offline Policy Evaluation and Optimization with Heavy-Tailed Rewards](https://arxiv.org/abs/2310.18715)
   - Jin Zhu, Runzhe Wan, Zhengling Qi, Shikai Luo, and Chengchun Shi. arXiv, 2023.
 - [When is Offline Policy Selection Sample Efficient for Reinforcement Learning?](https://arxiv.org/abs/2312.02355)
